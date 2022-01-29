@@ -1,0 +1,40 @@
+"(1)",(2),(38),(39)
+1,cereal,272.68,230.89
+2,gram,9.35,4.45
+3,cereal substitutes,0.43,1.37
+4,pulses and pulse products,91.48,60.90
+5,milk and milk products,235.40,284.13
+6,sugar,34.22,31.79
+7,salt,5.45,3.48
+8,edible oil,125.63,83.53
+9,"egg, fish & meat",249.48,156.15
+10,vegetables,195.02,178.39
+11,fruits (fresh),156.44,110.79
+12,fruits (dry),51.65,41.97
+13,spices,134.44,80.70
+14,"beverages, refreshments, etc.",323.80,349.18
+15,food: total (1-14),1885.47,1617.70
+16,"pan, tobacco & intoxicants",52.78,61.94
+17,fuel and light,260.32,271.75
+18,clothing & bedding,241.78,220.85
+19,footwear,31.46,40.50
+20,education,412.16,286.48
+21,medical (institutional),64.01,51.33
+22,medical (non-institutional),108.04,104.75
+23,entertainment,79.11,72.29
+24,minor durable-type goods,7.42,15.01
+25,toilet articles,100.55,70.82
+26,other household consumables,86.22,64.70
+27,consum. services excl. conveyance,216.95,198.65
+28,conveyance,428.26,269.76
+29,rent,156.60,275.34
+30,taxes & cesses,51.50,31.96
+31,durable goods,116.36,204.87
+32,non-food: total (16-31),2413.51,2240.99
+33,total expenditure (15+32),4298.98,3858.70
+34,"cooked meals recd. free inworkpl.*",4.94,9.56
+35,cooked meals recd. as assistance *,6.22,12.68
+36,clothing & footwear (2nd hand) **,0.24,0.43
+37,"@books, journals, etc. (2nd hand)",0.31,0.80
+38,"$durables (2ndhand)",2.46,2.42
+39,imputed rent,807.35,742.05

@@ -1,0 +1,2892 @@
+nfhs4_statecode,nfhs4_state,SL_NO,ITEM_CATEGORY,region,mpce
+AP,Andhra Pradesh,1,cereal,Rural,219.85
+AR,Arunachal Pradesh,1,cereal,Rural,281.55
+AS,Assam,1,cereal,Rural,182.82
+BR,Bihar,1,cereal,Rural,193.86
+CT,Chhattisgarh,1,cereal,Rural,125.62
+AP,Andhra Pradesh,2,gram,Rural,2.24
+AR,Arunachal Pradesh,2,gram,Rural,1.14
+AS,Assam,2,gram,Rural,0.96
+BR,Bihar,2,gram,Rural,3.88
+CT,Chhattisgarh,2,gram,Rural,1.43
+AP,Andhra Pradesh,3,cereal substitutes,Rural,0.27
+AR,Arunachal Pradesh,3,cereal substitutes,Rural,3.57
+AS,Assam,3,cereal substitutes,Rural,0.02
+BR,Bihar,3,cereal substitutes,Rural,0.02
+CT,Chhattisgarh,3,cereal substitutes,Rural,0
+AP,Andhra Pradesh,4,pulses and pulse products,Rural,62.24
+AR,Arunachal Pradesh,4,pulses and pulse products,Rural,34.31
+AS,Assam,4,pulses and pulse products,Rural,40.96
+BR,Bihar,4,pulses and pulse products,Rural,41.27
+CT,Chhattisgarh,4,pulses and pulse products,Rural,38.26
+AP,Andhra Pradesh,5,milk and milk products,Rural,180.25
+AR,Arunachal Pradesh,5,milk and milk products,Rural,56.02
+AS,Assam,5,milk and milk products,Rural,53
+BR,Bihar,5,milk and milk products,Rural,136.61
+CT,Chhattisgarh,5,milk and milk products,Rural,27.82
+AP,Andhra Pradesh,6,sugar,Rural,19.06
+AR,Arunachal Pradesh,6,sugar,Rural,20.1
+AS,Assam,6,sugar,Rural,16.75
+BR,Bihar,6,sugar,Rural,16.77
+CT,Chhattisgarh,6,sugar,Rural,17.94
+AP,Andhra Pradesh,7,salt,Rural,3.53
+AR,Arunachal Pradesh,7,salt,Rural,4.52
+AS,Assam,7,salt,Rural,3.07
+BR,Bihar,7,salt,Rural,3.25
+CT,Chhattisgarh,7,salt,Rural,2.69
+AP,Andhra Pradesh,8,edible oil,Rural,73.05
+AR,Arunachal Pradesh,8,edible oil,Rural,55.47
+AS,Assam,8,edible oil,Rural,70.42
+BR,Bihar,8,edible oil,Rural,60.21
+CT,Chhattisgarh,8,edible oil,Rural,51.29
+AP,Andhra Pradesh,9,"egg, fish & meat",Rural,167.78
+AR,Arunachal Pradesh,9,"egg, fish & meat",Rural,323.99
+AS,Assam,9,"egg, fish & meat",Rural,192.26
+BR,Bihar,9,"egg, fish & meat",Rural,60.04
+CT,Chhattisgarh,9,"egg, fish & meat",Rural,56.33
+AP,Andhra Pradesh,10,vegetables,Rural,153.13
+AR,Arunachal Pradesh,10,vegetables,Rural,211.32
+AS,Assam,10,vegetables,Rural,142.15
+BR,Bihar,10,vegetables,Rural,111.16
+CT,Chhattisgarh,10,vegetables,Rural,144.88
+AP,Andhra Pradesh,11,fruits (fresh),Rural,79.72
+AR,Arunachal Pradesh,11,fruits (fresh),Rural,60.04
+AS,Assam,11,fruits (fresh),Rural,35.59
+BR,Bihar,11,fruits (fresh),Rural,25.55
+CT,Chhattisgarh,11,fruits (fresh),Rural,25.77
+AP,Andhra Pradesh,12,fruits (dry),Rural,25.66
+AR,Arunachal Pradesh,12,fruits (dry),Rural,7.5
+AS,Assam,12,fruits (dry),Rural,3.94
+BR,Bihar,12,fruits (dry),Rural,4.09
+CT,Chhattisgarh,12,fruits (dry),Rural,3.04
+AP,Andhra Pradesh,13,spices,Rural,81.12
+AR,Arunachal Pradesh,13,spices,Rural,55.36
+AS,Assam,13,spices,Rural,44.78
+BR,Bihar,13,spices,Rural,45.82
+CT,Chhattisgarh,13,spices,Rural,52.58
+AP,Andhra Pradesh,14,"beverages, refreshments, etc.",Rural,189.74
+AR,Arunachal Pradesh,14,"beverages, refreshments, etc.",Rural,175.89
+AS,Assam,14,"beverages, refreshments, etc.",Rural,122.78
+BR,Bihar,14,"beverages, refreshments, etc.",Rural,98.86
+CT,Chhattisgarh,14,"beverages, refreshments, etc.",Rural,131.7
+AP,Andhra Pradesh,15,food: total (1-14),Rural,1257.63
+AR,Arunachal Pradesh,15,food: total (1-14),Rural,1290.79
+AS,Assam,15,food: total (1-14),Rural,909.5
+BR,Bihar,15,food: total (1-14),Rural,801.39
+CT,Chhattisgarh,15,food: total (1-14),Rural,679.36
+AP,Andhra Pradesh,16,"pan, tobacco & intoxicants",Rural,80.43
+AR,Arunachal Pradesh,16,"pan, tobacco & intoxicants",Rural,122.49
+AS,Assam,16,"pan, tobacco & intoxicants",Rural,57.58
+BR,Bihar,16,"pan, tobacco & intoxicants",Rural,17.64
+CT,Chhattisgarh,16,"pan, tobacco & intoxicants",Rural,57.45
+AP,Andhra Pradesh,17,fuel and light,Rural,164.81
+AR,Arunachal Pradesh,17,fuel and light,Rural,264.92
+AS,Assam,17,fuel and light,Rural,149.42
+BR,Bihar,17,fuel and light,Rural,134.96
+CT,Chhattisgarh,17,fuel and light,Rural,140.94
+AP,Andhra Pradesh,18,clothing & bedding,Rural,135.62
+AR,Arunachal Pradesh,18,clothing & bedding,Rural,121.11
+AS,Assam,18,clothing & bedding,Rural,101.83
+BR,Bihar,18,clothing & bedding,Rural,117.11
+CT,Chhattisgarh,18,clothing & bedding,Rural,117.2
+AP,Andhra Pradesh,19,footwear,Rural,19.81
+AR,Arunachal Pradesh,19,footwear,Rural,28.82
+AS,Assam,19,footwear,Rural,17.83
+BR,Bihar,19,footwear,Rural,14.73
+CT,Chhattisgarh,19,footwear,Rural,16.15
+AP,Andhra Pradesh,20,education,Rural,97.05
+AR,Arunachal Pradesh,20,education,Rural,44.38
+AS,Assam,20,education,Rural,38.33
+BR,Bihar,20,education,Rural,46.68
+CT,Chhattisgarh,20,education,Rural,30.7
+AP,Andhra Pradesh,21,medical (institutional),Rural,39.82
+AR,Arunachal Pradesh,21,medical (institutional),Rural,11.15
+AS,Assam,21,medical (institutional),Rural,5.23
+BR,Bihar,21,medical (institutional),Rural,9.59
+CT,Chhattisgarh,21,medical (institutional),Rural,10.69
+AP,Andhra Pradesh,22,medical (non-institutional),Rural,93.28
+AR,Arunachal Pradesh,22,medical (non-institutional),Rural,31.16
+AS,Assam,22,medical (non-institutional),Rural,21.39
+BR,Bihar,22,medical (non-institutional),Rural,32.27
+CT,Chhattisgarh,22,medical (non-institutional),Rural,24.25
+AP,Andhra Pradesh,23,entertainment,Rural,44.82
+AR,Arunachal Pradesh,23,entertainment,Rural,38.42
+AS,Assam,23,entertainment,Rural,30.29
+BR,Bihar,23,entertainment,Rural,13.96
+CT,Chhattisgarh,23,entertainment,Rural,15.47
+AP,Andhra Pradesh,24,minor durable-type goods,Rural,4.99
+AR,Arunachal Pradesh,24,minor durable-type goods,Rural,26.35
+AS,Assam,24,minor durable-type goods,Rural,8.21
+BR,Bihar,24,minor durable-type goods,Rural,6.23
+CT,Chhattisgarh,24,minor durable-type goods,Rural,6.68
+AP,Andhra Pradesh,25,toilet articles,Rural,57.94
+AR,Arunachal Pradesh,25,toilet articles,Rural,48.09
+AS,Assam,25,toilet articles,Rural,29.43
+BR,Bihar,25,toilet articles,Rural,25.89
+CT,Chhattisgarh,25,toilet articles,Rural,39.5
+AP,Andhra Pradesh,26,other household consumables,Rural,54.56
+AR,Arunachal Pradesh,26,other household consumables,Rural,38.27
+AS,Assam,26,other household consumables,Rural,21.48
+BR,Bihar,26,other household consumables,Rural,23.81
+CT,Chhattisgarh,26,other household consumables,Rural,32.92
+AP,Andhra Pradesh,27,consum. services excl. conveyance,Rural,98.79
+AR,Arunachal Pradesh,27,consum. services excl. conveyance,Rural,87.5
+AS,Assam,27,consum. services excl. conveyance,Rural,55.42
+BR,Bihar,27,consum. services excl. conveyance,Rural,57.78
+CT,Chhattisgarh,27,consum. services excl. conveyance,Rural,58.4
+AP,Andhra Pradesh,28,conveyance,Rural,130.77
+AR,Arunachal Pradesh,28,conveyance,Rural,71.98
+AS,Assam,28,conveyance,Rural,54.9
+BR,Bihar,28,conveyance,Rural,34.55
+CT,Chhattisgarh,28,conveyance,Rural,65.73
+AP,Andhra Pradesh,29,rent,Rural,24.72
+AR,Arunachal Pradesh,29,rent,Rural,19.92
+AS,Assam,29,rent,Rural,3.48
+BR,Bihar,29,rent,Rural,0.42
+CT,Chhattisgarh,29,rent,Rural,6.53
+AP,Andhra Pradesh,30,taxes & cesses,Rural,9.67
+AR,Arunachal Pradesh,30,taxes & cesses,Rural,4.03
+AS,Assam,30,taxes & cesses,Rural,1.78
+BR,Bihar,30,taxes & cesses,Rural,0.2
+CT,Chhattisgarh,30,taxes & cesses,Rural,2.83
+AP,Andhra Pradesh,31,durable goods,Rural,71.79
+AR,Arunachal Pradesh,31,durable goods,Rural,98.04
+AS,Assam,31,durable goods,Rural,48.45
+BR,Bihar,31,durable goods,Rural,50.73
+CT,Chhattisgarh,31,durable goods,Rural,72.97
+AP,Andhra Pradesh,32,non-food: total (16-31),Rural,1128.86
+AR,Arunachal Pradesh,32,non-food: total (16-31),Rural,1056.64
+AS,Assam,32,non-food: total (16-31),Rural,645.05
+BR,Bihar,32,non-food: total (16-31),Rural,586.55
+CT,Chhattisgarh,32,non-food: total (16-31),Rural,698.4
+AP,Andhra Pradesh,33,total expenditure (15+32),Rural,2386.49
+AR,Arunachal Pradesh,33,total expenditure (15+32),Rural,2347.43
+AS,Assam,33,total expenditure (15+32),Rural,1554.55
+BR,Bihar,33,total expenditure (15+32),Rural,1387.93
+CT,Chhattisgarh,33,total expenditure (15+32),Rural,1377.76
+AP,Andhra Pradesh,34,"cooked meals recd. free inworkpl.*",Rural,3.9
+AR,Arunachal Pradesh,34,"cooked meals recd. free inworkpl.*",Rural,9.5
+AS,Assam,34,"cooked meals recd. free inworkpl.*",Rural,1.5
+BR,Bihar,34,"cooked meals recd. free inworkpl.*",Rural,1.47
+CT,Chhattisgarh,34,"cooked meals recd. free inworkpl.*",Rural,2.25
+AP,Andhra Pradesh,35,cooked meals recd. as assistance *,Rural,24.93
+AR,Arunachal Pradesh,35,cooked meals recd. as assistance *,Rural,3.59
+AS,Assam,35,cooked meals recd. as assistance *,Rural,20.86
+BR,Bihar,35,cooked meals recd. as assistance *,Rural,30.45
+CT,Chhattisgarh,35,cooked meals recd. as assistance *,Rural,54.85
+AP,Andhra Pradesh,36,clothing & footwear (2nd hand) **,Rural,0.02
+AR,Arunachal Pradesh,36,clothing & footwear (2nd hand) **,Rural,4.91
+AS,Assam,36,clothing & footwear (2nd hand) **,Rural,0.23
+BR,Bihar,36,clothing & footwear (2nd hand) **,Rural,0.05
+CT,Chhattisgarh,36,clothing & footwear (2nd hand) **,Rural,0.09
+AP,Andhra Pradesh,37,"@books, journals, etc. (2nd hand)",Rural,0.19
+AR,Arunachal Pradesh,37,"@books, journals, etc. (2nd hand)",Rural,0.26
+AS,Assam,37,"@books, journals, etc. (2nd hand)",Rural,0.46
+BR,Bihar,37,"@books, journals, etc. (2nd hand)",Rural,0.34
+CT,Chhattisgarh,37,"@books, journals, etc. (2nd hand)",Rural,0.26
+AP,Andhra Pradesh,38,"$durables (2ndhand)",Rural,0.31
+AR,Arunachal Pradesh,38,"$durables (2ndhand)",Rural,8
+AS,Assam,38,"$durables (2ndhand)",Rural,0.61
+BR,Bihar,38,"$durables (2ndhand)",Rural,0.35
+CT,Chhattisgarh,38,"$durables (2ndhand)",Rural,0.98
+AP,Andhra Pradesh,39,imputed rent,Rural,153.05
+AR,Arunachal Pradesh,39,imputed rent,Rural,12.99
+AS,Assam,39,imputed rent,Rural,20.12
+BR,Bihar,39,imputed rent,Rural,8.08
+CT,Chhattisgarh,39,imputed rent,Rural,27.55
+DL,NCT of Delhi,1,cereal,Rural,174.28
+GA,Goa,1,cereal,Rural,160.63
+GJ,Gujarat,1,cereal,Rural,137.73
+HR,Haryana,1,cereal,Rural,126.46
+HP,Himachal Pradesh,1,cereal,Rural,199.23
+DL,NCT of Delhi,2,gram,Rural,5.37
+GA,Goa,2,gram,Rural,3.37
+GJ,Gujarat,2,gram,Rural,4.25
+HR,Haryana,2,gram,Rural,5.1
+HP,Himachal Pradesh,2,gram,Rural,9.02
+DL,NCT of Delhi,3,cereal substitutes,Rural,0
+GA,Goa,3,cereal substitutes,Rural,0.13
+GJ,Gujarat,3,cereal substitutes,Rural,0.52
+HR,Haryana,3,cereal substitutes,Rural,0.2
+HP,Himachal Pradesh,3,cereal substitutes,Rural,0
+DL,NCT of Delhi,4,pulses and pulse products,Rural,54.91
+GA,Goa,4,pulses and pulse products,Rural,40.44
+GJ,Gujarat,4,pulses and pulse products,Rural,56.92
+HR,Haryana,4,pulses and pulse products,Rural,42.61
+HP,Himachal Pradesh,4,pulses and pulse products,Rural,69.17
+DL,NCT of Delhi,5,milk and milk products,Rural,346.38
+GA,Goa,5,milk and milk products,Rural,166.13
+GJ,Gujarat,5,milk and milk products,Rural,272.59
+HR,Haryana,5,milk and milk products,Rural,570.53
+HP,Himachal Pradesh,5,milk and milk products,Rural,330.65
+DL,NCT of Delhi,6,sugar,Rural,40.33
+GA,Goa,6,sugar,Rural,36.2
+GJ,Gujarat,6,sugar,Rural,31.24
+HR,Haryana,6,sugar,Rural,47.55
+HP,Himachal Pradesh,6,sugar,Rural,34.97
+DL,NCT of Delhi,7,salt,Rural,2.96
+GA,Goa,7,salt,Rural,2.95
+GJ,Gujarat,7,salt,Rural,2.15
+HR,Haryana,7,salt,Rural,3.42
+HP,Himachal Pradesh,7,salt,Rural,2.15
+DL,NCT of Delhi,8,edible oil,Rural,71.52
+GA,Goa,8,edible oil,Rural,63.54
+GJ,Gujarat,8,edible oil,Rural,95.92
+HR,Haryana,8,edible oil,Rural,40.91
+HP,Himachal Pradesh,8,edible oil,Rural,70.15
+DL,NCT of Delhi,9,"egg, fish & meat",Rural,44.59
+GA,Goa,9,"egg, fish & meat",Rural,410.44
+GJ,Gujarat,9,"egg, fish & meat",Rural,38.96
+HR,Haryana,9,"egg, fish & meat",Rural,21.89
+HP,Himachal Pradesh,9,"egg, fish & meat",Rural,49.13
+DL,NCT of Delhi,10,vegetables,Rural,175.65
+GA,Goa,10,vegetables,Rural,153.9
+GJ,Gujarat,10,vegetables,Rural,164.96
+HR,Haryana,10,vegetables,Rural,135.33
+HP,Himachal Pradesh,10,vegetables,Rural,168.79
+DL,NCT of Delhi,11,fruits (fresh),Rural,116.54
+GA,Goa,11,fruits (fresh),Rural,240.76
+GJ,Gujarat,11,fruits (fresh),Rural,47.6
+HR,Haryana,11,fruits (fresh),Rural,59.5
+HP,Himachal Pradesh,11,fruits (fresh),Rural,77.76
+DL,NCT of Delhi,12,fruits (dry),Rural,52.37
+GA,Goa,12,fruits (dry),Rural,20.33
+GJ,Gujarat,12,fruits (dry),Rural,16.64
+HR,Haryana,12,fruits (dry),Rural,11.49
+HP,Himachal Pradesh,12,fruits (dry),Rural,25.65
+DL,NCT of Delhi,13,spices,Rural,102.56
+GA,Goa,13,spices,Rural,77.65
+GJ,Gujarat,13,spices,Rural,68.96
+HR,Haryana,13,spices,Rural,64.61
+HP,Himachal Pradesh,13,spices,Rural,60.64
+DL,NCT of Delhi,14,"beverages, refreshments, etc.",Rural,314.51
+GA,Goa,14,"beverages, refreshments, etc.",Rural,258.65
+GJ,Gujarat,14,"beverages, refreshments, etc.",Rural,160.85
+HR,Haryana,14,"beverages, refreshments, etc.",Rural,146.71
+HP,Himachal Pradesh,14,"beverages, refreshments, etc.",Rural,211.66
+DL,NCT of Delhi,15,food: total (1-14),Rural,1501.99
+GA,Goa,15,food: total (1-14),Rural,1635.12
+GJ,Gujarat,15,food: total (1-14),Rural,1099.29
+HR,Haryana,15,food: total (1-14),Rural,1276.3
+HP,Himachal Pradesh,15,food: total (1-14),Rural,1308.97
+DL,NCT of Delhi,16,"pan, tobacco & intoxicants",Rural,28.25
+GA,Goa,16,"pan, tobacco & intoxicants",Rural,38.74
+GJ,Gujarat,16,"pan, tobacco & intoxicants",Rural,44.03
+HR,Haryana,16,"pan, tobacco & intoxicants",Rural,57.61
+HP,Himachal Pradesh,16,"pan, tobacco & intoxicants",Rural,72.13
+DL,NCT of Delhi,17,fuel and light,Rural,261.64
+GA,Goa,17,fuel and light,Rural,201.7
+GJ,Gujarat,17,fuel and light,Rural,171.25
+HR,Haryana,17,fuel and light,Rural,194.44
+HP,Himachal Pradesh,17,fuel and light,Rural,226.72
+DL,NCT of Delhi,18,clothing & bedding,Rural,197.58
+GA,Goa,18,clothing & bedding,Rural,171.12
+GJ,Gujarat,18,clothing & bedding,Rural,140.39
+HR,Haryana,18,clothing & bedding,Rural,183.08
+HP,Himachal Pradesh,18,clothing & bedding,Rural,201.8
+DL,NCT of Delhi,19,footwear,Rural,33.74
+GA,Goa,19,footwear,Rural,34.95
+GJ,Gujarat,19,footwear,Rural,25.11
+HR,Haryana,19,footwear,Rural,34.6
+HP,Himachal Pradesh,19,footwear,Rural,54.36
+DL,NCT of Delhi,20,education,Rural,128.1
+GA,Goa,20,education,Rural,75.84
+GJ,Gujarat,20,education,Rural,49.13
+HR,Haryana,20,education,Rural,194.28
+HP,Himachal Pradesh,20,education,Rural,144.76
+DL,NCT of Delhi,21,medical (institutional),Rural,6.81
+GA,Goa,21,medical (institutional),Rural,38.37
+GJ,Gujarat,21,medical (institutional),Rural,12.63
+HR,Haryana,21,medical (institutional),Rural,30.14
+HP,Himachal Pradesh,21,medical (institutional),Rural,48.48
+DL,NCT of Delhi,22,medical (non-institutional),Rural,47.82
+GA,Goa,22,medical (non-institutional),Rural,72.11
+GJ,Gujarat,22,medical (non-institutional),Rural,30
+HR,Haryana,22,medical (non-institutional),Rural,61.1
+HP,Himachal Pradesh,22,medical (non-institutional),Rural,82.79
+DL,NCT of Delhi,23,entertainment,Rural,88.77
+GA,Goa,23,entertainment,Rural,77.72
+GJ,Gujarat,23,entertainment,Rural,35.48
+HR,Haryana,23,entertainment,Rural,26.28
+HP,Himachal Pradesh,23,entertainment,Rural,35.39
+DL,NCT of Delhi,24,minor durable-type goods,Rural,3.05
+GA,Goa,24,minor durable-type goods,Rural,4.76
+GJ,Gujarat,24,minor durable-type goods,Rural,8.62
+HR,Haryana,24,minor durable-type goods,Rural,4.62
+HP,Himachal Pradesh,24,minor durable-type goods,Rural,6.61
+DL,NCT of Delhi,25,toilet articles,Rural,53.4
+GA,Goa,25,toilet articles,Rural,65.51
+GJ,Gujarat,25,toilet articles,Rural,40.12
+HR,Haryana,25,toilet articles,Rural,46.19
+HP,Himachal Pradesh,25,toilet articles,Rural,57.1
+DL,NCT of Delhi,26,other household consumables,Rural,55.66
+GA,Goa,26,other household consumables,Rural,67.26
+GJ,Gujarat,26,other household consumables,Rural,38.22
+HR,Haryana,26,other household consumables,Rural,44.82
+HP,Himachal Pradesh,26,other household consumables,Rural,44.97
+DL,NCT of Delhi,27,consum. services excl. conveyance,Rural,125.02
+GA,Goa,27,consum. services excl. conveyance,Rural,228.47
+GJ,Gujarat,27,consum. services excl. conveyance,Rural,89.99
+HR,Haryana,27,consum. services excl. conveyance,Rural,99.45
+HP,Himachal Pradesh,27,consum. services excl. conveyance,Rural,109.79
+DL,NCT of Delhi,28,conveyance,Rural,184.64
+GA,Goa,28,conveyance,Rural,343.79
+GJ,Gujarat,28,conveyance,Rural,136.49
+HR,Haryana,28,conveyance,Rural,145.71
+HP,Himachal Pradesh,28,conveyance,Rural,158.56
+DL,NCT of Delhi,29,rent,Rural,122.13
+GA,Goa,29,rent,Rural,30.39
+GJ,Gujarat,29,rent,Rural,6.17
+HR,Haryana,29,rent,Rural,15.08
+HP,Himachal Pradesh,29,rent,Rural,25.54
+DL,NCT of Delhi,30,taxes & cesses,Rural,16.71
+GA,Goa,30,taxes & cesses,Rural,48.94
+GJ,Gujarat,30,taxes & cesses,Rural,9.9
+HR,Haryana,30,taxes & cesses,Rural,4.36
+HP,Himachal Pradesh,30,taxes & cesses,Rural,10.99
+DL,NCT of Delhi,31,durable goods,Rural,133.29
+GA,Goa,31,durable goods,Rural,142.87
+GJ,Gujarat,31,durable goods,Rural,96.87
+HR,Haryana,31,durable goods,Rural,109.23
+HP,Himachal Pradesh,31,durable goods,Rural,185.35
+DL,NCT of Delhi,32,non-food: total (16-31),Rural,1486.6
+GA,Goa,32,non-food: total (16-31),Rural,1642.52
+GJ,Gujarat,32,non-food: total (16-31),Rural,934.39
+HR,Haryana,32,non-food: total (16-31),Rural,1250.99
+HP,Himachal Pradesh,32,non-food: total (16-31),Rural,1465.36
+DL,NCT of Delhi,33,total expenditure (15+32),Rural,2988.58
+GA,Goa,33,total expenditure (15+32),Rural,3277.65
+GJ,Gujarat,33,total expenditure (15+32),Rural,2033.68
+HR,Haryana,33,total expenditure (15+32),Rural,2527.29
+HP,Himachal Pradesh,33,total expenditure (15+32),Rural,2774.32
+DL,NCT of Delhi,34,"cooked meals recd. free inworkpl.*",Rural,3.49
+GA,Goa,34,"cooked meals recd. free inworkpl.*",Rural,9.19
+GJ,Gujarat,34,"cooked meals recd. free inworkpl.*",Rural,1.62
+HR,Haryana,34,"cooked meals recd. free inworkpl.*",Rural,2.64
+HP,Himachal Pradesh,34,"cooked meals recd. free inworkpl.*",Rural,5.49
+DL,NCT of Delhi,35,cooked meals recd. as assistance *,Rural,5.35
+GA,Goa,35,cooked meals recd. as assistance *,Rural,0
+GJ,Gujarat,35,cooked meals recd. as assistance *,Rural,23.2
+HR,Haryana,35,cooked meals recd. as assistance *,Rural,12.83
+HP,Himachal Pradesh,35,cooked meals recd. as assistance *,Rural,36.92
+DL,NCT of Delhi,36,clothing & footwear (2nd hand) **,Rural,0.25
+GA,Goa,36,clothing & footwear (2nd hand) **,Rural,0
+GJ,Gujarat,36,clothing & footwear (2nd hand) **,Rural,1.13
+HR,Haryana,36,clothing & footwear (2nd hand) **,Rural,0.04
+HP,Himachal Pradesh,36,clothing & footwear (2nd hand) **,Rural,0.39
+DL,NCT of Delhi,37,"@books, journals, etc. (2nd hand)",Rural,1.33
+GA,Goa,37,"@books, journals, etc. (2nd hand)",Rural,0
+GJ,Gujarat,37,"@books, journals, etc. (2nd hand)",Rural,0.67
+HR,Haryana,37,"@books, journals, etc. (2nd hand)",Rural,0.33
+HP,Himachal Pradesh,37,"@books, journals, etc. (2nd hand)",Rural,0.34
+DL,NCT of Delhi,38,"$durables (2ndhand)",Rural,0.07
+GA,Goa,38,"$durables (2ndhand)",Rural,0
+GJ,Gujarat,38,"$durables (2ndhand)",Rural,1.77
+HR,Haryana,38,"$durables (2ndhand)",Rural,4.19
+HP,Himachal Pradesh,38,"$durables (2ndhand)",Rural,2.8
+DL,NCT of Delhi,39,imputed rent,Rural,471.38
+GA,Goa,39,imputed rent,Rural,965.46
+GJ,Gujarat,39,imputed rent,Rural,52.59
+HR,Haryana,39,imputed rent,Rural,55.79
+HP,Himachal Pradesh,39,imputed rent,Rural,178.75
+JK,Jammu & Kashmir,NA,(2),Rural,NA
+JH,Jharkhand,NA,(2),Rural,NA
+KA,Karnataka,NA,(2),Rural,NA
+KL,Kerala,NA,(2),Rural,NA
+MP,Madhya Pradesh,NA,(2),Rural,NA
+JK,Jammu & Kashmir,1,cereal,Rural,189.58
+JH,Jharkhand,1,cereal,Rural,180.76
+KA,Karnataka,1,cereal,Rural,209.67
+KL,Kerala,1,cereal,Rural,246.58
+MP,Madhya Pradesh,1,cereal,Rural,131.94
+JK,Jammu & Kashmir,2,gram,Rural,4.33
+JH,Jharkhand,2,gram,Rural,3.5
+KA,Karnataka,2,gram,Rural,4
+KL,Kerala,2,gram,Rural,10.89
+MP,Madhya Pradesh,2,gram,Rural,2.36
+JK,Jammu & Kashmir,3,cereal substitutes,Rural,0
+JH,Jharkhand,3,cereal substitutes,Rural,0.18
+KA,Karnataka,3,cereal substitutes,Rural,0
+KL,Kerala,3,cereal substitutes,Rural,12.35
+MP,Madhya Pradesh,3,cereal substitutes,Rural,1.34
+JK,Jammu & Kashmir,4,pulses and pulse products,Rural,47.23
+JH,Jharkhand,4,pulses and pulse products,Rural,34.9
+KA,Karnataka,4,pulses and pulse products,Rural,46.07
+KL,Kerala,4,pulses and pulse products,Rural,46.31
+MP,Madhya Pradesh,4,pulses and pulse products,Rural,52.66
+JK,Jammu & Kashmir,5,milk and milk products,Rural,245.87
+JH,Jharkhand,5,milk and milk products,Rural,73.36
+KA,Karnataka,5,milk and milk products,Rural,120.59
+KL,Kerala,5,milk and milk products,Rural,145.95
+MP,Madhya Pradesh,5,milk and milk products,Rural,168.21
+JK,Jammu & Kashmir,6,sugar,Rural,18.9
+JH,Jharkhand,6,sugar,Rural,16.29
+KA,Karnataka,6,sugar,Rural,27.41
+KL,Kerala,6,sugar,Rural,31.67
+MP,Madhya Pradesh,6,sugar,Rural,31.2
+JK,Jammu & Kashmir,7,salt,Rural,4.88
+JH,Jharkhand,7,salt,Rural,2.89
+KA,Karnataka,7,salt,Rural,2.84
+KL,Kerala,7,salt,Rural,2.79
+MP,Madhya Pradesh,7,salt,Rural,2.06
+JK,Jammu & Kashmir,8,edible oil,Rural,88.24
+JH,Jharkhand,8,edible oil,Rural,65.51
+KA,Karnataka,8,edible oil,Rural,58.64
+KL,Kerala,8,edible oil,Rural,97.13
+MP,Madhya Pradesh,8,edible oil,Rural,57.59
+JK,Jammu & Kashmir,9,"egg, fish & meat",Rural,126
+JH,Jharkhand,9,"egg, fish & meat",Rural,74.9
+KA,Karnataka,9,"egg, fish & meat",Rural,90.76
+KL,Kerala,9,"egg, fish & meat",Rural,362.08
+MP,Madhya Pradesh,9,"egg, fish & meat",Rural,31.87
+JK,Jammu & Kashmir,10,vegetables,Rural,157.87
+JH,Jharkhand,10,vegetables,Rural,120.6
+KA,Karnataka,10,vegetables,Rural,115.93
+KL,Kerala,10,vegetables,Rural,146.55
+MP,Madhya Pradesh,10,vegetables,Rural,112.59
+JK,Jammu & Kashmir,11,fruits (fresh),Rural,50.76
+JH,Jharkhand,11,fruits (fresh),Rural,26.48
+KA,Karnataka,11,fruits (fresh),Rural,70.21
+KL,Kerala,11,fruits (fresh),Rural,159.03
+MP,Madhya Pradesh,11,fruits (fresh),Rural,39.7
+JK,Jammu & Kashmir,12,fruits (dry),Rural,15.02
+JH,Jharkhand,12,fruits (dry),Rural,3.61
+KA,Karnataka,12,fruits (dry),Rural,21.62
+KL,Kerala,12,fruits (dry),Rural,18.93
+MP,Madhya Pradesh,12,fruits (dry),Rural,11.97
+JK,Jammu & Kashmir,13,spices,Rural,74.2
+JH,Jharkhand,13,spices,Rural,51.56
+KA,Karnataka,13,spices,Rural,71.68
+KL,Kerala,13,spices,Rural,97.72
+MP,Madhya Pradesh,13,spices,Rural,60.58
+JK,Jammu & Kashmir,14,"beverages, refreshments, etc.",Rural,168.58
+JH,Jharkhand,14,"beverages, refreshments, etc.",Rural,109.2
+KA,Karnataka,14,"beverages, refreshments, etc.",Rural,176.78
+KL,Kerala,14,"beverages, refreshments, etc.",Rural,287.62
+MP,Madhya Pradesh,14,"beverages, refreshments, etc.",Rural,112.89
+JK,Jammu & Kashmir,15,food: total (1-14),Rural,1191.45
+JH,Jharkhand,15,food: total (1-14),Rural,763.73
+KA,Karnataka,15,food: total (1-14),Rural,1016.19
+KL,Kerala,15,food: total (1-14),Rural,1665.62
+MP,Madhya Pradesh,15,food: total (1-14),Rural,816.94
+JK,Jammu & Kashmir,16,"pan, tobacco & intoxicants",Rural,33.75
+JH,Jharkhand,16,"pan, tobacco & intoxicants",Rural,31.57
+KA,Karnataka,16,"pan, tobacco & intoxicants",Rural,62.33
+KL,Kerala,16,"pan, tobacco & intoxicants",Rural,69.13
+MP,Madhya Pradesh,16,"pan, tobacco & intoxicants",Rural,44.18
+JK,Jammu & Kashmir,17,fuel and light,Rural,179.33
+JH,Jharkhand,17,fuel and light,Rural,125.19
+KA,Karnataka,17,fuel and light,Rural,145.5
+KL,Kerala,17,fuel and light,Rural,217.25
+MP,Madhya Pradesh,17,fuel and light,Rural,165.79
+JK,Jammu & Kashmir,18,clothing & bedding,Rural,149.7
+JH,Jharkhand,18,clothing & bedding,Rural,105.04
+KA,Karnataka,18,clothing & bedding,Rural,132.99
+KL,Kerala,18,clothing & bedding,Rural,192.72
+MP,Madhya Pradesh,18,clothing & bedding,Rural,110.31
+JK,Jammu & Kashmir,19,footwear,Rural,41.22
+JH,Jharkhand,19,footwear,Rural,16.5
+KA,Karnataka,19,footwear,Rural,21.15
+KL,Kerala,19,footwear,Rural,35.83
+MP,Madhya Pradesh,19,footwear,Rural,23.78
+JK,Jammu & Kashmir,20,education,Rural,98.26
+JH,Jharkhand,20,education,Rural,44.38
+KA,Karnataka,20,education,Rural,56.19
+KL,Kerala,20,education,Rural,179.35
+MP,Madhya Pradesh,20,education,Rural,52.6
+JK,Jammu & Kashmir,21,medical (institutional),Rural,13.94
+JH,Jharkhand,21,medical (institutional),Rural,9.84
+KA,Karnataka,21,medical (institutional),Rural,24.56
+KL,Kerala,21,medical (institutional),Rural,136.09
+MP,Madhya Pradesh,21,medical (institutional),Rural,12.16
+JK,Jammu & Kashmir,22,medical (non-institutional),Rural,38.19
+JH,Jharkhand,22,medical (non-institutional),Rural,30.82
+KA,Karnataka,22,medical (non-institutional),Rural,34.58
+KL,Kerala,22,medical (non-institutional),Rural,166.08
+MP,Madhya Pradesh,22,medical (non-institutional),Rural,40.22
+JK,Jammu & Kashmir,23,entertainment,Rural,30.4
+JH,Jharkhand,23,entertainment,Rural,15.48
+KA,Karnataka,23,entertainment,Rural,36.34
+KL,Kerala,23,entertainment,Rural,60.41
+MP,Madhya Pradesh,23,entertainment,Rural,13.27
+JK,Jammu & Kashmir,24,minor durable-type goods,Rural,6.95
+JH,Jharkhand,24,minor durable-type goods,Rural,7.5
+KA,Karnataka,24,minor durable-type goods,Rural,5.64
+KL,Kerala,24,minor durable-type goods,Rural,15.85
+MP,Madhya Pradesh,24,minor durable-type goods,Rural,4.93
+JK,Jammu & Kashmir,25,toilet articles,Rural,27.05
+JH,Jharkhand,25,toilet articles,Rural,27.11
+KA,Karnataka,25,toilet articles,Rural,40.01
+KL,Kerala,25,toilet articles,Rural,60.8
+MP,Madhya Pradesh,25,toilet articles,Rural,34.61
+JK,Jammu & Kashmir,26,other household consumables,Rural,30.02
+JH,Jharkhand,26,other household consumables,Rural,29.07
+KA,Karnataka,26,other household consumables,Rural,39.47
+KL,Kerala,26,other household consumables,Rural,57.99
+MP,Madhya Pradesh,26,other household consumables,Rural,29.16
+JK,Jammu & Kashmir,27,consum. services excl. conveyance,Rural,99.54
+JH,Jharkhand,27,consum. services excl. conveyance,Rural,52.68
+KA,Karnataka,27,consum. services excl. conveyance,Rural,81.55
+KL,Kerala,27,consum. services excl. conveyance,Rural,183.76
+MP,Madhya Pradesh,27,consum. services excl. conveyance,Rural,66.02
+JK,Jammu & Kashmir,28,conveyance,Rural,120.21
+JH,Jharkhand,28,conveyance,Rural,48.87
+KA,Karnataka,28,conveyance,Rural,101.34
+KL,Kerala,28,conveyance,Rural,328.95
+MP,Madhya Pradesh,28,conveyance,Rural,79.25
+JK,Jammu & Kashmir,29,rent,Rural,1.2
+JH,Jharkhand,29,rent,Rural,1.26
+KA,Karnataka,29,rent,Rural,9.84
+KL,Kerala,29,rent,Rural,34.68
+MP,Madhya Pradesh,29,rent,Rural,11.93
+JK,Jammu & Kashmir,30,taxes & cesses,Rural,10.45
+JH,Jharkhand,30,taxes & cesses,Rural,1.23
+KA,Karnataka,30,taxes & cesses,Rural,19.82
+KL,Kerala,30,taxes & cesses,Rural,24.33
+MP,Madhya Pradesh,30,taxes & cesses,Rural,3.87
+JK,Jammu & Kashmir,31,durable goods,Rural,116.82
+JH,Jharkhand,31,durable goods,Rural,51.09
+KA,Karnataka,31,durable goods,Rural,63.13
+KL,Kerala,31,durable goods,Rural,297.76
+MP,Madhya Pradesh,31,durable goods,Rural,132.16
+JK,Jammu & Kashmir,32,non-food: total (16-31),Rural,997.03
+JH,Jharkhand,32,non-food: total (16-31),Rural,597.63
+KA,Karnataka,32,non-food: total (16-31),Rural,874.46
+KL,Kerala,32,non-food: total (16-31),Rural,2060.98
+MP,Madhya Pradesh,32,non-food: total (16-31),Rural,824.22
+JK,Jammu & Kashmir,33,total expenditure (15+32),Rural,2188.48
+JH,Jharkhand,33,total expenditure (15+32),Rural,1361.36
+KA,Karnataka,33,total expenditure (15+32),Rural,1890.65
+KL,Kerala,33,total expenditure (15+32),Rural,3726.6
+MP,Madhya Pradesh,33,total expenditure (15+32),Rural,1641.17
+JK,Jammu & Kashmir,34,"cooked meals recd. free inworkpl.*",Rural,2.37
+JH,Jharkhand,34,"cooked meals recd. free inworkpl.*",Rural,0.73
+KA,Karnataka,34,"cooked meals recd. free inworkpl.*",Rural,1.64
+KL,Kerala,34,"cooked meals recd. free inworkpl.*",Rural,14.74
+MP,Madhya Pradesh,34,"cooked meals recd. free inworkpl.*",Rural,0.52
+JK,Jammu & Kashmir,35,cooked meals recd. as assistance *,Rural,13.63
+JH,Jharkhand,35,cooked meals recd. as assistance *,Rural,19.56
+KA,Karnataka,35,cooked meals recd. as assistance *,Rural,39.07
+KL,Kerala,35,cooked meals recd. as assistance *,Rural,22.32
+MP,Madhya Pradesh,35,cooked meals recd. as assistance *,Rural,14.46
+JK,Jammu & Kashmir,36,clothing & footwear (2nd hand) **,Rural,5.58
+JH,Jharkhand,36,clothing & footwear (2nd hand) **,Rural,0.07
+KA,Karnataka,36,clothing & footwear (2nd hand) **,Rural,0.05
+KL,Kerala,36,clothing & footwear (2nd hand) **,Rural,0.05
+MP,Madhya Pradesh,36,clothing & footwear (2nd hand) **,Rural,0.37
+JK,Jammu & Kashmir,37,"@books, journals, etc. (2nd hand)",Rural,1.19
+JH,Jharkhand,37,"@books, journals, etc. (2nd hand)",Rural,0.19
+KA,Karnataka,37,"@books, journals, etc. (2nd hand)",Rural,0.21
+KL,Kerala,37,"@books, journals, etc. (2nd hand)",Rural,0.43
+MP,Madhya Pradesh,37,"@books, journals, etc. (2nd hand)",Rural,0.31
+JK,Jammu & Kashmir,38,"$durables (2ndhand)",Rural,1.78
+JH,Jharkhand,38,"$durables (2ndhand)",Rural,0.64
+KA,Karnataka,38,"$durables (2ndhand)",Rural,0.3
+KL,Kerala,38,"$durables (2ndhand)",Rural,13.74
+MP,Madhya Pradesh,38,"$durables (2ndhand)",Rural,0.76
+JK,Jammu & Kashmir,39,imputed rent,Rural,42.26
+JH,Jharkhand,39,imputed rent,Rural,20.23
+KA,Karnataka,39,imputed rent,Rural,235.43
+KL,Kerala,39,imputed rent,Rural,358.75
+MP,Madhya Pradesh,39,imputed rent,Rural,27.86
+MH,Maharashtra,1,cereal,Rural,144.24
+MN,Manipur,1,cereal,Rural,333.09
+ML,Meghalaya,1,cereal,Rural,171.58
+MZ,Mizoram,1,cereal,Rural,195.05
+NL,Nagaland,1,cereal,Rural,294.99
+MH,Maharashtra,2,gram,Rural,2.56
+MN,Manipur,2,gram,Rural,0.89
+ML,Meghalaya,2,gram,Rural,0.13
+MZ,Mizoram,2,gram,Rural,0.25
+NL,Nagaland,2,gram,Rural,0.88
+MH,Maharashtra,3,cereal substitutes,Rural,6.69
+MN,Manipur,3,cereal substitutes,Rural,0.72
+ML,Meghalaya,3,cereal substitutes,Rural,1.26
+MZ,Mizoram,3,cereal substitutes,Rural,0.45
+NL,Nagaland,3,cereal substitutes,Rural,2.02
+MH,Maharashtra,4,pulses and pulse products,Rural,56.54
+MN,Manipur,4,pulses and pulse products,Rural,23.17
+ML,Meghalaya,4,pulses and pulse products,Rural,21.67
+MZ,Mizoram,4,pulses and pulse products,Rural,46
+NL,Nagaland,4,pulses and pulse products,Rural,27.15
+MH,Maharashtra,5,milk and milk products,Rural,129.85
+MN,Manipur,5,milk and milk products,Rural,34.6
+ML,Meghalaya,5,milk and milk products,Rural,41.67
+MZ,Mizoram,5,milk and milk products,Rural,63.67
+NL,Nagaland,5,milk and milk products,Rural,84.41
+MH,Maharashtra,6,sugar,Rural,34.34
+MN,Manipur,6,sugar,Rural,12.84
+ML,Meghalaya,6,sugar,Rural,25.14
+MZ,Mizoram,6,sugar,Rural,30.97
+NL,Nagaland,6,sugar,Rural,16.78
+MH,Maharashtra,7,salt,Rural,2.98
+MN,Manipur,7,salt,Rural,4.22
+ML,Meghalaya,7,salt,Rural,3.39
+MZ,Mizoram,7,salt,Rural,4.45
+NL,Nagaland,7,salt,Rural,3.2
+MH,Maharashtra,8,edible oil,Rural,76.85
+MN,Manipur,8,edible oil,Rural,41.83
+ML,Meghalaya,8,edible oil,Rural,60.67
+MZ,Mizoram,8,edible oil,Rural,69.59
+NL,Nagaland,8,edible oil,Rural,55.23
+MH,Maharashtra,9,"egg, fish & meat",Rural,77.4
+MN,Manipur,9,"egg, fish & meat",Rural,173.8
+ML,Meghalaya,9,"egg, fish & meat",Rural,282.2
+MZ,Mizoram,9,"egg, fish & meat",Rural,324.23
+NL,Nagaland,9,"egg, fish & meat",Rural,247.98
+MH,Maharashtra,10,vegetables,Rural,129.22
+MN,Manipur,10,vegetables,Rural,115.2
+ML,Meghalaya,10,vegetables,Rural,169.19
+MZ,Mizoram,10,vegetables,Rural,306.99
+NL,Nagaland,10,vegetables,Rural,148.81
+MH,Maharashtra,11,fruits (fresh),Rural,47.56
+MN,Manipur,11,fruits (fresh),Rural,35.56
+ML,Meghalaya,11,fruits (fresh),Rural,50.66
+MZ,Mizoram,11,fruits (fresh),Rural,43.21
+NL,Nagaland,11,fruits (fresh),Rural,61.42
+MH,Maharashtra,12,fruits (dry),Rural,36.77
+MN,Manipur,12,fruits (dry),Rural,6.39
+ML,Meghalaya,12,fruits (dry),Rural,1.46
+MZ,Mizoram,12,fruits (dry),Rural,3.95
+NL,Nagaland,12,fruits (dry),Rural,6.9
+MH,Maharashtra,13,spices,Rural,66.36
+MN,Manipur,13,spices,Rural,48.66
+ML,Meghalaya,13,spices,Rural,48.95
+MZ,Mizoram,13,spices,Rural,46.54
+NL,Nagaland,13,spices,Rural,38.98
+MH,Maharashtra,14,"beverages, refreshments, etc.",Rural,156.56
+MN,Manipur,14,"beverages, refreshments, etc.",Rural,124.93
+ML,Meghalaya,14,"beverages, refreshments, etc.",Rural,201.57
+MZ,Mizoram,14,"beverages, refreshments, etc.",Rural,191
+NL,Nagaland,14,"beverages, refreshments, etc.",Rural,137.69
+MH,Maharashtra,15,food: total (1-14),Rural,967.91
+MN,Manipur,15,food: total (1-14),Rural,955.89
+ML,Meghalaya,15,food: total (1-14),Rural,1079.53
+MZ,Mizoram,15,food: total (1-14),Rural,1326.36
+NL,Nagaland,15,food: total (1-14),Rural,1126.43
+MH,Maharashtra,16,"pan, tobacco & intoxicants",Rural,48.59
+MN,Manipur,16,"pan, tobacco & intoxicants",Rural,48.95
+ML,Meghalaya,16,"pan, tobacco & intoxicants",Rural,165.42
+MZ,Mizoram,16,"pan, tobacco & intoxicants",Rural,261.79
+NL,Nagaland,16,"pan, tobacco & intoxicants",Rural,84.08
+MH,Maharashtra,17,fuel and light,Rural,171.65
+MN,Manipur,17,fuel and light,Rural,162.05
+ML,Meghalaya,17,fuel and light,Rural,171.97
+MZ,Mizoram,17,fuel and light,Rural,218.81
+NL,Nagaland,17,fuel and light,Rural,191.73
+MH,Maharashtra,18,clothing & bedding,Rural,146.51
+MN,Manipur,18,clothing & bedding,Rural,87.74
+ML,Meghalaya,18,clothing & bedding,Rural,118.34
+MZ,Mizoram,18,clothing & bedding,Rural,172.89
+NL,Nagaland,18,clothing & bedding,Rural,119.62
+MH,Maharashtra,19,footwear,Rural,25.19
+MN,Manipur,19,footwear,Rural,20.8
+ML,Meghalaya,19,footwear,Rural,32.66
+MZ,Mizoram,19,footwear,Rural,69.58
+NL,Nagaland,19,footwear,Rural,35.56
+MH,Maharashtra,20,education,Rural,64.09
+MN,Manipur,20,education,Rural,149.11
+ML,Meghalaya,20,education,Rural,68.94
+MZ,Mizoram,20,education,Rural,70.79
+NL,Nagaland,20,education,Rural,92.31
+MH,Maharashtra,21,medical (institutional),Rural,34
+MN,Manipur,21,medical (institutional),Rural,15.82
+ML,Meghalaya,21,medical (institutional),Rural,5.61
+MZ,Mizoram,21,medical (institutional),Rural,10.1
+NL,Nagaland,21,medical (institutional),Rural,11.02
+MH,Maharashtra,22,medical (non-institutional),Rural,40.19
+MN,Manipur,22,medical (non-institutional),Rural,15.48
+ML,Meghalaya,22,medical (non-institutional),Rural,12.68
+MZ,Mizoram,22,medical (non-institutional),Rural,32.11
+NL,Nagaland,22,medical (non-institutional),Rural,30.23
+MH,Maharashtra,23,entertainment,Rural,27.03
+MN,Manipur,23,entertainment,Rural,28.83
+ML,Meghalaya,23,entertainment,Rural,46.39
+MZ,Mizoram,23,entertainment,Rural,49.64
+NL,Nagaland,23,entertainment,Rural,47.55
+MH,Maharashtra,24,minor durable-type goods,Rural,8.11
+MN,Manipur,24,minor durable-type goods,Rural,17.6
+ML,Meghalaya,24,minor durable-type goods,Rural,14.69
+MZ,Mizoram,24,minor durable-type goods,Rural,18.91
+NL,Nagaland,24,minor durable-type goods,Rural,21.82
+MH,Maharashtra,25,toilet articles,Rural,44.98
+MN,Manipur,25,toilet articles,Rural,33.12
+ML,Meghalaya,25,toilet articles,Rural,48.74
+MZ,Mizoram,25,toilet articles,Rural,53.82
+NL,Nagaland,25,toilet articles,Rural,64.05
+MH,Maharashtra,26,other household consumables,Rural,40.34
+MN,Manipur,26,other household consumables,Rural,25.87
+ML,Meghalaya,26,other household consumables,Rural,38.54
+MZ,Mizoram,26,other household consumables,Rural,28.96
+NL,Nagaland,26,other household consumables,Rural,26.15
+MH,Maharashtra,27,consum. services excl. conveyance,Rural,99.81
+MN,Manipur,27,consum. services excl. conveyance,Rural,58.25
+ML,Meghalaya,27,consum. services excl. conveyance,Rural,95.57
+MZ,Mizoram,27,consum. services excl. conveyance,Rural,114.48
+NL,Nagaland,27,consum. services excl. conveyance,Rural,199.98
+MH,Maharashtra,28,conveyance,Rural,127.06
+MN,Manipur,28,conveyance,Rural,90.43
+ML,Meghalaya,28,conveyance,Rural,106.89
+MZ,Mizoram,28,conveyance,Rural,62.45
+NL,Nagaland,28,conveyance,Rural,74.74
+MH,Maharashtra,29,rent,Rural,13.34
+MN,Manipur,29,rent,Rural,1.09
+ML,Meghalaya,29,rent,Rural,6.51
+MZ,Mizoram,29,rent,Rural,8.83
+NL,Nagaland,29,rent,Rural,5.29
+MH,Maharashtra,30,taxes & cesses,Rural,21.6
+MN,Manipur,30,taxes & cesses,Rural,8.07
+ML,Meghalaya,30,taxes & cesses,Rural,0.34
+MZ,Mizoram,30,taxes & cesses,Rural,11.56
+NL,Nagaland,30,taxes & cesses,Rural,2.69
+MH,Maharashtra,31,durable goods,Rural,90.9
+MN,Manipur,31,durable goods,Rural,57.57
+ML,Meghalaya,31,durable goods,Rural,41.73
+MZ,Mizoram,31,durable goods,Rural,102.13
+NL,Nagaland,31,durable goods,Rural,94.06
+MH,Maharashtra,32,non-food: total (16-31),Rural,1003.39
+MN,Manipur,32,non-food: total (16-31),Rural,820.79
+ML,Meghalaya,32,non-food: total (16-31),Rural,975.02
+MZ,Mizoram,32,non-food: total (16-31),Rural,1286.85
+NL,Nagaland,32,non-food: total (16-31),Rural,1100.89
+MH,Maharashtra,33,total expenditure (15+32),Rural,1971.3
+MN,Manipur,33,total expenditure (15+32),Rural,1776.68
+ML,Meghalaya,33,total expenditure (15+32),Rural,2054.56
+MZ,Mizoram,33,total expenditure (15+32),Rural,2613.21
+NL,Nagaland,33,total expenditure (15+32),Rural,2227.32
+MH,Maharashtra,34,"cooked meals recd. free inworkpl.*",Rural,2.02
+MN,Manipur,34,"cooked meals recd. free inworkpl.*",Rural,1.53
+ML,Meghalaya,34,"cooked meals recd. free inworkpl.*",Rural,0.58
+MZ,Mizoram,34,"cooked meals recd. free inworkpl.*",Rural,2.71
+NL,Nagaland,34,"cooked meals recd. free inworkpl.*",Rural,0.1
+MH,Maharashtra,35,cooked meals recd. as assistance *,Rural,31.01
+MN,Manipur,35,cooked meals recd. as assistance *,Rural,4.18
+ML,Meghalaya,35,cooked meals recd. as assistance *,Rural,25.18
+MZ,Mizoram,35,cooked meals recd. as assistance *,Rural,16.33
+NL,Nagaland,35,cooked meals recd. as assistance *,Rural,0
+MH,Maharashtra,36,clothing & footwear (2nd hand) **,Rural,0.45
+MN,Manipur,36,clothing & footwear (2nd hand) **,Rural,15.01
+ML,Meghalaya,36,clothing & footwear (2nd hand) **,Rural,4.88
+MZ,Mizoram,36,clothing & footwear (2nd hand) **,Rural,5.04
+NL,Nagaland,36,clothing & footwear (2nd hand) **,Rural,16.78
+MH,Maharashtra,37,"@books, journals, etc. (2nd hand)",Rural,0.6
+MN,Manipur,37,"@books, journals, etc. (2nd hand)",Rural,2.03
+ML,Meghalaya,37,"@books, journals, etc. (2nd hand)",Rural,1.33
+MZ,Mizoram,37,"@books, journals, etc. (2nd hand)",Rural,1.25
+NL,Nagaland,37,"@books, journals, etc. (2nd hand)",Rural,0.2
+MH,Maharashtra,38,"$durables (2ndhand)",Rural,1.97
+MN,Manipur,38,"$durables (2ndhand)",Rural,2.82
+ML,Meghalaya,38,"$durables (2ndhand)",Rural,0.11
+MZ,Mizoram,38,"$durables (2ndhand)",Rural,4.32
+NL,Nagaland,38,"$durables (2ndhand)",Rural,0.8
+MH,Maharashtra,39,imputed rent,Rural,122.45
+MN,Manipur,39,imputed rent,Rural,67.1
+ML,Meghalaya,39,imputed rent,Rural,37.56
+MZ,Mizoram,39,imputed rent,Rural,142.99
+NL,Nagaland,39,imputed rent,Rural,73.72
+OR,Odisha,1,cereal,Rural,171.88
+PB,Punjab,1,cereal,Rural,155.41
+RJ,Rajasthan,1,cereal,Rural,159.76
+SK,Sikkim,1,cereal,Rural,197.11
+TN,Tamil Nadu,1,cereal,Rural,202.75
+OR,Odisha,2,gram,Rural,0.6
+PB,Punjab,2,gram,Rural,9.29
+RJ,Rajasthan,2,gram,Rural,0.94
+SK,Sikkim,2,gram,Rural,2.04
+TN,Tamil Nadu,2,gram,Rural,6.11
+OR,Odisha,3,cereal substitutes,Rural,0.03
+PB,Punjab,3,cereal substitutes,Rural,0.04
+RJ,Rajasthan,3,cereal substitutes,Rural,0.21
+SK,Sikkim,3,cereal substitutes,Rural,0.07
+TN,Tamil Nadu,3,cereal substitutes,Rural,0.1
+OR,Odisha,4,pulses and pulse products,Rural,37.44
+PB,Punjab,4,pulses and pulse products,Rural,51.57
+RJ,Rajasthan,4,pulses and pulse products,Rural,30
+SK,Sikkim,4,pulses and pulse products,Rural,41.79
+TN,Tamil Nadu,4,pulses and pulse products,Rural,61.96
+OR,Odisha,5,milk and milk products,Rural,37.06
+PB,Punjab,5,milk and milk products,Rural,521.45
+RJ,Rajasthan,5,milk and milk products,Rural,377.51
+SK,Sikkim,5,milk and milk products,Rural,183.88
+TN,Tamil Nadu,5,milk and milk products,Rural,137.34
+OR,Odisha,6,sugar,Rural,15.48
+PB,Punjab,6,sugar,Rural,60.42
+RJ,Rajasthan,6,sugar,Rural,38.57
+SK,Sikkim,6,sugar,Rural,18.62
+TN,Tamil Nadu,6,sugar,Rural,17.84
+OR,Odisha,7,salt,Rural,3.15
+PB,Punjab,7,salt,Rural,3.19
+RJ,Rajasthan,7,salt,Rural,2.97
+SK,Sikkim,7,salt,Rural,3.54
+TN,Tamil Nadu,7,salt,Rural,3.1
+OR,Odisha,8,edible oil,Rural,44.19
+PB,Punjab,8,edible oil,Rural,60.54
+RJ,Rajasthan,8,edible oil,Rural,52.32
+SK,Sikkim,8,edible oil,Rural,94.62
+TN,Tamil Nadu,8,edible oil,Rural,60.6
+OR,Odisha,9,"egg, fish & meat",Rural,92.03
+PB,Punjab,9,"egg, fish & meat",Rural,33.87
+RJ,Rajasthan,9,"egg, fish & meat",Rural,17.25
+SK,Sikkim,9,"egg, fish & meat",Rural,178.79
+TN,Tamil Nadu,9,"egg, fish & meat",Rural,173.44
+OR,Odisha,10,vegetables,Rural,132.44
+PB,Punjab,10,vegetables,Rural,166.73
+RJ,Rajasthan,10,vegetables,Rural,112.86
+SK,Sikkim,10,vegetables,Rural,206.21
+TN,Tamil Nadu,10,vegetables,Rural,154.85
+OR,Odisha,11,fruits (fresh),Rural,30.36
+PB,Punjab,11,fruits (fresh),Rural,67.33
+RJ,Rajasthan,11,fruits (fresh),Rural,36.62
+SK,Sikkim,11,fruits (fresh),Rural,32.05
+TN,Tamil Nadu,11,fruits (fresh),Rural,84.86
+OR,Odisha,12,fruits (dry),Rural,0.98
+PB,Punjab,12,fruits (dry),Rural,15.81
+RJ,Rajasthan,12,fruits (dry),Rural,10.93
+SK,Sikkim,12,fruits (dry),Rural,12.72
+TN,Tamil Nadu,12,fruits (dry),Rural,9.37
+OR,Odisha,13,spices,Rural,46.84
+PB,Punjab,13,spices,Rural,57.05
+RJ,Rajasthan,13,spices,Rural,67.81
+SK,Sikkim,13,spices,Rural,73.46
+TN,Tamil Nadu,13,spices,Rural,87.18
+OR,Odisha,14,"beverages, refreshments, etc.",Rural,113.69
+PB,Punjab,14,"beverages, refreshments, etc.",Rural,239.57
+RJ,Rajasthan,14,"beverages, refreshments, etc.",Rural,126.71
+SK,Sikkim,14,"beverages, refreshments, etc.",Rural,208.69
+TN,Tamil Nadu,14,"beverages, refreshments, etc.",Rural,203.55
+OR,Odisha,15,food: total (1-14),Rural,726.15
+PB,Punjab,15,food: total (1-14),Rural,1442.27
+RJ,Rajasthan,15,food: total (1-14),Rural,1034.46
+SK,Sikkim,15,food: total (1-14),Rural,1253.59
+TN,Tamil Nadu,15,food: total (1-14),Rural,1203.04
+OR,Odisha,16,"pan, tobacco & intoxicants",Rural,32.81
+PB,Punjab,16,"pan, tobacco & intoxicants",Rural,58.77
+RJ,Rajasthan,16,"pan, tobacco & intoxicants",Rural,55.9
+SK,Sikkim,16,"pan, tobacco & intoxicants",Rural,105.81
+TN,Tamil Nadu,16,"pan, tobacco & intoxicants",Rural,67.56
+OR,Odisha,17,fuel and light,Rural,142.81
+PB,Punjab,17,fuel and light,Rural,331.09
+RJ,Rajasthan,17,fuel and light,Rural,208.37
+SK,Sikkim,17,fuel and light,Rural,168.93
+TN,Tamil Nadu,17,fuel and light,Rural,158.26
+OR,Odisha,18,clothing & bedding,Rural,90.47
+PB,Punjab,18,clothing & bedding,Rural,211.9
+RJ,Rajasthan,18,clothing & bedding,Rural,146.11
+SK,Sikkim,18,clothing & bedding,Rural,198.37
+TN,Tamil Nadu,18,clothing & bedding,Rural,122.41
+OR,Odisha,19,footwear,Rural,12.1
+PB,Punjab,19,footwear,Rural,41.95
+RJ,Rajasthan,19,footwear,Rural,28.67
+SK,Sikkim,19,footwear,Rural,44.61
+TN,Tamil Nadu,19,footwear,Rural,18.19
+OR,Odisha,20,education,Rural,40.8
+PB,Punjab,20,education,Rural,160.54
+RJ,Rajasthan,20,education,Rural,94.67
+SK,Sikkim,20,education,Rural,63.51
+TN,Tamil Nadu,20,education,Rural,107.03
+OR,Odisha,21,medical (institutional),Rural,18.68
+PB,Punjab,21,medical (institutional),Rural,49.16
+RJ,Rajasthan,21,medical (institutional),Rural,21.33
+SK,Sikkim,21,medical (institutional),Rural,15.13
+TN,Tamil Nadu,21,medical (institutional),Rural,42.8
+OR,Odisha,22,medical (non-institutional),Rural,45.67
+PB,Punjab,22,medical (non-institutional),Rural,87.6
+RJ,Rajasthan,22,medical (non-institutional),Rural,51.1
+SK,Sikkim,22,medical (non-institutional),Rural,18.16
+TN,Tamil Nadu,22,medical (non-institutional),Rural,48.33
+OR,Odisha,23,entertainment,Rural,20.34
+PB,Punjab,23,entertainment,Rural,48.13
+RJ,Rajasthan,23,entertainment,Rural,14.66
+SK,Sikkim,23,entertainment,Rural,67.81
+TN,Tamil Nadu,23,entertainment,Rural,36.11
+OR,Odisha,24,minor durable-type goods,Rural,6.52
+PB,Punjab,24,minor durable-type goods,Rural,5.42
+RJ,Rajasthan,24,minor durable-type goods,Rural,3.94
+SK,Sikkim,24,minor durable-type goods,Rural,14
+TN,Tamil Nadu,24,minor durable-type goods,Rural,6.05
+OR,Odisha,25,toilet articles,Rural,30.34
+PB,Punjab,25,toilet articles,Rural,53.28
+RJ,Rajasthan,25,toilet articles,Rural,39.44
+SK,Sikkim,25,toilet articles,Rural,42.73
+TN,Tamil Nadu,25,toilet articles,Rural,54.36
+OR,Odisha,26,other household consumables,Rural,23.54
+PB,Punjab,26,other household consumables,Rural,55.1
+RJ,Rajasthan,26,other household consumables,Rural,37.89
+SK,Sikkim,26,other household consumables,Rural,31.92
+TN,Tamil Nadu,26,other household consumables,Rural,53.95
+OR,Odisha,27,consum. services excl. conveyance,Rural,45.59
+PB,Punjab,27,consum. services excl. conveyance,Rural,143.36
+RJ,Rajasthan,27,consum. services excl. conveyance,Rural,100.09
+SK,Sikkim,27,consum. services excl. conveyance,Rural,98.23
+TN,Tamil Nadu,27,consum. services excl. conveyance,Rural,99.42
+OR,Odisha,28,conveyance,Rural,44.13
+PB,Punjab,28,conveyance,Rural,209.39
+RJ,Rajasthan,28,conveyance,Rural,115.95
+SK,Sikkim,28,conveyance,Rural,83.81
+TN,Tamil Nadu,28,conveyance,Rural,179.85
+OR,Odisha,29,rent,Rural,6.16
+PB,Punjab,29,rent,Rural,13.6
+RJ,Rajasthan,29,rent,Rural,3.17
+SK,Sikkim,29,rent,Rural,50.98
+TN,Tamil Nadu,29,rent,Rural,19.06
+OR,Odisha,30,taxes & cesses,Rural,0.56
+PB,Punjab,30,taxes & cesses,Rural,16.8
+RJ,Rajasthan,30,taxes & cesses,Rural,6.42
+SK,Sikkim,30,taxes & cesses,Rural,2.15
+TN,Tamil Nadu,30,taxes & cesses,Rural,11.85
+OR,Odisha,31,durable goods,Rural,52.25
+PB,Punjab,31,durable goods,Rural,177.67
+RJ,Rajasthan,31,durable goods,Rural,90.59
+SK,Sikkim,31,durable goods,Rural,98.12
+TN,Tamil Nadu,31,durable goods,Rural,97.78
+OR,Odisha,32,non-food: total (16-31),Rural,612.78
+PB,Punjab,32,non-food: total (16-31),Rural,1663.75
+RJ,Rajasthan,32,non-food: total (16-31),Rural,1018.28
+SK,Sikkim,32,non-food: total (16-31),Rural,1104.27
+TN,Tamil Nadu,32,non-food: total (16-31),Rural,1123
+OR,Odisha,33,total expenditure (15+32),Rural,1338.93
+PB,Punjab,33,total expenditure (15+32),Rural,3106.02
+RJ,Rajasthan,33,total expenditure (15+32),Rural,2052.75
+SK,Sikkim,33,total expenditure (15+32),Rural,2357.86
+TN,Tamil Nadu,33,total expenditure (15+32),Rural,2326.04
+OR,Odisha,34,cooked meals recd. free in workpl.*,Rural,2.84
+PB,Punjab,34,cooked meals recd. free in workpl.*,Rural,4.36
+RJ,Rajasthan,34,cooked meals recd. free in workpl.*,Rural,0.76
+SK,Sikkim,34,cooked meals recd. free in workpl.*,Rural,13.29
+TN,Tamil Nadu,34,cooked meals recd. free in workpl.*,Rural,5.61
+OR,Odisha,35,cooked meals recd. as assistance *,Rural,21.35
+PB,Punjab,35,cooked meals recd. as assistance *,Rural,12.6
+RJ,Rajasthan,35,cooked meals recd. as assistance *,Rural,23.04
+SK,Sikkim,35,cooked meals recd. as assistance *,Rural,25.01
+TN,Tamil Nadu,35,cooked meals recd. as assistance *,Rural,16.49
+OR,Odisha,36,clothing & footwear (2nd hand) **,Rural,0.03
+PB,Punjab,36,clothing & footwear (2nd hand) **,Rural,0.59
+RJ,Rajasthan,36,clothing & footwear (2nd hand) **,Rural,0.23
+SK,Sikkim,36,clothing & footwear (2nd hand) **,Rural,0.78
+TN,Tamil Nadu,36,clothing & footwear (2nd hand) **,Rural,0.03
+OR,Odisha,37,"@books, journals, etc. (2nd hand)",Rural,0.3
+PB,Punjab,37,"@books, journals, etc. (2nd hand)",Rural,1.08
+RJ,Rajasthan,37,"@books, journals, etc. (2nd hand)",Rural,0.51
+SK,Sikkim,37,"@books, journals, etc. (2nd hand)",Rural,0.23
+TN,Tamil Nadu,37,"@books, journals, etc. (2nd hand)",Rural,0.34
+OR,Odisha,38,"$durables (2ndhand)",Rural,2.04
+PB,Punjab,38,"$durables (2ndhand)",Rural,6.16
+RJ,Rajasthan,38,"$durables (2ndhand)",Rural,2.73
+SK,Sikkim,38,"$durables (2ndhand)",Rural,0
+TN,Tamil Nadu,38,"$durables (2ndhand)",Rural,0.98
+OR,Odisha,39,imputed rent,Rural,30.71
+PB,Punjab,39,imputed rent,Rural,156.04
+RJ,Rajasthan,39,imputed rent,Rural,104.94
+SK,Sikkim,39,imputed rent,Rural,0
+TN,Tamil Nadu,39,imputed rent,Rural,182.56
+TG,Telangana,1,cereal,Rural,216.63
+TR,Tripura,1,cereal,Rural,243.32
+UT,Uttarakhand,1,cereal,Rural,196.9
+UP,Uttar Pradesh,1,cereal,Rural,159.08
+WB,West Bengal,1,cereal,Rural,209.31
+TG,Telangana,2,gram,Rural,0.66
+TR,Tripura,2,gram,Rural,0.31
+UT,Uttarakhand,2,gram,Rural,5.81
+UP,Uttar Pradesh,2,gram,Rural,3.01
+WB,West Bengal,2,gram,Rural,1.36
+TG,Telangana,3,cereal substitutes,Rural,0.33
+TR,Tripura,3,cereal substitutes,Rural,0.1
+UT,Uttarakhand,3,cereal substitutes,Rural,0.12
+UP,Uttar Pradesh,3,cereal substitutes,Rural,0.11
+WB,West Bengal,3,cereal substitutes,Rural,0.16
+TG,Telangana,4,pulses and pulse products,Rural,52.66
+TR,Tripura,4,pulses and pulse products,Rural,36.81
+UT,Uttarakhand,4,pulses and pulse products,Rural,62.62
+UP,Uttar Pradesh,4,pulses and pulse products,Rural,57.03
+WB,West Bengal,4,pulses and pulse products,Rural,38.28
+TG,Telangana,5,milk and milk products,Rural,121.97
+TR,Tripura,5,milk and milk products,Rural,53.4
+UT,Uttarakhand,5,milk and milk products,Rural,279.08
+UP,Uttar Pradesh,5,milk and milk products,Rural,174.07
+WB,West Bengal,5,milk and milk products,Rural,56.62
+TG,Telangana,6,sugar,Rural,19.96
+TR,Tripura,6,sugar,Rural,14.32
+UT,Uttarakhand,6,sugar,Rural,31.74
+UP,Uttar Pradesh,6,sugar,Rural,32.3
+WB,West Bengal,6,sugar,Rural,17.51
+TG,Telangana,7,salt,Rural,3.3
+TR,Tripura,7,salt,Rural,4.94
+UT,Uttarakhand,7,salt,Rural,3.5
+UP,Uttar Pradesh,7,salt,Rural,2.73
+WB,West Bengal,7,salt,Rural,3.67
+TG,Telangana,8,edible oil,Rural,73.58
+TR,Tripura,8,edible oil,Rural,61.25
+UT,Uttarakhand,8,edible oil,Rural,53.62
+UP,Uttar Pradesh,8,edible oil,Rural,62.93
+WB,West Bengal,8,edible oil,Rural,76.43
+TG,Telangana,9,"egg, fish & meat",Rural,129.6
+TR,Tripura,9,"egg, fish & meat",Rural,301.9
+UT,Uttarakhand,9,"egg, fish & meat",Rural,81.06
+UP,Uttar Pradesh,9,"egg, fish & meat",Rural,38.83
+WB,West Bengal,9,"egg, fish & meat",Rural,208.38
+TG,Telangana,10,vegetables,Rural,158.38
+TR,Tripura,10,vegetables,Rural,208.45
+UT,Uttarakhand,10,vegetables,Rural,147.83
+UP,Uttar Pradesh,10,vegetables,Rural,123.32
+WB,West Bengal,10,vegetables,Rural,151.01
+TG,Telangana,11,fruits (fresh),Rural,47.64
+TR,Tripura,11,fruits (fresh),Rural,39.81
+UT,Uttarakhand,11,fruits (fresh),Rural,53.5
+UP,Uttar Pradesh,11,fruits (fresh),Rural,31.68
+WB,West Bengal,11,fruits (fresh),Rural,40.05
+TG,Telangana,12,fruits (dry),Rural,15.36
+TR,Tripura,12,fruits (dry),Rural,2.93
+UT,Uttarakhand,12,fruits (dry),Rural,23.27
+UP,Uttar Pradesh,12,fruits (dry),Rural,10.61
+WB,West Bengal,12,fruits (dry),Rural,3.77
+TG,Telangana,13,spices,Rural,81.31
+TR,Tripura,13,spices,Rural,55.51
+UT,Uttarakhand,13,spices,Rural,53.08
+UP,Uttar Pradesh,13,spices,Rural,56.73
+WB,West Bengal,13,spices,Rural,55.33
+TG,Telangana,14,"beverages, refreshments, etc.",Rural,162.49
+TR,Tripura,14,"beverages, refreshments, etc.",Rural,141.05
+UT,Uttarakhand,14,"beverages, refreshments, etc.",Rural,149.11
+UP,Uttar Pradesh,14,"beverages, refreshments, etc.",Rural,119.84
+WB,West Bengal,14,"beverages, refreshments, etc.",Rural,166.18
+TG,Telangana,15,food: total (1-14),Rural,1083.86
+TR,Tripura,15,food: total (1-14),Rural,1164.09
+UT,Uttarakhand,15,food: total (1-14),Rural,1141.23
+UP,Uttar Pradesh,15,food: total (1-14),Rural,872.28
+WB,West Bengal,15,food: total (1-14),Rural,1028.08
+TG,Telangana,16,"pan, tobacco & intoxicants",Rural,86.87
+TR,Tripura,16,"pan, tobacco & intoxicants",Rural,113.61
+UT,Uttarakhand,16,"pan, tobacco & intoxicants",Rural,90.1
+UP,Uttar Pradesh,16,"pan, tobacco & intoxicants",Rural,32.37
+WB,West Bengal,16,"pan, tobacco & intoxicants",Rural,36.98
+TG,Telangana,17,fuel and light,Rural,145.33
+TR,Tripura,17,fuel and light,Rural,169.07
+UT,Uttarakhand,17,fuel and light,Rural,181.97
+UP,Uttar Pradesh,17,fuel and light,Rural,155.08
+WB,West Bengal,17,fuel and light,Rural,177.52
+TG,Telangana,18,clothing & bedding,Rural,174.75
+TR,Tripura,18,clothing & bedding,Rural,144.44
+UT,Uttarakhand,18,clothing & bedding,Rural,147.26
+UP,Uttar Pradesh,18,clothing & bedding,Rural,114
+WB,West Bengal,18,clothing & bedding,Rural,121.29
+TG,Telangana,19,footwear,Rural,21.97
+TR,Tripura,19,footwear,Rural,19
+UT,Uttarakhand,19,footwear,Rural,33.47
+UP,Uttar Pradesh,19,footwear,Rural,19.63
+WB,West Bengal,19,footwear,Rural,15.16
+TG,Telangana,20,education,Rural,73.22
+TR,Tripura,20,education,Rural,118.13
+UT,Uttarakhand,20,education,Rural,107.75
+UP,Uttar Pradesh,20,education,Rural,83.92
+WB,West Bengal,20,education,Rural,83.95
+TG,Telangana,21,medical (institutional),Rural,24.75
+TR,Tripura,21,medical (institutional),Rural,19.25
+UT,Uttarakhand,21,medical (institutional),Rural,12.77
+UP,Uttar Pradesh,21,medical (institutional),Rural,27.57
+WB,West Bengal,21,medical (institutional),Rural,29.1
+TG,Telangana,22,medical (non-institutional),Rural,53.43
+TR,Tripura,22,medical (non-institutional),Rural,65.82
+UT,Uttarakhand,22,medical (non-institutional),Rural,31.74
+UP,Uttar Pradesh,22,medical (non-institutional),Rural,52.1
+WB,West Bengal,22,medical (non-institutional),Rural,86.31
+TG,Telangana,23,entertainment,Rural,43.28
+TR,Tripura,23,entertainment,Rural,34.27
+UT,Uttarakhand,23,entertainment,Rural,40.86
+UP,Uttar Pradesh,23,entertainment,Rural,13.3
+WB,West Bengal,23,entertainment,Rural,25.28
+TG,Telangana,24,minor durable-type goods,Rural,4.38
+TR,Tripura,24,minor durable-type goods,Rural,4.62
+UT,Uttarakhand,24,minor durable-type goods,Rural,12.51
+UP,Uttar Pradesh,24,minor durable-type goods,Rural,5.06
+WB,West Bengal,24,minor durable-type goods,Rural,5.58
+TG,Telangana,25,toilet articles,Rural,52.01
+TR,Tripura,25,toilet articles,Rural,36.06
+UT,Uttarakhand,25,toilet articles,Rural,43.27
+UP,Uttar Pradesh,25,toilet articles,Rural,33.35
+WB,West Bengal,25,toilet articles,Rural,35.23
+TG,Telangana,26,other household consumables,Rural,46.29
+TR,Tripura,26,other household consumables,Rural,26.48
+UT,Uttarakhand,26,other household consumables,Rural,37.57
+UP,Uttar Pradesh,26,other household consumables,Rural,28.72
+WB,West Bengal,26,other household consumables,Rural,28.67
+TG,Telangana,27,consum. services excl. conveyance,Rural,86.33
+TR,Tripura,27,consum. services excl. conveyance,Rural,68.34
+UT,Uttarakhand,27,consum. services excl. conveyance,Rural,95.64
+UP,Uttar Pradesh,27,consum. services excl. conveyance,Rural,67.24
+WB,West Bengal,27,consum. services excl. conveyance,Rural,51.33
+TG,Telangana,28,conveyance,Rural,121.32
+TR,Tripura,28,conveyance,Rural,69.03
+UT,Uttarakhand,28,conveyance,Rural,142.83
+UP,Uttar Pradesh,28,conveyance,Rural,64.61
+WB,West Bengal,28,conveyance,Rural,52.33
+TG,Telangana,29,rent,Rural,9.18
+TR,Tripura,29,rent,Rural,2.73
+UT,Uttarakhand,29,rent,Rural,14.98
+UP,Uttar Pradesh,29,rent,Rural,1.81
+WB,West Bengal,29,rent,Rural,2.47
+TG,Telangana,30,taxes & cesses,Rural,13.88
+TR,Tripura,30,taxes & cesses,Rural,1.21
+UT,Uttarakhand,30,taxes & cesses,Rural,9.74
+UP,Uttar Pradesh,30,taxes & cesses,Rural,1.21
+WB,West Bengal,30,taxes & cesses,Rural,1.79
+TG,Telangana,31,durable goods,Rural,82.4
+TR,Tripura,31,durable goods,Rural,59.17
+UT,Uttarakhand,31,durable goods,Rural,111.97
+UP,Uttar Pradesh,31,durable goods,Rural,81.77
+WB,West Bengal,31,durable goods,Rural,67.9
+TG,Telangana,32,non-food: total (16-31),Rural,1039.38
+TR,Tripura,32,non-food: total (16-31),Rural,951.25
+UT,Uttarakhand,32,non-food: total (16-31),Rural,1114.43
+UP,Uttar Pradesh,32,non-food: total (16-31),Rural,781.74
+WB,West Bengal,32,non-food: total (16-31),Rural,820.9
+TG,Telangana,33,total expenditure (15+32),Rural,2123.24
+TR,Tripura,33,total expenditure (15+32),Rural,2115.34
+UT,Uttarakhand,33,total expenditure (15+32),Rural,2255.67
+UP,Uttar Pradesh,33,total expenditure (15+32),Rural,1654.01
+WB,West Bengal,33,total expenditure (15+32),Rural,1848.98
+TG,Telangana,34,"cooked meals recd. free inworkpl.*",Rural,3.77
+TR,Tripura,34,"cooked meals recd. free inworkpl.*",Rural,1.44
+UT,Uttarakhand,34,"cooked meals recd. free inworkpl.*",Rural,0.44
+UP,Uttar Pradesh,34,"cooked meals recd. free inworkpl.*",Rural,1.27
+WB,West Bengal,34,"cooked meals recd. free inworkpl.*",Rural,3.8
+TG,Telangana,35,cooked meals recd. as assistance *,Rural,39.47
+TR,Tripura,35,cooked meals recd. as assistance *,Rural,29.21
+UT,Uttarakhand,35,cooked meals recd. as assistance *,Rural,16.43
+UP,Uttar Pradesh,35,cooked meals recd. as assistance *,Rural,13.96
+WB,West Bengal,35,cooked meals recd. as assistance *,Rural,30.17
+TG,Telangana,36,clothing & footwear (2nd hand) **,Rural,0.11
+TR,Tripura,36,clothing & footwear (2nd hand) **,Rural,2.31
+UT,Uttarakhand,36,clothing & footwear (2nd hand) **,Rural,0.83
+UP,Uttar Pradesh,36,clothing & footwear (2nd hand) **,Rural,0.09
+WB,West Bengal,36,clothing & footwear (2nd hand) **,Rural,0.13
+TG,Telangana,37,"@books, journals, etc. (2nd hand)",Rural,0.09
+TR,Tripura,37,"@books, journals, etc. (2nd hand)",Rural,1.56
+UT,Uttarakhand,37,"@books, journals, etc. (2nd hand)",Rural,0.32
+UP,Uttar Pradesh,37,"@books, journals, etc. (2nd hand)",Rural,0.49
+WB,West Bengal,37,"@books, journals, etc. (2nd hand)",Rural,0.6
+TG,Telangana,38,"$durables (2ndhand)",Rural,2.86
+TR,Tripura,38,"$durables (2ndhand)",Rural,1.65
+UT,Uttarakhand,38,"$durables (2ndhand)",Rural,1
+UP,Uttar Pradesh,38,"$durables (2ndhand)",Rural,1.33
+WB,West Bengal,38,"$durables (2ndhand)",Rural,0.97
+TG,Telangana,39,imputed rent,Rural,98.68
+TR,Tripura,39,imputed rent,Rural,77.38
+UT,Uttarakhand,39,imputed rent,Rural,158.79
+UP,Uttar Pradesh,39,imputed rent,Rural,19.86
+WB,West Bengal,39,imputed rent,Rural,34.47
+AN,Andaman & Nicobar Islands,1,cereal,Rural,204.27
+CH,Chandigarh,1,cereal,Rural,280.9
+DN,Dadra & Nagar Haveli,1,cereal,Rural,128.15
+DD,Daman & Diu,1,cereal,Rural,172.48
+LK,Lakshadweep,1,cereal,Rural,140.94
+AN,Andaman & Nicobar Islands,2,gram,Rural,2.26
+CH,Chandigarh,2,gram,Rural,18.11
+DN,Dadra & Nagar Haveli,2,gram,Rural,3.74
+DD,Daman & Diu,2,gram,Rural,2.76
+LK,Lakshadweep,2,gram,Rural,14.43
+AN,Andaman & Nicobar Islands,3,cereal substitutes,Rural,0.53
+CH,Chandigarh,3,cereal substitutes,Rural,0
+DN,Dadra & Nagar Haveli,3,cereal substitutes,Rural,0
+DD,Daman & Diu,3,cereal substitutes,Rural,0.77
+LK,Lakshadweep,3,cereal substitutes,Rural,0.53
+AN,Andaman & Nicobar Islands,4,pulses and pulse products,Rural,80.57
+CH,Chandigarh,4,pulses and pulse products,Rural,89.84
+DN,Dadra & Nagar Haveli,4,pulses and pulse products,Rural,70.53
+DD,Daman & Diu,4,pulses and pulse products,Rural,50.24
+LK,Lakshadweep,4,pulses and pulse products,Rural,55.9
+AN,Andaman & Nicobar Islands,5,milk and milk products,Rural,138.64
+CH,Chandigarh,5,milk and milk products,Rural,453.52
+DN,Dadra & Nagar Haveli,5,milk and milk products,Rural,37.56
+DD,Daman & Diu,5,milk and milk products,Rural,303.08
+LK,Lakshadweep,5,milk and milk products,Rural,40.1
+AN,Andaman & Nicobar Islands,6,sugar,Rural,32.85
+CH,Chandigarh,6,sugar,Rural,45.95
+DN,Dadra & Nagar Haveli,6,sugar,Rural,7.24
+DD,Daman & Diu,6,sugar,Rural,25.85
+LK,Lakshadweep,6,sugar,Rural,71.88
+AN,Andaman & Nicobar Islands,7,salt,Rural,4.55
+CH,Chandigarh,7,salt,Rural,3.95
+DN,Dadra & Nagar Haveli,7,salt,Rural,2.06
+DD,Daman & Diu,7,salt,Rural,2.43
+LK,Lakshadweep,7,salt,Rural,2.56
+AN,Andaman & Nicobar Islands,8,edible oil,Rural,116.09
+CH,Chandigarh,8,edible oil,Rural,87.38
+DN,Dadra & Nagar Haveli,8,edible oil,Rural,63.57
+DD,Daman & Diu,8,edible oil,Rural,84.2
+LK,Lakshadweep,8,edible oil,Rural,140.9
+AN,Andaman & Nicobar Islands,9,"egg, fish & meat",Rural,375.56
+CH,Chandigarh,9,"egg, fish & meat",Rural,61.28
+DN,Dadra & Nagar Haveli,9,"egg, fish & meat",Rural,76.35
+DD,Daman & Diu,9,"egg, fish & meat",Rural,229.54
+LK,Lakshadweep,9,"egg, fish & meat",Rural,486.04
+AN,Andaman & Nicobar Islands,10,vegetables,Rural,352.51
+CH,Chandigarh,10,vegetables,Rural,214.74
+DN,Dadra & Nagar Haveli,10,vegetables,Rural,113.2
+DD,Daman & Diu,10,vegetables,Rural,131.24
+LK,Lakshadweep,10,vegetables,Rural,168.13
+AN,Andaman & Nicobar Islands,11,fruits (fresh),Rural,137.9
+CH,Chandigarh,11,fruits (fresh),Rural,80.02
+DN,Dadra & Nagar Haveli,11,fruits (fresh),Rural,44.64
+DD,Daman & Diu,11,fruits (fresh),Rural,40.22
+LK,Lakshadweep,11,fruits (fresh),Rural,209.94
+AN,Andaman & Nicobar Islands,12,fruits (dry),Rural,17.32
+CH,Chandigarh,12,fruits (dry),Rural,26.61
+DN,Dadra & Nagar Haveli,12,fruits (dry),Rural,0.01
+DD,Daman & Diu,12,fruits (dry),Rural,23.5
+LK,Lakshadweep,12,fruits (dry),Rural,14.16
+AN,Andaman & Nicobar Islands,13,spices,Rural,98.47
+CH,Chandigarh,13,spices,Rural,89.78
+DN,Dadra & Nagar Haveli,13,spices,Rural,67.57
+DD,Daman & Diu,13,spices,Rural,69.65
+LK,Lakshadweep,13,spices,Rural,127.74
+AN,Andaman & Nicobar Islands,14,"beverages, refreshments, etc.",Rural,356.88
+CH,Chandigarh,14,"beverages, refreshments, etc.",Rural,359.12
+DN,Dadra & Nagar Haveli,14,"beverages, refreshments, etc.",Rural,265.46
+DD,Daman & Diu,14,"beverages, refreshments, etc.",Rural,295.28
+LK,Lakshadweep,14,"beverages, refreshments, etc.",Rural,277.8
+AN,Andaman & Nicobar Islands,15,food: total (1-14),Rural,1918.42
+CH,Chandigarh,15,food: total (1-14),Rural,1811.19
+DN,Dadra & Nagar Haveli,15,food: total (1-14),Rural,880.08
+DD,Daman & Diu,15,food: total (1-14),Rural,1431.25
+LK,Lakshadweep,15,food: total (1-14),Rural,1751.05
+AN,Andaman & Nicobar Islands,16,"pan, tobacco & intoxicants",Rural,158.89
+CH,Chandigarh,16,"pan, tobacco & intoxicants",Rural,39.85
+DN,Dadra & Nagar Haveli,16,"pan, tobacco & intoxicants",Rural,119.27
+DD,Daman & Diu,16,"pan, tobacco & intoxicants",Rural,91.14
+LK,Lakshadweep,16,"pan, tobacco & intoxicants",Rural,31.95
+AN,Andaman & Nicobar Islands,17,fuel and light,Rural,220.58
+CH,Chandigarh,17,fuel and light,Rural,294.26
+DN,Dadra & Nagar Haveli,17,fuel and light,Rural,97.88
+DD,Daman & Diu,17,fuel and light,Rural,162.67
+LK,Lakshadweep,17,fuel and light,Rural,249.61
+AN,Andaman & Nicobar Islands,18,clothing & bedding,Rural,216.28
+CH,Chandigarh,18,clothing & bedding,Rural,197.11
+DN,Dadra & Nagar Haveli,18,clothing & bedding,Rural,118.61
+DD,Daman & Diu,18,clothing & bedding,Rural,167.88
+LK,Lakshadweep,18,clothing & bedding,Rural,200.92
+AN,Andaman & Nicobar Islands,19,footwear,Rural,46.59
+CH,Chandigarh,19,footwear,Rural,36.81
+DN,Dadra & Nagar Haveli,19,footwear,Rural,38.02
+DD,Daman & Diu,19,footwear,Rural,37.13
+LK,Lakshadweep,19,footwear,Rural,34.34
+AN,Andaman & Nicobar Islands,20,education,Rural,61.3
+CH,Chandigarh,20,education,Rural,129.3
+DN,Dadra & Nagar Haveli,20,education,Rural,17.33
+DD,Daman & Diu,20,education,Rural,32.85
+LK,Lakshadweep,20,education,Rural,19.83
+AN,Andaman & Nicobar Islands,21,medical (institutional),Rural,11.17
+CH,Chandigarh,21,medical (institutional),Rural,8.52
+DN,Dadra & Nagar Haveli,21,medical (institutional),Rural,2.27
+DD,Daman & Diu,21,medical (institutional),Rural,0.15
+LK,Lakshadweep,21,medical (institutional),Rural,14.97
+AN,Andaman & Nicobar Islands,22,medical (non-institutional),Rural,19.37
+CH,Chandigarh,22,medical (non-institutional),Rural,51.64
+DN,Dadra & Nagar Haveli,22,medical (non-institutional),Rural,17.12
+DD,Daman & Diu,22,medical (non-institutional),Rural,24.7
+LK,Lakshadweep,22,medical (non-institutional),Rural,87.81
+AN,Andaman & Nicobar Islands,23,entertainment,Rural,69.21
+CH,Chandigarh,23,entertainment,Rural,65.61
+DN,Dadra & Nagar Haveli,23,entertainment,Rural,33.3
+DD,Daman & Diu,23,entertainment,Rural,42.03
+LK,Lakshadweep,23,entertainment,Rural,32.44
+AN,Andaman & Nicobar Islands,24,minor durable-type goods,Rural,16.65
+CH,Chandigarh,24,minor durable-type goods,Rural,11.66
+DN,Dadra & Nagar Haveli,24,minor durable-type goods,Rural,8.25
+DD,Daman & Diu,24,minor durable-type goods,Rural,9.96
+LK,Lakshadweep,24,minor durable-type goods,Rural,4.86
+AN,Andaman & Nicobar Islands,25,toilet articles,Rural,101.47
+CH,Chandigarh,25,toilet articles,Rural,74.35
+DN,Dadra & Nagar Haveli,25,toilet articles,Rural,56.72
+DD,Daman & Diu,25,toilet articles,Rural,59
+LK,Lakshadweep,25,toilet articles,Rural,68.33
+AN,Andaman & Nicobar Islands,26,other household consumables,Rural,75.3
+CH,Chandigarh,26,other household consumables,Rural,60.51
+DN,Dadra & Nagar Haveli,26,other household consumables,Rural,27.03
+DD,Daman & Diu,26,other household consumables,Rural,38.49
+LK,Lakshadweep,26,other household consumables,Rural,36.23
+AN,Andaman & Nicobar Islands,27,consum. services excl. conveyance,Rural,151.43
+CH,Chandigarh,27,consum. services excl. conveyance,Rural,206.69
+DN,Dadra & Nagar Haveli,27,consum. services excl. conveyance,Rural,79.84
+DD,Daman & Diu,27,consum. services excl. conveyance,Rural,115.7
+LK,Lakshadweep,27,consum. services excl. conveyance,Rural,120.13
+AN,Andaman & Nicobar Islands,28,conveyance,Rural,253.05
+CH,Chandigarh,28,conveyance,Rural,243.72
+DN,Dadra & Nagar Haveli,28,conveyance,Rural,130.29
+DD,Daman & Diu,28,conveyance,Rural,180.09
+LK,Lakshadweep,28,conveyance,Rural,205.86
+AN,Andaman & Nicobar Islands,29,rent,Rural,113.71
+CH,Chandigarh,29,rent,Rural,454.6
+DN,Dadra & Nagar Haveli,29,rent,Rural,35.66
+DD,Daman & Diu,29,rent,Rural,43.26
+LK,Lakshadweep,29,rent,Rural,24.41
+AN,Andaman & Nicobar Islands,30,taxes & cesses,Rural,2.98
+CH,Chandigarh,30,taxes & cesses,Rural,34.27
+DN,Dadra & Nagar Haveli,30,taxes & cesses,Rural,0.8
+DD,Daman & Diu,30,taxes & cesses,Rural,19.33
+LK,Lakshadweep,30,taxes & cesses,Rural,1.8
+AN,Andaman & Nicobar Islands,31,durable goods,Rural,132.18
+CH,Chandigarh,31,durable goods,Rural,87.99
+DN,Dadra & Nagar Haveli,31,durable goods,Rural,64.13
+DD,Daman & Diu,31,durable goods,Rural,254.04
+LK,Lakshadweep,31,durable goods,Rural,167.32
+AN,Andaman & Nicobar Islands,32,non-food: total (16-31),Rural,1650.15
+CH,Chandigarh,32,non-food: total (16-31),Rural,1996.88
+DN,Dadra & Nagar Haveli,32,non-food: total (16-31),Rural,846.53
+DD,Daman & Diu,32,non-food: total (16-31),Rural,1278.41
+LK,Lakshadweep,32,non-food: total (16-31),Rural,1300.81
+AN,Andaman & Nicobar Islands,33,total expenditure (15+32),Rural,3568.56
+CH,Chandigarh,33,total expenditure (15+32),Rural,3808.08
+DN,Dadra & Nagar Haveli,33,total expenditure (15+32),Rural,1726.61
+DD,Daman & Diu,33,total expenditure (15+32),Rural,2709.66
+LK,Lakshadweep,33,total expenditure (15+32),Rural,3051.86
+AN,Andaman & Nicobar Islands,34,"cooked meals recd. free inworkpl.*",Rural,12.3
+CH,Chandigarh,34,"cooked meals recd. free inworkpl.*",Rural,1.88
+DN,Dadra & Nagar Haveli,34,"cooked meals recd. free inworkpl.*",Rural,11.91
+DD,Daman & Diu,34,"cooked meals recd. free inworkpl.*",Rural,63.34
+LK,Lakshadweep,34,"cooked meals recd. free inworkpl.*",Rural,0.56
+AN,Andaman & Nicobar Islands,35,cooked meals recd. as assistance *,Rural,48.92
+CH,Chandigarh,35,cooked meals recd. as assistance *,Rural,19.58
+DN,Dadra & Nagar Haveli,35,cooked meals recd. as assistance *,Rural,26.67
+DD,Daman & Diu,35,cooked meals recd. as assistance *,Rural,7.23
+LK,Lakshadweep,35,cooked meals recd. as assistance *,Rural,27.21
+AN,Andaman & Nicobar Islands,36,clothing & footwear (2nd hand) **,Rural,0
+CH,Chandigarh,36,clothing & footwear (2nd hand) **,Rural,1.1
+DN,Dadra & Nagar Haveli,36,clothing & footwear (2nd hand) **,Rural,0
+DD,Daman & Diu,36,clothing & footwear (2nd hand) **,Rural,0.92
+LK,Lakshadweep,36,clothing & footwear (2nd hand) **,Rural,0
+AN,Andaman & Nicobar Islands,37,"@books, journals, etc. (2nd hand)",Rural,0.3
+CH,Chandigarh,37,"@books, journals, etc. (2nd hand)",Rural,0.81
+DN,Dadra & Nagar Haveli,37,"@books, journals, etc. (2nd hand)",Rural,0
+DD,Daman & Diu,37,"@books, journals, etc. (2nd hand)",Rural,0.26
+LK,Lakshadweep,37,"@books, journals, etc. (2nd hand)",Rural,0
+AN,Andaman & Nicobar Islands,38,"$durables (2ndhand)",Rural,0
+CH,Chandigarh,38,"$durables (2ndhand)",Rural,3.9
+DN,Dadra & Nagar Haveli,38,"$durables (2ndhand)",Rural,0
+DD,Daman & Diu,38,"$durables (2ndhand)",Rural,2.69
+LK,Lakshadweep,38,"$durables (2ndhand)",Rural,2.1
+AN,Andaman & Nicobar Islands,39,imputed rent,Rural,54.11
+CH,Chandigarh,39,imputed rent,Rural,544.61
+DN,Dadra & Nagar Haveli,39,imputed rent,Rural,269.18
+DD,Daman & Diu,39,imputed rent,Rural,256.91
+LK,Lakshadweep,39,imputed rent,Rural,156.03
+PY,Puducherry,1,cereal,Rural,268.09
+IN,India,1,cereal,Rural,175.21
+PY,Puducherry,2,gram,Rural,8.08
+IN,India,2,gram,Rural,3.11
+PY,Puducherry,3,cereal substitutes,Rural,0
+IN,India,3,cereal substitutes,Rural,0.95
+PY,Puducherry,4,pulses and pulse products,Rural,83.25
+IN,India,4,pulses and pulse products,Rural,48.32
+PY,Puducherry,5,milk and milk products,Rural,198.65
+IN,India,5,milk and milk products,Rural,169.4
+PY,Puducherry,6,sugar,Rural,27.77
+IN,India,6,sugar,Rural,26.8
+PY,Puducherry,7,salt,Rural,4.87
+IN,India,7,salt,Rural,2.99
+PY,Puducherry,8,edible oil,Rural,104.13
+IN,India,8,edible oil,Rural,65.03
+PY,Puducherry,9,"egg, fish & meat",Rural,245.62
+IN,India,9,"egg, fish & meat",Rural,90.37
+PY,Puducherry,10,vegetables,Rural,191.56
+IN,India,10,vegetables,Rural,132.92
+PY,Puducherry,11,fruits (fresh),Rural,99.61
+IN,India,11,fruits (fresh),Rural,45.62
+PY,Puducherry,12,fruits (dry),Rural,37.5
+IN,India,12,fruits (dry),Rural,12.34
+PY,Puducherry,13,spices,Rural,127.08
+IN,India,13,spices,Rural,61.39
+PY,Puducherry,14,"beverages, refreshments, etc.",Rural,241.46
+IN,India,14,"beverages, refreshments, etc.",Rural,144.24
+PY,Puducherry,15,food: total (1-14),Rural,1637.67
+IN,India,15,food: total (1-14),Rural,978.69
+PY,Puducherry,16,"pan, tobacco & intoxicants",Rural,47.06
+IN,India,16,"pan, tobacco & intoxicants",Rural,46.58
+PY,Puducherry,17,fuel and light,Rural,218.91
+IN,India,17,fuel and light,Rural,165.67
+PY,Puducherry,18,clothing & bedding,Rural,199.27
+IN,India,18,clothing & bedding,Rural,128.82
+PY,Puducherry,19,footwear,Rural,24.81
+IN,India,19,footwear,Rural,21.62
+PY,Puducherry,20,education,Rural,153.91
+IN,India,20,education,Rural,76.87
+PY,Puducherry,21,medical (institutional),Rural,44.92
+IN,India,21,medical (institutional),Rural,25.55
+PY,Puducherry,22,medical (non-institutional),Rural,56.32
+IN,India,22,medical (non-institutional),Rural,50.94
+PY,Puducherry,23,entertainment,Rural,52.56
+IN,India,23,entertainment,Rural,24.31
+PY,Puducherry,24,minor durable-type goods,Rural,5.53
+IN,India,24,minor durable-type goods,Rural,6.29
+PY,Puducherry,25,toilet articles,Rural,94.78
+IN,India,25,toilet articles,Rural,38.38
+PY,Puducherry,26,other household consumables,Rural,75.1
+IN,India,26,other household consumables,Rural,34.6
+PY,Puducherry,27,consum. services excl. conveyance,Rural,145.6
+IN,India,27,consum. services excl. conveyance,Rural,78.3
+PY,Puducherry,28,conveyance,Rural,422.98
+IN,India,28,conveyance,Rural,94.28
+PY,Puducherry,29,rent,Rural,89.93
+IN,India,29,rent,Rural,7.83
+PY,Puducherry,30,taxes & cesses,Rural,35.98
+IN,India,30,taxes & cesses,Rural,6.67
+PY,Puducherry,31,durable goods,Rural,69.67
+IN,India,31,durable goods,Rural,86.74
+PY,Puducherry,32,non-food: total (16-31),Rural,1737.32
+IN,India,32,non-food: total (16-31),Rural,893.44
+PY,Puducherry,33,total expenditure (15+32),Rural,3374.99
+IN,India,33,total expenditure (15+32),Rural,1872.13
+PY,Puducherry,34,"cooked meals recd. free inworkpl.*",Rural,13.85
+IN,India,34,"cooked meals recd. free inworkpl.*",Rural,2.37
+PY,Puducherry,35,cooked meals recd. as assistance *,Rural,1.93
+IN,India,35,cooked meals recd. as assistance *,Rural,23.52
+PY,Puducherry,36,clothing & footwear (2nd hand) **,Rural,0
+IN,India,36,clothing & footwear (2nd hand) **,Rural,0.35
+PY,Puducherry,37,"@books, journals, etc. (2nd hand)",Rural,1.33
+IN,India,37,"@books, journals, etc. (2nd hand)",Rural,0.44
+PY,Puducherry,38,"$durables (2ndhand)",Rural,0
+IN,India,38,"$durables (2ndhand)",Rural,1.66
+PY,Puducherry,39,imputed rent,Rural,231
+IN,India,39,imputed rent,Rural,74.06
+AP,Andhra Pradesh,1,cereal,Urban,259.17
+AR,Arunachal Pradesh,1,cereal,Urban,303.73
+AS,Assam,1,cereal,Urban,289.34
+BR,Bihar,1,cereal,Urban,247.94
+CT,Chhattisgarh,1,cereal,Urban,217.26
+AP,Andhra Pradesh,2,gram,Urban,2.55
+AR,Arunachal Pradesh,2,gram,Urban,2.53
+AS,Assam,2,gram,Urban,2.87
+BR,Bihar,2,gram,Urban,6.46
+CT,Chhattisgarh,2,gram,Urban,2.39
+AP,Andhra Pradesh,3,cereal substitutes,Urban,0.26
+AR,Arunachal Pradesh,3,cereal substitutes,Urban,3.38
+AS,Assam,3,cereal substitutes,Urban,0.05
+BR,Bihar,3,cereal substitutes,Urban,0.01
+CT,Chhattisgarh,3,cereal substitutes,Urban,0.05
+AP,Andhra Pradesh,4,pulses and pulse products,Urban,65.3
+AR,Arunachal Pradesh,4,pulses and pulse products,Urban,60.6
+AS,Assam,4,pulses and pulse products,Urban,58.72
+BR,Bihar,4,pulses and pulse products,Urban,48.05
+CT,Chhattisgarh,4,pulses and pulse products,Urban,58.87
+AP,Andhra Pradesh,5,milk and milk products,Urban,228.04
+AR,Arunachal Pradesh,5,milk and milk products,Urban,132.05
+AS,Assam,5,milk and milk products,Urban,125.33
+BR,Bihar,5,milk and milk products,Urban,219.43
+CT,Chhattisgarh,5,milk and milk products,Urban,114.18
+AP,Andhra Pradesh,6,sugar,Urban,20.63
+AR,Arunachal Pradesh,6,sugar,Urban,25.58
+AS,Assam,6,sugar,Urban,22.85
+BR,Bihar,6,sugar,Urban,20.69
+CT,Chhattisgarh,6,sugar,Urban,27.76
+AP,Andhra Pradesh,7,salt,Urban,3.54
+AR,Arunachal Pradesh,7,salt,Urban,4.65
+AS,Assam,7,salt,Urban,4.2
+BR,Bihar,7,salt,Urban,3.48
+CT,Chhattisgarh,7,salt,Urban,4
+AP,Andhra Pradesh,8,edible oil,Urban,74.27
+AR,Arunachal Pradesh,8,edible oil,Urban,98.11
+AS,Assam,8,edible oil,Urban,97.18
+BR,Bihar,8,edible oil,Urban,75.41
+CT,Chhattisgarh,8,edible oil,Urban,68.86
+AP,Andhra Pradesh,9,"egg, fish & meat",Urban,176.76
+AR,Arunachal Pradesh,9,"egg, fish & meat",Urban,391.07
+AS,Assam,9,"egg, fish & meat",Urban,307.84
+BR,Bihar,9,"egg, fish & meat",Urban,104.55
+CT,Chhattisgarh,9,"egg, fish & meat",Urban,88.74
+AP,Andhra Pradesh,10,vegetables,Urban,163.7
+AR,Arunachal Pradesh,10,vegetables,Urban,306.73
+AS,Assam,10,vegetables,Urban,210.51
+BR,Bihar,10,vegetables,Urban,141.66
+CT,Chhattisgarh,10,vegetables,Urban,213.19
+AP,Andhra Pradesh,11,fruits (fresh),Urban,120.75
+AR,Arunachal Pradesh,11,fruits (fresh),Urban,132.95
+AS,Assam,11,fruits (fresh),Urban,94.55
+BR,Bihar,11,fruits (fresh),Urban,64.57
+CT,Chhattisgarh,11,fruits (fresh),Urban,87.25
+AP,Andhra Pradesh,12,fruits (dry),Urban,43.65
+AR,Arunachal Pradesh,12,fruits (dry),Urban,31.99
+AS,Assam,12,fruits (dry),Urban,27.27
+BR,Bihar,12,fruits (dry),Urban,28.94
+CT,Chhattisgarh,12,fruits (dry),Urban,20.65
+AP,Andhra Pradesh,13,spices,Urban,80.49
+AR,Arunachal Pradesh,13,spices,Urban,93.8
+AS,Assam,13,spices,Urban,64.49
+BR,Bihar,13,spices,Urban,58.66
+CT,Chhattisgarh,13,spices,Urban,73.69
+AP,Andhra Pradesh,14,"beverages, refreshments, etc.",Urban,335.4
+AR,Arunachal Pradesh,14,"beverages, refreshments, etc.",Urban,356.02
+AS,Assam,14,"beverages, refreshments, etc.",Urban,300.89
+BR,Bihar,14,"beverages, refreshments, etc.",Urban,187.84
+CT,Chhattisgarh,14,"beverages, refreshments, etc.",Urban,222.45
+AP,Andhra Pradesh,15,food: total (1-14),Urban,1574.52
+AR,Arunachal Pradesh,15,food: total (1-14),Urban,1943.18
+AS,Assam,15,food: total (1-14),Urban,1606.09
+BR,Bihar,15,food: total (1-14),Urban,1207.7
+CT,Chhattisgarh,15,food: total (1-14),Urban,1199.34
+AP,Andhra Pradesh,16,"pan, tobacco & intoxicants",Urban,79.26
+AR,Arunachal Pradesh,16,"pan, tobacco & intoxicants",Urban,216.82
+AS,Assam,16,"pan, tobacco & intoxicants",Urban,89.13
+BR,Bihar,16,"pan, tobacco & intoxicants",Urban,19.92
+CT,Chhattisgarh,16,"pan, tobacco & intoxicants",Urban,76.67
+AP,Andhra Pradesh,17,fuel and light,Urban,216.29
+AR,Arunachal Pradesh,17,fuel and light,Urban,292.55
+AS,Assam,17,fuel and light,Urban,247.78
+BR,Bihar,17,fuel and light,Urban,188.01
+CT,Chhattisgarh,17,fuel and light,Urban,251.83
+AP,Andhra Pradesh,18,clothing & bedding,Urban,190.01
+AR,Arunachal Pradesh,18,clothing & bedding,Urban,164.91
+AS,Assam,18,clothing & bedding,Urban,181.12
+BR,Bihar,18,clothing & bedding,Urban,178.53
+CT,Chhattisgarh,18,clothing & bedding,Urban,208.5
+AP,Andhra Pradesh,19,footwear,Urban,29.21
+AR,Arunachal Pradesh,19,footwear,Urban,42.2
+AS,Assam,19,footwear,Urban,34.52
+BR,Bihar,19,footwear,Urban,26.14
+CT,Chhattisgarh,19,footwear,Urban,32.44
+AP,Andhra Pradesh,20,education,Urban,260.07
+AR,Arunachal Pradesh,20,education,Urban,148.68
+AS,Assam,20,education,Urban,213.36
+BR,Bihar,20,education,Urban,175.06
+CT,Chhattisgarh,20,education,Urban,172.23
+AP,Andhra Pradesh,21,medical (institutional),Urban,41.37
+AR,Arunachal Pradesh,21,medical (institutional),Urban,28.43
+AS,Assam,21,medical (institutional),Urban,34.19
+BR,Bihar,21,medical (institutional),Urban,13.73
+CT,Chhattisgarh,21,medical (institutional),Urban,45.34
+AP,Andhra Pradesh,22,medical (non-institutional),Urban,119.48
+AR,Arunachal Pradesh,22,medical (non-institutional),Urban,55.06
+AS,Assam,22,medical (non-institutional),Urban,49.22
+BR,Bihar,22,medical (non-institutional),Urban,48.32
+CT,Chhattisgarh,22,medical (non-institutional),Urban,99.62
+AP,Andhra Pradesh,23,entertainment,Urban,69.84
+AR,Arunachal Pradesh,23,entertainment,Urban,84.62
+AS,Assam,23,entertainment,Urban,69.46
+BR,Bihar,23,entertainment,Urban,40.22
+CT,Chhattisgarh,23,entertainment,Urban,69.74
+AP,Andhra Pradesh,24,minor durable-type goods,Urban,11.46
+AR,Arunachal Pradesh,24,minor durable-type goods,Urban,37.85
+AS,Assam,24,minor durable-type goods,Urban,16.49
+BR,Bihar,24,minor durable-type goods,Urban,11.35
+CT,Chhattisgarh,24,minor durable-type goods,Urban,11.48
+AP,Andhra Pradesh,25,toilet articles,Urban,80.55
+AR,Arunachal Pradesh,25,toilet articles,Urban,92.66
+AS,Assam,25,toilet articles,Urban,55.23
+BR,Bihar,25,toilet articles,Urban,40.42
+CT,Chhattisgarh,25,toilet articles,Urban,75.65
+AP,Andhra Pradesh,26,other household consumables,Urban,73.05
+AR,Arunachal Pradesh,26,other household consumables,Urban,58.58
+AS,Assam,26,other household consumables,Urban,44.58
+BR,Bihar,26,other household consumables,Urban,36.63
+CT,Chhattisgarh,26,other household consumables,Urban,61.52
+AP,Andhra Pradesh,27,consum. services excl. conveyance,Urban,169.84
+AR,Arunachal Pradesh,27,consum. services excl. conveyance,Urban,193.23
+AS,Assam,27,consum. services excl. conveyance,Urban,132.2
+BR,Bihar,27,consum. services excl. conveyance,Urban,98.4
+CT,Chhattisgarh,27,consum. services excl. conveyance,Urban,164.23
+AP,Andhra Pradesh,28,conveyance,Urban,230.45
+AR,Arunachal Pradesh,28,conveyance,Urban,153.28
+AS,Assam,28,conveyance,Urban,166.27
+BR,Bihar,28,conveyance,Urban,98.16
+CT,Chhattisgarh,28,conveyance,Urban,201.85
+AP,Andhra Pradesh,29,rent,Urban,382
+AR,Arunachal Pradesh,29,rent,Urban,188.59
+AS,Assam,29,rent,Urban,255.85
+BR,Bihar,29,rent,Urban,107.2
+CT,Chhattisgarh,29,rent,Urban,128.69
+AP,Andhra Pradesh,30,taxes & cesses,Urban,26.36
+AR,Arunachal Pradesh,30,taxes & cesses,Urban,19.07
+AS,Assam,30,taxes & cesses,Urban,13.03
+BR,Bihar,30,taxes & cesses,Urban,7.26
+CT,Chhattisgarh,30,taxes & cesses,Urban,25.32
+AP,Andhra Pradesh,31,durable goods,Urban,161.43
+AR,Arunachal Pradesh,31,durable goods,Urban,205.53
+AS,Assam,31,durable goods,Urban,109.08
+BR,Bihar,31,durable goods,Urban,96.66
+CT,Chhattisgarh,31,durable goods,Urban,193.23
+AP,Andhra Pradesh,32,non-food: total (16-31),Urban,2140.67
+AR,Arunachal Pradesh,32,non-food: total (16-31),Urban,1982.05
+AS,Assam,32,non-food: total (16-31),Urban,1711.49
+BR,Bihar,32,non-food: total (16-31),Urban,1186.01
+CT,Chhattisgarh,32,non-food: total (16-31),Urban,1818.35
+AP,Andhra Pradesh,33,total expenditure (15+32),Urban,3715.19
+AR,Arunachal Pradesh,33,total expenditure (15+32),Urban,3925.24
+AS,Assam,33,total expenditure (15+32),Urban,3317.59
+BR,Bihar,33,total expenditure (15+32),Urban,2393.71
+CT,Chhattisgarh,33,total expenditure (15+32),Urban,3017.69
+AP,Andhra Pradesh,34,"cooked meals recd. free inworkpl.*",Urban,7.32
+AR,Arunachal Pradesh,34,"cooked meals recd. free inworkpl.*",Urban,0.89
+AS,Assam,34,"cooked meals recd. free inworkpl.*",Urban,1.54
+BR,Bihar,34,"cooked meals recd. free inworkpl.*",Urban,3.47
+CT,Chhattisgarh,34,"cooked meals recd. free inworkpl.*",Urban,0.34
+AP,Andhra Pradesh,35,cooked meals recd. as assistance *,Urban,16.68
+AR,Arunachal Pradesh,35,cooked meals recd. as assistance *,Urban,0.33
+AS,Assam,35,cooked meals recd. as assistance *,Urban,10.91
+BR,Bihar,35,cooked meals recd. as assistance *,Urban,12.01
+CT,Chhattisgarh,35,cooked meals recd. as assistance *,Urban,23.44
+AP,Andhra Pradesh,36,clothing & footwear (2nd hand) **,Urban,0.06
+AR,Arunachal Pradesh,36,clothing & footwear (2nd hand) **,Urban,3.09
+AS,Assam,36,clothing & footwear (2nd hand) **,Urban,0.02
+BR,Bihar,36,clothing & footwear (2nd hand) **,Urban,0.03
+CT,Chhattisgarh,36,clothing & footwear (2nd hand) **,Urban,0.12
+AP,Andhra Pradesh,37,"@books, journals, etc. (2nd hand)",Urban,0.23
+AR,Arunachal Pradesh,37,"@books, journals, etc. (2nd hand)",Urban,0.71
+AS,Assam,37,"@books, journals, etc. (2nd hand)",Urban,0.47
+BR,Bihar,37,"@books, journals, etc. (2nd hand)",Urban,0.59
+CT,Chhattisgarh,37,"@books, journals, etc. (2nd hand)",Urban,0.92
+AP,Andhra Pradesh,38,"$durables (2ndhand)",Urban,2.87
+AR,Arunachal Pradesh,38,"$durables (2ndhand)",Urban,4.35
+AS,Assam,38,"$durables (2ndhand)",Urban,0.24
+BR,Bihar,38,"$durables (2ndhand)",Urban,0.53
+CT,Chhattisgarh,38,"$durables (2ndhand)",Urban,1.87
+AP,Andhra Pradesh,39,imputed rent,Urban,335.81
+AR,Arunachal Pradesh,39,imputed rent,Urban,37.57
+AS,Assam,39,imputed rent,Urban,544.75
+BR,Bihar,39,imputed rent,Urban,515.07
+CT,Chhattisgarh,39,imputed rent,Urban,497.85
+DL,NCT of Delhi,1,cereal,Urban,185.56
+GA,Goa,1,cereal,Urban,192.06
+GJ,Gujarat,1,cereal,Urban,198.05
+HR,Haryana,1,cereal,Urban,182.38
+HP,Himachal Pradesh,1,cereal,Urban,247.46
+DL,NCT of Delhi,2,gram,Urban,5.8
+GA,Goa,2,gram,Urban,2.03
+GJ,Gujarat,2,gram,Urban,5.12
+HR,Haryana,2,gram,Urban,5.42
+HP,Himachal Pradesh,2,gram,Urban,11.08
+DL,NCT of Delhi,3,cereal substitutes,Urban,0
+GA,Goa,3,cereal substitutes,Urban,0.09
+GJ,Gujarat,3,cereal substitutes,Urban,0.63
+HR,Haryana,3,cereal substitutes,Urban,0.87
+HP,Himachal Pradesh,3,cereal substitutes,Urban,0
+DL,NCT of Delhi,4,pulses and pulse products,Urban,67.11
+GA,Goa,4,pulses and pulse products,Urban,44.97
+GJ,Gujarat,4,pulses and pulse products,Urban,66.78
+HR,Haryana,4,pulses and pulse products,Urban,57.53
+HP,Himachal Pradesh,4,pulses and pulse products,Urban,84.99
+DL,NCT of Delhi,5,milk and milk products,Urban,518.72
+GA,Goa,5,milk and milk products,Urban,228.93
+GJ,Gujarat,5,milk and milk products,Urban,422.05
+HR,Haryana,5,milk and milk products,Urban,616.56
+HP,Himachal Pradesh,5,milk and milk products,Urban,452.95
+DL,NCT of Delhi,6,sugar,Urban,43.99
+GA,Goa,6,sugar,Urban,37.53
+GJ,Gujarat,6,sugar,Urban,39.8
+HR,Haryana,6,sugar,Urban,45.45
+HP,Himachal Pradesh,6,sugar,Urban,42.32
+DL,NCT of Delhi,7,salt,Urban,4.05
+GA,Goa,7,salt,Urban,3.38
+GJ,Gujarat,7,salt,Urban,2.86
+HR,Haryana,7,salt,Urban,3.8
+HP,Himachal Pradesh,7,salt,Urban,3.35
+DL,NCT of Delhi,8,edible oil,Urban,67.5
+GA,Goa,8,edible oil,Urban,72.92
+GJ,Gujarat,8,edible oil,Urban,116.61
+HR,Haryana,8,edible oil,Urban,59.42
+HP,Himachal Pradesh,8,edible oil,Urban,93.71
+DL,NCT of Delhi,9,"egg, fish & meat",Urban,124.73
+GA,Goa,9,"egg, fish & meat",Urban,451.39
+GJ,Gujarat,9,"egg, fish & meat",Urban,52.86
+HR,Haryana,9,"egg, fish & meat",Urban,46.42
+HP,Himachal Pradesh,9,"egg, fish & meat",Urban,75.35
+DL,NCT of Delhi,10,vegetables,Urban,195.93
+GA,Goa,10,vegetables,Urban,160.57
+GJ,Gujarat,10,vegetables,Urban,209.52
+HR,Haryana,10,vegetables,Urban,181.41
+HP,Himachal Pradesh,10,vegetables,Urban,233.12
+DL,NCT of Delhi,11,fruits (fresh),Urban,105.29
+GA,Goa,11,fruits (fresh),Urban,273.5
+GJ,Gujarat,11,fruits (fresh),Urban,117.01
+HR,Haryana,11,fruits (fresh),Urban,136.79
+HP,Himachal Pradesh,11,fruits (fresh),Urban,142.29
+DL,NCT of Delhi,12,fruits (dry),Urban,44.01
+GA,Goa,12,fruits (dry),Urban,29.28
+GJ,Gujarat,12,fruits (dry),Urban,62.92
+HR,Haryana,12,fruits (dry),Urban,50.79
+HP,Himachal Pradesh,12,fruits (dry),Urban,81.93
+DL,NCT of Delhi,13,spices,Urban,76.29
+GA,Goa,13,spices,Urban,101.03
+GJ,Gujarat,13,spices,Urban,96.51
+HR,Haryana,13,spices,Urban,81.91
+HP,Himachal Pradesh,13,spices,Urban,83.66
+DL,NCT of Delhi,14,"beverages, refreshments, etc.",Urban,505.92
+GA,Goa,14,"beverages, refreshments, etc.",Urban,398.68
+GJ,Gujarat,14,"beverages, refreshments, etc.",Urban,382.35
+HR,Haryana,14,"beverages, refreshments, etc.",Urban,439.03
+HP,Himachal Pradesh,14,"beverages, refreshments, etc.",Urban,489.78
+DL,NCT of Delhi,15,food: total (1-14),Urban,1944.92
+GA,Goa,15,food: total (1-14),Urban,1996.36
+GJ,Gujarat,15,food: total (1-14),Urban,1773.08
+HR,Haryana,15,food: total (1-14),Urban,1907.79
+HP,Himachal Pradesh,15,food: total (1-14),Urban,2041.97
+DL,NCT of Delhi,16,"pan, tobacco & intoxicants",Urban,63.67
+GA,Goa,16,"pan, tobacco & intoxicants",Urban,32.9
+GJ,Gujarat,16,"pan, tobacco & intoxicants",Urban,55.3
+HR,Haryana,16,"pan, tobacco & intoxicants",Urban,64.22
+HP,Himachal Pradesh,16,"pan, tobacco & intoxicants",Urban,83.51
+DL,NCT of Delhi,17,fuel and light,Urban,383.18
+GA,Goa,17,fuel and light,Urban,216.06
+GJ,Gujarat,17,fuel and light,Urban,274.42
+HR,Haryana,17,fuel and light,Urban,339.43
+HP,Himachal Pradesh,17,fuel and light,Urban,256.01
+DL,NCT of Delhi,18,clothing & bedding,Urban,269.21
+GA,Goa,18,clothing & bedding,Urban,213.08
+GJ,Gujarat,18,clothing & bedding,Urban,223.82
+HR,Haryana,18,clothing & bedding,Urban,295.97
+HP,Himachal Pradesh,18,clothing & bedding,Urban,354.21
+DL,NCT of Delhi,19,footwear,Urban,51.61
+GA,Goa,19,footwear,Urban,38.59
+GJ,Gujarat,19,footwear,Urban,44.41
+HR,Haryana,19,footwear,Urban,60.24
+HP,Himachal Pradesh,19,footwear,Urban,92.21
+DL,NCT of Delhi,20,education,Urban,396.54
+GA,Goa,20,education,Urban,103.93
+GJ,Gujarat,20,education,Urban,232.38
+HR,Haryana,20,education,Urban,438.96
+HP,Himachal Pradesh,20,education,Urban,363.96
+DL,NCT of Delhi,21,medical (institutional),Urban,43.94
+GA,Goa,21,medical (institutional),Urban,29.29
+GJ,Gujarat,21,medical (institutional),Urban,32.15
+HR,Haryana,21,medical (institutional),Urban,44.64
+HP,Himachal Pradesh,21,medical (institutional),Urban,49.91
+DL,NCT of Delhi,22,medical (non-institutional),Urban,119.18
+GA,Goa,22,medical (non-institutional),Urban,80.21
+GJ,Gujarat,22,medical (non-institutional),Urban,61.11
+HR,Haryana,22,medical (non-institutional),Urban,94.39
+HP,Himachal Pradesh,22,medical (non-institutional),Urban,121.93
+DL,NCT of Delhi,23,entertainment,Urban,115.66
+GA,Goa,23,entertainment,Urban,107.47
+GJ,Gujarat,23,entertainment,Urban,97.2
+HR,Haryana,23,entertainment,Urban,82.59
+HP,Himachal Pradesh,23,entertainment,Urban,83.17
+DL,NCT of Delhi,24,minor durable-type goods,Urban,20.37
+GA,Goa,24,minor durable-type goods,Urban,16.94
+GJ,Gujarat,24,minor durable-type goods,Urban,18.66
+HR,Haryana,24,minor durable-type goods,Urban,22.25
+HP,Himachal Pradesh,24,minor durable-type goods,Urban,21.06
+DL,NCT of Delhi,25,toilet articles,Urban,72.69
+GA,Goa,25,toilet articles,Urban,74.9
+GJ,Gujarat,25,toilet articles,Urban,69.23
+HR,Haryana,25,toilet articles,Urban,79.43
+HP,Himachal Pradesh,25,toilet articles,Urban,93.5
+DL,NCT of Delhi,26,other household consumables,Urban,79.05
+GA,Goa,26,other household consumables,Urban,69.63
+GJ,Gujarat,26,other household consumables,Urban,69.18
+HR,Haryana,26,other household consumables,Urban,71.18
+HP,Himachal Pradesh,26,other household consumables,Urban,69.93
+DL,NCT of Delhi,27,consum. services excl. conveyance,Urban,288.97
+GA,Goa,27,consum. services excl. conveyance,Urban,278.2
+GJ,Gujarat,27,consum. services excl. conveyance,Urban,194.44
+HR,Haryana,27,consum. services excl. conveyance,Urban,236.28
+HP,Himachal Pradesh,27,consum. services excl. conveyance,Urban,267.07
+DL,NCT of Delhi,28,conveyance,Urban,413.52
+GA,Goa,28,conveyance,Urban,309.2
+GJ,Gujarat,28,conveyance,Urban,307.19
+HR,Haryana,28,conveyance,Urban,362.8
+HP,Himachal Pradesh,28,conveyance,Urban,344.25
+DL,NCT of Delhi,29,rent,Urban,372.37
+GA,Goa,29,rent,Urban,176.38
+GJ,Gujarat,29,rent,Urban,155.52
+HR,Haryana,29,rent,Urban,211.91
+HP,Himachal Pradesh,29,rent,Urban,481.8
+DL,NCT of Delhi,30,taxes & cesses,Urban,37.58
+GA,Goa,30,taxes & cesses,Urban,49.38
+GJ,Gujarat,30,taxes & cesses,Urban,35.72
+HR,Haryana,30,taxes & cesses,Urban,30.86
+HP,Himachal Pradesh,30,taxes & cesses,Urban,45.77
+DL,NCT of Delhi,31,durable goods,Urban,232.91
+GA,Goa,31,durable goods,Urban,220.93
+GJ,Gujarat,31,durable goods,Urban,251.81
+HR,Haryana,31,durable goods,Urban,283.33
+HP,Himachal Pradesh,31,durable goods,Urban,359.28
+DL,NCT of Delhi,32,non-food: total (16-31),Urban,2960.47
+GA,Goa,32,non-food: total (16-31),Urban,2017.08
+GJ,Gujarat,32,non-food: total (16-31),Urban,2122.52
+HR,Haryana,32,non-food: total (16-31),Urban,2718.48
+HP,Himachal Pradesh,32,non-food: total (16-31),Urban,3087.58
+DL,NCT of Delhi,33,total expenditure (15+32),Urban,4905.39
+GA,Goa,33,total expenditure (15+32),Urban,4013.44
+GJ,Gujarat,33,total expenditure (15+32),Urban,3895.6
+HR,Haryana,33,total expenditure (15+32),Urban,4626.27
+HP,Himachal Pradesh,33,total expenditure (15+32),Urban,5129.55
+DL,NCT of Delhi,34,"cooked meals recd. free inworkpl.*",Urban,17.29
+GA,Goa,34,"cooked meals recd. free inworkpl.*",Urban,31.94
+GJ,Gujarat,34,"cooked meals recd. free inworkpl.*",Urban,1.39
+HR,Haryana,34,"cooked meals recd. free inworkpl.*",Urban,1.95
+HP,Himachal Pradesh,34,"cooked meals recd. free inworkpl.*",Urban,16.68
+DL,NCT of Delhi,35,cooked meals recd. as assistance *,Urban,17.06
+GA,Goa,35,cooked meals recd. as assistance *,Urban,3.41
+GJ,Gujarat,35,cooked meals recd. as assistance *,Urban,8.22
+HR,Haryana,35,cooked meals recd. as assistance *,Urban,6.57
+HP,Himachal Pradesh,35,cooked meals recd. as assistance *,Urban,27.51
+DL,NCT of Delhi,36,clothing & footwear (2nd hand) **,Urban,1.75
+GA,Goa,36,clothing & footwear (2nd hand) **,Urban,0.11
+GJ,Gujarat,36,clothing & footwear (2nd hand) **,Urban,1.1
+HR,Haryana,36,clothing & footwear (2nd hand) **,Urban,0.22
+HP,Himachal Pradesh,36,clothing & footwear (2nd hand) **,Urban,0.86
+DL,NCT of Delhi,37,"@books, journals, etc. (2nd hand)",Urban,1.58
+GA,Goa,37,"@books, journals, etc. (2nd hand)",Urban,0.28
+GJ,Gujarat,37,"@books, journals, etc. (2nd hand)",Urban,0.99
+HR,Haryana,37,"@books, journals, etc. (2nd hand)",Urban,1.03
+HP,Himachal Pradesh,37,"@books, journals, etc. (2nd hand)",Urban,0.34
+DL,NCT of Delhi,38,"$durables (2ndhand)",Urban,0.96
+GA,Goa,38,"$durables (2ndhand)",Urban,0.1
+GJ,Gujarat,38,"$durables (2ndhand)",Urban,2.64
+HR,Haryana,38,"$durables (2ndhand)",Urban,3.71
+HP,Himachal Pradesh,38,"$durables (2ndhand)",Urban,0.08
+DL,NCT of Delhi,39,imputed rent,Urban,1177.34
+GA,Goa,39,imputed rent,Urban,1226.78
+GJ,Gujarat,39,imputed rent,Urban,777.57
+HR,Haryana,39,imputed rent,Urban,846.23
+HP,Himachal Pradesh,39,imputed rent,Urban,688.92
+JK,Jammu & Kashmir,1,cereal,Urban,273.99
+JH,Jharkhand,1,cereal,Urban,248.47
+KA,Karnataka,1,cereal,Urban,268.38
+KL,Kerala,1,cereal,Urban,227.67
+MP,Madhya Pradesh,1,cereal,Urban,162.4
+JK,Jammu & Kashmir,2,gram,Urban,5.43
+JH,Jharkhand,2,gram,Urban,5.9
+KA,Karnataka,2,gram,Urban,5.37
+KL,Kerala,2,gram,Urban,11.1
+MP,Madhya Pradesh,2,gram,Urban,2.04
+JK,Jammu & Kashmir,3,cereal substitutes,Urban,0.07
+JH,Jharkhand,3,cereal substitutes,Urban,0.37
+KA,Karnataka,3,cereal substitutes,Urban,0.01
+KL,Kerala,3,cereal substitutes,Urban,7.99
+MP,Madhya Pradesh,3,cereal substitutes,Urban,2.93
+JK,Jammu & Kashmir,4,pulses and pulse products,Urban,56.2
+JH,Jharkhand,4,pulses and pulse products,Urban,42.95
+KA,Karnataka,4,pulses and pulse products,Urban,59.43
+KL,Kerala,4,pulses and pulse products,Urban,49.85
+MP,Madhya Pradesh,4,pulses and pulse products,Urban,58.54
+JK,Jammu & Kashmir,5,milk and milk products,Urban,376.57
+JH,Jharkhand,5,milk and milk products,Urban,186.19
+KA,Karnataka,5,milk and milk products,Urban,215.76
+KL,Kerala,5,milk and milk products,Urban,158.17
+MP,Madhya Pradesh,5,milk and milk products,Urban,264.47
+JK,Jammu & Kashmir,6,sugar,Urban,25.06
+JH,Jharkhand,6,sugar,Urban,22.28
+KA,Karnataka,6,sugar,Urban,30.35
+KL,Kerala,6,sugar,Urban,31.87
+MP,Madhya Pradesh,6,sugar,Urban,35.37
+JK,Jammu & Kashmir,7,salt,Urban,5.07
+JH,Jharkhand,7,salt,Urban,3.4
+KA,Karnataka,7,salt,Urban,3.39
+KL,Kerala,7,salt,Urban,2.97
+MP,Madhya Pradesh,7,salt,Urban,2.6
+JK,Jammu & Kashmir,8,edible oil,Urban,118.91
+JH,Jharkhand,8,edible oil,Urban,82.32
+KA,Karnataka,8,edible oil,Urban,74.19
+KL,Kerala,8,edible oil,Urban,104.63
+MP,Madhya Pradesh,8,edible oil,Urban,71.77
+JK,Jammu & Kashmir,9,"egg, fish & meat",Urban,177.29
+JH,Jharkhand,9,"egg, fish & meat",Urban,123.23
+KA,Karnataka,9,"egg, fish & meat",Urban,175.56
+KL,Kerala,9,"egg, fish & meat",Urban,387.48
+MP,Madhya Pradesh,9,"egg, fish & meat",Urban,54.61
+JK,Jammu & Kashmir,10,vegetables,Urban,246.44
+JH,Jharkhand,10,vegetables,Urban,156.44
+KA,Karnataka,10,vegetables,Urban,163.67
+KL,Kerala,10,vegetables,Urban,154.9
+MP,Madhya Pradesh,10,vegetables,Urban,139.73
+JK,Jammu & Kashmir,11,fruits (fresh),Urban,94.1
+JH,Jharkhand,11,fruits (fresh),Urban,77.02
+KA,Karnataka,11,fruits (fresh),Urban,151.57
+KL,Kerala,11,fruits (fresh),Urban,183.35
+MP,Madhya Pradesh,11,fruits (fresh),Urban,83.42
+JK,Jammu & Kashmir,12,fruits (dry),Urban,29.68
+JH,Jharkhand,12,fruits (dry),Urban,29.08
+KA,Karnataka,12,fruits (dry),Urban,54.46
+KL,Kerala,12,fruits (dry),Urban,27.37
+MP,Madhya Pradesh,12,fruits (dry),Urban,38.66
+JK,Jammu & Kashmir,13,spices,Urban,91.09
+JH,Jharkhand,13,spices,Urban,64.42
+KA,Karnataka,13,spices,Urban,86.02
+KL,Kerala,13,spices,Urban,100.23
+MP,Madhya Pradesh,13,spices,Urban,70.17
+JK,Jammu & Kashmir,14,"beverages, refreshments, etc.",Urban,283.03
+JH,Jharkhand,14,"beverages, refreshments, etc.",Urban,246.47
+KA,Karnataka,14,"beverages, refreshments, etc.",Urban,438.83
+KL,Kerala,14,"beverages, refreshments, etc.",Urban,399.59
+MP,Madhya Pradesh,14,"beverages, refreshments, etc.",Urban,209.39
+JK,Jammu & Kashmir,15,food: total (1-14),Urban,1782.91
+JH,Jharkhand,15,food: total (1-14),Urban,1288.56
+KA,Karnataka,15,food: total (1-14),Urban,1726.98
+KL,Kerala,15,food: total (1-14),Urban,1847.18
+MP,Madhya Pradesh,15,food: total (1-14),Urban,1196.1
+JK,Jammu & Kashmir,16,"pan, tobacco & intoxicants",Urban,53.74
+JH,Jharkhand,16,"pan, tobacco & intoxicants",Urban,41.62
+KA,Karnataka,16,"pan, tobacco & intoxicants",Urban,73.89
+KL,Kerala,16,"pan, tobacco & intoxicants",Urban,66.36
+MP,Madhya Pradesh,16,"pan, tobacco & intoxicants",Urban,53.14
+JK,Jammu & Kashmir,17,fuel and light,Urban,213.01
+JH,Jharkhand,17,fuel and light,Urban,188.75
+KA,Karnataka,17,fuel and light,Urban,225.28
+KL,Kerala,17,fuel and light,Urban,257.21
+MP,Madhya Pradesh,17,fuel and light,Urban,250.1
+JK,Jammu & Kashmir,18,clothing & bedding,Urban,225.21
+JH,Jharkhand,18,clothing & bedding,Urban,191.17
+KA,Karnataka,18,clothing & bedding,Urban,206.52
+KL,Kerala,18,clothing & bedding,Urban,212.56
+MP,Madhya Pradesh,18,clothing & bedding,Urban,169.3
+JK,Jammu & Kashmir,19,footwear,Urban,55.43
+JH,Jharkhand,19,footwear,Urban,31.25
+KA,Karnataka,19,footwear,Urban,44.2
+KL,Kerala,19,footwear,Urban,41.61
+MP,Madhya Pradesh,19,footwear,Urban,35.83
+JK,Jammu & Kashmir,20,education,Urban,258.25
+JH,Jharkhand,20,education,Urban,271.83
+KA,Karnataka,20,education,Urban,252.57
+KL,Kerala,20,education,Urban,245.46
+MP,Madhya Pradesh,20,education,Urban,253.38
+JK,Jammu & Kashmir,21,medical (institutional),Urban,27.92
+JH,Jharkhand,21,medical (institutional),Urban,59.68
+KA,Karnataka,21,medical (institutional),Urban,45.02
+KL,Kerala,21,medical (institutional),Urban,132.24
+MP,Madhya Pradesh,21,medical (institutional),Urban,27.03
+JK,Jammu & Kashmir,22,medical (non-institutional),Urban,80.17
+JH,Jharkhand,22,medical (non-institutional),Urban,79.25
+KA,Karnataka,22,medical (non-institutional),Urban,71.68
+KL,Kerala,22,medical (non-institutional),Urban,243.03
+MP,Madhya Pradesh,22,medical (non-institutional),Urban,81.35
+JK,Jammu & Kashmir,23,entertainment,Urban,51.78
+JH,Jharkhand,23,entertainment,Urban,47.01
+KA,Karnataka,23,entertainment,Urban,83.59
+KL,Kerala,23,entertainment,Urban,70.32
+MP,Madhya Pradesh,23,entertainment,Urban,46.6
+JK,Jammu & Kashmir,24,minor durable-type goods,Urban,12.87
+JH,Jharkhand,24,minor durable-type goods,Urban,14.46
+KA,Karnataka,24,minor durable-type goods,Urban,15.16
+KL,Kerala,24,minor durable-type goods,Urban,18.59
+MP,Madhya Pradesh,24,minor durable-type goods,Urban,11.59
+JK,Jammu & Kashmir,25,toilet articles,Urban,48.44
+JH,Jharkhand,25,toilet articles,Urban,49.91
+KA,Karnataka,25,toilet articles,Urban,80.93
+KL,Kerala,25,toilet articles,Urban,67.07
+MP,Madhya Pradesh,25,toilet articles,Urban,56.82
+JK,Jammu & Kashmir,26,other household consumables,Urban,49.77
+JH,Jharkhand,26,other household consumables,Urban,51.79
+KA,Karnataka,26,other household consumables,Urban,73.4
+KL,Kerala,26,other household consumables,Urban,61.37
+MP,Madhya Pradesh,26,other household consumables,Urban,50.84
+JK,Jammu & Kashmir,27,consum. services excl. conveyance,Urban,168.14
+JH,Jharkhand,27,consum. services excl. conveyance,Urban,126.07
+KA,Karnataka,27,consum. services excl. conveyance,Urban,191.86
+KL,Kerala,27,consum. services excl. conveyance,Urban,236.77
+MP,Madhya Pradesh,27,consum. services excl. conveyance,Urban,122.88
+JK,Jammu & Kashmir,28,conveyance,Urban,278.87
+JH,Jharkhand,28,conveyance,Urban,152.58
+KA,Karnataka,28,conveyance,Urban,262
+KL,Kerala,28,conveyance,Urban,371.07
+MP,Madhya Pradesh,28,conveyance,Urban,169.55
+JK,Jammu & Kashmir,29,rent,Urban,55.1
+JH,Jharkhand,29,rent,Urban,153.17
+KA,Karnataka,29,rent,Urban,636.66
+KL,Kerala,29,rent,Urban,149.01
+MP,Madhya Pradesh,29,rent,Urban,109.47
+JK,Jammu & Kashmir,30,taxes & cesses,Urban,28.04
+JH,Jharkhand,30,taxes & cesses,Urban,8.78
+KA,Karnataka,30,taxes & cesses,Urban,52.26
+KL,Kerala,30,taxes & cesses,Urban,30.59
+MP,Madhya Pradesh,30,taxes & cesses,Urban,28.32
+JK,Jammu & Kashmir,31,durable goods,Urban,285.39
+JH,Jharkhand,31,durable goods,Urban,173.12
+KA,Karnataka,31,durable goods,Urban,164.81
+KL,Kerala,31,durable goods,Urban,412.43
+MP,Madhya Pradesh,31,durable goods,Urban,152.07
+JK,Jammu & Kashmir,32,non-food: total (16-31),Urban,1892.13
+JH,Jharkhand,32,non-food: total (16-31),Urban,1640.45
+KA,Karnataka,32,non-food: total (16-31),Urban,2479.83
+KL,Kerala,32,non-food: total (16-31),Urban,2615.68
+MP,Madhya Pradesh,32,non-food: total (16-31),Urban,1618.28
+JK,Jammu & Kashmir,33,total expenditure (15+32),Urban,3675.04
+JH,Jharkhand,33,total expenditure (15+32),Urban,2929
+KA,Karnataka,33,total expenditure (15+32),Urban,4206.81
+KL,Kerala,33,total expenditure (15+32),Urban,4462.86
+MP,Madhya Pradesh,33,total expenditure (15+32),Urban,2814.38
+JK,Jammu & Kashmir,34,"cooked meals recd. free inworkpl.*",Urban,0.83
+JH,Jharkhand,34,"cooked meals recd. free inworkpl.*",Urban,3.04
+KA,Karnataka,34,"cooked meals recd. free inworkpl.*",Urban,5.04
+KL,Kerala,34,"cooked meals recd. free inworkpl.*",Urban,14.17
+MP,Madhya Pradesh,34,"cooked meals recd. free inworkpl.*",Urban,1.55
+JK,Jammu & Kashmir,35,cooked meals recd. as assistance *,Urban,17.6
+JH,Jharkhand,35,cooked meals recd. as assistance *,Urban,14.17
+KA,Karnataka,35,cooked meals recd. as assistance *,Urban,21.59
+KL,Kerala,35,cooked meals recd. as assistance *,Urban,21.5
+MP,Madhya Pradesh,35,cooked meals recd. as assistance *,Urban,10.54
+JK,Jammu & Kashmir,36,clothing & footwear (2nd hand) **,Urban,3.68
+JH,Jharkhand,36,clothing & footwear (2nd hand) **,Urban,0.78
+KA,Karnataka,36,clothing & footwear (2nd hand) **,Urban,0.06
+KL,Kerala,36,clothing & footwear (2nd hand) **,Urban,0.05
+MP,Madhya Pradesh,36,clothing & footwear (2nd hand) **,Urban,0.09
+JK,Jammu & Kashmir,37,"@books, journals, etc. (2nd hand)",Urban,0.81
+JH,Jharkhand,37,"@books, journals, etc. (2nd hand)",Urban,1.23
+KA,Karnataka,37,"@books, journals, etc. (2nd hand)",Urban,0.7
+KL,Kerala,37,"@books, journals, etc. (2nd hand)",Urban,0.7
+MP,Madhya Pradesh,37,"@books, journals, etc. (2nd hand)",Urban,0.58
+JK,Jammu & Kashmir,38,"$durables (2ndhand)",Urban,1.78
+JH,Jharkhand,38,"$durables (2ndhand)",Urban,4.61
+KA,Karnataka,38,"$durables (2ndhand)",Urban,0.75
+KL,Kerala,38,"$durables (2ndhand)",Urban,8.13
+MP,Madhya Pradesh,38,"$durables (2ndhand)",Urban,1.78
+JK,Jammu & Kashmir,39,imputed rent,Urban,910.87
+JH,Jharkhand,39,imputed rent,Urban,357.07
+KA,Karnataka,39,imputed rent,Urban,676.67
+KL,Kerala,39,imputed rent,Urban,1002.12
+MP,Madhya Pradesh,39,imputed rent,Urban,566.02
+MH,Maharashtra,1,cereal,Urban,221.47
+MN,Manipur,1,cereal,Urban,354.61
+ML,Meghalaya,1,cereal,Urban,223.57
+MZ,Mizoram,1,cereal,Urban,255.69
+NL,Nagaland,1,cereal,Urban,310.8
+MH,Maharashtra,2,gram,Urban,3.57
+MN,Manipur,2,gram,Urban,1.29
+ML,Meghalaya,2,gram,Urban,0.13
+MZ,Mizoram,2,gram,Urban,1.82
+NL,Nagaland,2,gram,Urban,0.98
+MH,Maharashtra,3,cereal substitutes,Urban,5.47
+MN,Manipur,3,cereal substitutes,Urban,0.95
+ML,Meghalaya,3,cereal substitutes,Urban,0.68
+MZ,Mizoram,3,cereal substitutes,Urban,0.2
+NL,Nagaland,3,cereal substitutes,Urban,1.66
+MH,Maharashtra,4,pulses and pulse products,Urban,70.76
+MN,Manipur,4,pulses and pulse products,Urban,27.27
+ML,Meghalaya,4,pulses and pulse products,Urban,31.94
+MZ,Mizoram,4,pulses and pulse products,Urban,62.02
+NL,Nagaland,4,pulses and pulse products,Urban,34.88
+MH,Maharashtra,5,milk and milk products,Urban,267.47
+MN,Manipur,5,milk and milk products,Urban,50.38
+ML,Meghalaya,5,milk and milk products,Urban,100.17
+MZ,Mizoram,5,milk and milk products,Urban,150.92
+NL,Nagaland,5,milk and milk products,Urban,119.76
+MH,Maharashtra,6,sugar,Urban,34.42
+MN,Manipur,6,sugar,Urban,11.6
+ML,Meghalaya,6,sugar,Urban,25.35
+MZ,Mizoram,6,sugar,Urban,36.71
+NL,Nagaland,6,sugar,Urban,16.38
+MH,Maharashtra,7,salt,Urban,3.65
+MN,Manipur,7,salt,Urban,4.33
+ML,Meghalaya,7,salt,Urban,3.45
+MZ,Mizoram,7,salt,Urban,4.4
+NL,Nagaland,7,salt,Urban,3.25
+MH,Maharashtra,8,edible oil,Urban,98.22
+MN,Manipur,8,edible oil,Urban,54.22
+ML,Meghalaya,8,edible oil,Urban,74.1
+MZ,Mizoram,8,edible oil,Urban,85.13
+NL,Nagaland,8,edible oil,Urban,52.28
+MH,Maharashtra,9,"egg, fish & meat",Urban,134.05
+MN,Manipur,9,"egg, fish & meat",Urban,240.4
+ML,Meghalaya,9,"egg, fish & meat",Urban,319.46
+MZ,Mizoram,9,"egg, fish & meat",Urban,562.97
+NL,Nagaland,9,"egg, fish & meat",Urban,300.38
+MH,Maharashtra,10,vegetables,Urban,188.51
+MN,Manipur,10,vegetables,Urban,161.27
+ML,Meghalaya,10,vegetables,Urban,213.23
+MZ,Mizoram,10,vegetables,Urban,443.36
+NL,Nagaland,10,vegetables,Urban,161.15
+MH,Maharashtra,11,fruits (fresh),Urban,112.71
+MN,Manipur,11,fruits (fresh),Urban,62.13
+ML,Meghalaya,11,fruits (fresh),Urban,107.48
+MZ,Mizoram,11,fruits (fresh),Urban,126.03
+NL,Nagaland,11,fruits (fresh),Urban,65.21
+MH,Maharashtra,12,fruits (dry),Urban,74.41
+MN,Manipur,12,fruits (dry),Urban,6.4
+ML,Meghalaya,12,fruits (dry),Urban,5.89
+MZ,Mizoram,12,fruits (dry),Urban,12.49
+NL,Nagaland,12,fruits (dry),Urban,5.8
+MH,Maharashtra,13,spices,Urban,82.57
+MN,Manipur,13,spices,Urban,69.68
+ML,Meghalaya,13,spices,Urban,67.64
+MZ,Mizoram,13,spices,Urban,72.72
+NL,Nagaland,13,spices,Urban,47.34
+MH,Maharashtra,14,"beverages, refreshments, etc.",Urban,361
+MN,Manipur,14,"beverages, refreshments, etc.",Urban,173.38
+ML,Meghalaya,14,"beverages, refreshments, etc.",Urban,298.59
+MZ,Mizoram,14,"beverages, refreshments, etc.",Urban,363.86
+NL,Nagaland,14,"beverages, refreshments, etc.",Urban,225.1
+MH,Maharashtra,15,food: total (1-14),Urban,1658.27
+MN,Manipur,15,food: total (1-14),Urban,1217.91
+ML,Meghalaya,15,food: total (1-14),Urban,1471.68
+MZ,Mizoram,15,food: total (1-14),Urban,2178.31
+NL,Nagaland,15,food: total (1-14),Urban,1344.99
+MH,Maharashtra,16,"pan, tobacco & intoxicants",Urban,51.29
+MN,Manipur,16,"pan, tobacco & intoxicants",Urban,65.92
+ML,Meghalaya,16,"pan, tobacco & intoxicants",Urban,190.93
+MZ,Mizoram,16,"pan, tobacco & intoxicants",Urban,417.88
+NL,Nagaland,16,"pan, tobacco & intoxicants",Urban,109.24
+MH,Maharashtra,17,fuel and light,Urban,305.76
+MN,Manipur,17,fuel and light,Urban,185.1
+ML,Meghalaya,17,fuel and light,Urban,257.82
+MZ,Mizoram,17,fuel and light,Urban,261.86
+NL,Nagaland,17,fuel and light,Urban,228.16
+MH,Maharashtra,18,clothing & bedding,Urban,250.81
+MN,Manipur,18,clothing & bedding,Urban,127.85
+ML,Meghalaya,18,clothing & bedding,Urban,156.77
+MZ,Mizoram,18,clothing & bedding,Urban,262.55
+NL,Nagaland,18,clothing & bedding,Urban,180.45
+MH,Maharashtra,19,footwear,Urban,48.11
+MN,Manipur,19,footwear,Urban,29.9
+ML,Meghalaya,19,footwear,Urban,52.07
+MZ,Mizoram,19,footwear,Urban,111.77
+NL,Nagaland,19,footwear,Urban,52.84
+MH,Maharashtra,20,education,Urban,337.49
+MN,Manipur,20,education,Urban,258.91
+ML,Meghalaya,20,education,Urban,297.98
+MZ,Mizoram,20,education,Urban,170.2
+NL,Nagaland,20,education,Urban,221.6
+MH,Maharashtra,21,medical (institutional),Urban,64.98
+MN,Manipur,21,medical (institutional),Urban,18.41
+ML,Meghalaya,21,medical (institutional),Urban,20.59
+MZ,Mizoram,21,medical (institutional),Urban,16.76
+NL,Nagaland,21,medical (institutional),Urban,9.77
+MH,Maharashtra,22,medical (non-institutional),Urban,101.78
+MN,Manipur,22,medical (non-institutional),Urban,31.43
+ML,Meghalaya,22,medical (non-institutional),Urban,37.04
+MZ,Mizoram,22,medical (non-institutional),Urban,69.54
+NL,Nagaland,22,medical (non-institutional),Urban,34.74
+MH,Maharashtra,23,entertainment,Urban,79.49
+MN,Manipur,23,entertainment,Urban,41.63
+ML,Meghalaya,23,entertainment,Urban,85.51
+MZ,Mizoram,23,entertainment,Urban,98.28
+NL,Nagaland,23,entertainment,Urban,86.75
+MH,Maharashtra,24,minor durable-type goods,Urban,18.66
+MN,Manipur,24,minor durable-type goods,Urban,19.08
+ML,Meghalaya,24,minor durable-type goods,Urban,20.36
+MZ,Mizoram,24,minor durable-type goods,Urban,36.1
+NL,Nagaland,24,minor durable-type goods,Urban,30.42
+MH,Maharashtra,25,toilet articles,Urban,76.78
+MN,Manipur,25,toilet articles,Urban,41.48
+ML,Meghalaya,25,toilet articles,Urban,78.08
+MZ,Mizoram,25,toilet articles,Urban,81.4
+NL,Nagaland,25,toilet articles,Urban,85.41
+MH,Maharashtra,26,other household consumables,Urban,72.78
+MN,Manipur,26,other household consumables,Urban,30.34
+ML,Meghalaya,26,other household consumables,Urban,43.18
+MZ,Mizoram,26,other household consumables,Urban,57.02
+NL,Nagaland,26,other household consumables,Urban,42.71
+MH,Maharashtra,27,consum. services excl. conveyance,Urban,272.1
+MN,Manipur,27,consum. services excl. conveyance,Urban,82.59
+ML,Meghalaya,27,consum. services excl. conveyance,Urban,228.11
+MZ,Mizoram,27,consum. services excl. conveyance,Urban,321.37
+NL,Nagaland,27,consum. services excl. conveyance,Urban,327.93
+MH,Maharashtra,28,conveyance,Urban,342.26
+MN,Manipur,28,conveyance,Urban,191.71
+ML,Meghalaya,28,conveyance,Urban,256.57
+MZ,Mizoram,28,conveyance,Urban,234.01
+NL,Nagaland,28,conveyance,Urban,147.24
+MH,Maharashtra,29,rent,Urban,364.45
+MN,Manipur,29,rent,Urban,28.13
+ML,Meghalaya,29,rent,Urban,524
+MZ,Mizoram,29,rent,Urban,134.51
+NL,Nagaland,29,rent,Urban,110.21
+MH,Maharashtra,30,taxes & cesses,Urban,74.62
+MN,Manipur,30,taxes & cesses,Urban,27.91
+ML,Meghalaya,30,taxes & cesses,Urban,10.02
+MZ,Mizoram,30,taxes & cesses,Urban,77.57
+NL,Nagaland,30,taxes & cesses,Urban,17.57
+MH,Maharashtra,31,durable goods,Urban,225.96
+MN,Manipur,31,durable goods,Urban,63.44
+ML,Meghalaya,31,durable goods,Urban,96.04
+MZ,Mizoram,31,durable goods,Urban,274.06
+NL,Nagaland,31,durable goods,Urban,184.18
+MH,Maharashtra,32,non-food: total (16-31),Urban,2687.33
+MN,Manipur,32,non-food: total (16-31),Urban,1243.83
+ML,Meghalaya,32,non-food: total (16-31),Urban,2355.07
+MZ,Mizoram,32,non-food: total (16-31),Urban,2624.87
+NL,Nagaland,32,non-food: total (16-31),Urban,1869.22
+MH,Maharashtra,33,total expenditure (15+32),Urban,4345.6
+MN,Manipur,33,total expenditure (15+32),Urban,2461.74
+ML,Meghalaya,33,total expenditure (15+32),Urban,3826.75
+MZ,Mizoram,33,total expenditure (15+32),Urban,4803.18
+NL,Nagaland,33,total expenditure (15+32),Urban,3214.21
+MH,Maharashtra,34,"cooked meals recd. free inworkpl.*",Urban,8.94
+MN,Manipur,34,"cooked meals recd. free inworkpl.*",Urban,0.09
+ML,Meghalaya,34,"cooked meals recd. free inworkpl.*",Urban,1.89
+MZ,Mizoram,34,"cooked meals recd. free inworkpl.*",Urban,0.48
+NL,Nagaland,34,"cooked meals recd. free inworkpl.*",Urban,3.06
+MH,Maharashtra,35,cooked meals recd. as assistance *,Urban,13.43
+MN,Manipur,35,cooked meals recd. as assistance *,Urban,1.72
+ML,Meghalaya,35,cooked meals recd. as assistance *,Urban,5.64
+MZ,Mizoram,35,cooked meals recd. as assistance *,Urban,5.27
+NL,Nagaland,35,cooked meals recd. as assistance *,Urban,0
+MH,Maharashtra,36,clothing & footwear (2nd hand) **,Urban,0.26
+MN,Manipur,36,clothing & footwear (2nd hand) **,Urban,8.66
+ML,Meghalaya,36,clothing & footwear (2nd hand) **,Urban,2.22
+MZ,Mizoram,36,clothing & footwear (2nd hand) **,Urban,5.55
+NL,Nagaland,36,clothing & footwear (2nd hand) **,Urban,19.66
+MH,Maharashtra,37,"@books, journals, etc. (2nd hand)",Urban,0.97
+MN,Manipur,37,"@books, journals, etc. (2nd hand)",Urban,1.53
+ML,Meghalaya,37,"@books, journals, etc. (2nd hand)",Urban,2.22
+MZ,Mizoram,37,"@books, journals, etc. (2nd hand)",Urban,0.99
+NL,Nagaland,37,"@books, journals, etc. (2nd hand)",Urban,0.8
+MH,Maharashtra,38,"$durables (2ndhand)",Urban,2.2
+MN,Manipur,38,"$durables (2ndhand)",Urban,3.78
+ML,Meghalaya,38,"$durables (2ndhand)",Urban,0.03
+MZ,Mizoram,38,"$durables (2ndhand)",Urban,4.04
+NL,Nagaland,38,"$durables (2ndhand)",Urban,2.28
+MH,Maharashtra,39,imputed rent,Urban,1309.88
+MN,Manipur,39,imputed rent,Urban,575.13
+ML,Meghalaya,39,imputed rent,Urban,375.06
+MZ,Mizoram,39,imputed rent,Urban,582.64
+NL,Nagaland,39,imputed rent,Urban,360.45
+OR,Odisha,1,cereal,Urban,242.82
+PB,Punjab,1,cereal,Urban,190.4
+RJ,Rajasthan,1,cereal,Urban,205.5
+SK,Sikkim,1,cereal,Urban,282.31
+TN,Tamil Nadu,1,cereal,Urban,253.25
+OR,Odisha,2,gram,Urban,0.84
+PB,Punjab,2,gram,Urban,9.77
+RJ,Rajasthan,2,gram,Urban,1.21
+SK,Sikkim,2,gram,Urban,3.29
+TN,Tamil Nadu,2,gram,Urban,7.27
+OR,Odisha,3,cereal substitutes,Urban,0
+PB,Punjab,3,cereal substitutes,Urban,0
+RJ,Rajasthan,3,cereal substitutes,Urban,0.14
+SK,Sikkim,3,cereal substitutes,Urban,0
+TN,Tamil Nadu,3,cereal substitutes,Urban,0.2
+OR,Odisha,4,pulses and pulse products,Urban,52.34
+PB,Punjab,4,pulses and pulse products,Urban,57.96
+RJ,Rajasthan,4,pulses and pulse products,Urban,35.72
+SK,Sikkim,4,pulses and pulse products,Urban,47.01
+TN,Tamil Nadu,4,pulses and pulse products,Urban,70.39
+OR,Odisha,5,milk and milk products,Urban,106.14
+PB,Punjab,5,milk and milk products,Urban,575.71
+RJ,Rajasthan,5,milk and milk products,Urban,473.78
+SK,Sikkim,5,milk and milk products,Urban,215.58
+TN,Tamil Nadu,5,milk and milk products,Urban,197.95
+OR,Odisha,6,sugar,Urban,22.9
+PB,Punjab,6,sugar,Urban,54.78
+RJ,Rajasthan,6,sugar,Urban,39.22
+SK,Sikkim,6,sugar,Urban,21.79
+TN,Tamil Nadu,6,sugar,Urban,20.37
+OR,Odisha,7,salt,Urban,3.71
+PB,Punjab,7,salt,Urban,3.33
+RJ,Rajasthan,7,salt,Urban,3.46
+SK,Sikkim,7,salt,Urban,3.42
+TN,Tamil Nadu,7,salt,Urban,3.15
+OR,Odisha,8,edible oil,Urban,61.44
+PB,Punjab,8,edible oil,Urban,70.56
+RJ,Rajasthan,8,edible oil,Urban,63.86
+SK,Sikkim,8,edible oil,Urban,106
+TN,Tamil Nadu,8,edible oil,Urban,78.26
+OR,Odisha,9,"egg, fish & meat",Urban,163.22
+PB,Punjab,9,"egg, fish & meat",Urban,47.31
+RJ,Rajasthan,9,"egg, fish & meat",Urban,53.32
+SK,Sikkim,9,"egg, fish & meat",Urban,188.18
+TN,Tamil Nadu,9,"egg, fish & meat",Urban,232.9
+OR,Odisha,10,vegetables,Urban,189.28
+PB,Punjab,10,vegetables,Urban,186.78
+RJ,Rajasthan,10,vegetables,Urban,157.32
+SK,Sikkim,10,vegetables,Urban,241.97
+TN,Tamil Nadu,10,vegetables,Urban,178.53
+OR,Odisha,11,fruits (fresh),Urban,84.16
+PB,Punjab,11,fruits (fresh),Urban,103.59
+RJ,Rajasthan,11,fruits (fresh),Urban,102.43
+SK,Sikkim,11,fruits (fresh),Urban,59.26
+TN,Tamil Nadu,11,fruits (fresh),Urban,148.12
+OR,Odisha,12,fruits (dry),Urban,9.48
+PB,Punjab,12,fruits (dry),Urban,37.62
+RJ,Rajasthan,12,fruits (dry),Urban,48.27
+SK,Sikkim,12,fruits (dry),Urban,30.6
+TN,Tamil Nadu,12,fruits (dry),Urban,25.7
+OR,Odisha,13,spices,Urban,58.07
+PB,Punjab,13,spices,Urban,67.14
+RJ,Rajasthan,13,spices,Urban,85.24
+SK,Sikkim,13,spices,Urban,77.93
+TN,Tamil Nadu,13,spices,Urban,101.77
+OR,Odisha,14,"beverages, refreshments, etc.",Urban,255.52
+PB,Punjab,14,"beverages, refreshments, etc.",Urban,383.5
+RJ,Rajasthan,14,"beverages, refreshments, etc.",Urban,332.71
+SK,Sikkim,14,"beverages, refreshments, etc.",Urban,615.18
+TN,Tamil Nadu,14,"beverages, refreshments, etc.",Urban,416.69
+OR,Odisha,15,food: total (1-14),Urban,1249.92
+PB,Punjab,15,food: total (1-14),Urban,1788.46
+RJ,Rajasthan,15,food: total (1-14),Urban,1602.18
+SK,Sikkim,15,food: total (1-14),Urban,1892.52
+TN,Tamil Nadu,15,food: total (1-14),Urban,1734.54
+OR,Odisha,16,"pan, tobacco & intoxicants",Urban,50.91
+PB,Punjab,16,"pan, tobacco & intoxicants",Urban,72.81
+RJ,Rajasthan,16,"pan, tobacco & intoxicants",Urban,51.9
+SK,Sikkim,16,"pan, tobacco & intoxicants",Urban,130.64
+TN,Tamil Nadu,16,"pan, tobacco & intoxicants",Urban,64.25
+OR,Odisha,17,fuel and light,Urban,216.15
+PB,Punjab,17,fuel and light,Urban,424.99
+RJ,Rajasthan,17,fuel and light,Urban,340.67
+SK,Sikkim,17,fuel and light,Urban,222.95
+TN,Tamil Nadu,17,fuel and light,Urban,228.14
+OR,Odisha,18,clothing & bedding,Urban,181.58
+PB,Punjab,18,clothing & bedding,Urban,282.67
+RJ,Rajasthan,18,clothing & bedding,Urban,231.47
+SK,Sikkim,18,clothing & bedding,Urban,310.65
+TN,Tamil Nadu,18,clothing & bedding,Urban,178.93
+OR,Odisha,19,footwear,Urban,27.3
+PB,Punjab,19,footwear,Urban,58.61
+RJ,Rajasthan,19,footwear,Urban,48.82
+SK,Sikkim,19,footwear,Urban,77.44
+TN,Tamil Nadu,19,footwear,Urban,27.08
+OR,Odisha,20,education,Urban,204.84
+PB,Punjab,20,education,Urban,339.65
+RJ,Rajasthan,20,education,Urban,362.99
+SK,Sikkim,20,education,Urban,506.41
+TN,Tamil Nadu,20,education,Urban,273.73
+OR,Odisha,21,medical (institutional),Urban,21.52
+PB,Punjab,21,medical (institutional),Urban,48.37
+RJ,Rajasthan,21,medical (institutional),Urban,40.65
+SK,Sikkim,21,medical (institutional),Urban,69.53
+TN,Tamil Nadu,21,medical (institutional),Urban,46.21
+OR,Odisha,22,medical (non-institutional),Urban,79.96
+PB,Punjab,22,medical (non-institutional),Urban,127.76
+RJ,Rajasthan,22,medical (non-institutional),Urban,82.28
+SK,Sikkim,22,medical (non-institutional),Urban,50.84
+TN,Tamil Nadu,22,medical (non-institutional),Urban,84.47
+OR,Odisha,23,entertainment,Urban,55.06
+PB,Punjab,23,entertainment,Urban,89.68
+RJ,Rajasthan,23,entertainment,Urban,54.5
+SK,Sikkim,23,entertainment,Urban,112.58
+TN,Tamil Nadu,23,entertainment,Urban,58.38
+OR,Odisha,24,minor durable-type goods,Urban,15.68
+PB,Punjab,24,minor durable-type goods,Urban,16.67
+RJ,Rajasthan,24,minor durable-type goods,Urban,6.42
+SK,Sikkim,24,minor durable-type goods,Urban,34.48
+TN,Tamil Nadu,24,minor durable-type goods,Urban,14.22
+OR,Odisha,25,toilet articles,Urban,59.02
+PB,Punjab,25,toilet articles,Urban,74.02
+RJ,Rajasthan,25,toilet articles,Urban,67.4
+SK,Sikkim,25,toilet articles,Urban,71.62
+TN,Tamil Nadu,25,toilet articles,Urban,85.87
+OR,Odisha,26,other household consumables,Urban,45.09
+PB,Punjab,26,other household consumables,Urban,75.26
+RJ,Rajasthan,26,other household consumables,Urban,62.88
+SK,Sikkim,26,other household consumables,Urban,49.92
+TN,Tamil Nadu,26,other household consumables,Urban,76.29
+OR,Odisha,27,consum. services excl. conveyance,Urban,124.95
+PB,Punjab,27,consum. services excl. conveyance,Urban,251.72
+RJ,Rajasthan,27,consum. services excl. conveyance,Urban,171.6
+SK,Sikkim,27,consum. services excl. conveyance,Urban,195.25
+TN,Tamil Nadu,27,consum. services excl. conveyance,Urban,182.31
+OR,Odisha,28,conveyance,Urban,165.2
+PB,Punjab,28,conveyance,Urban,338.65
+RJ,Rajasthan,28,conveyance,Urban,265.77
+SK,Sikkim,28,conveyance,Urban,138.03
+TN,Tamil Nadu,28,conveyance,Urban,300.53
+OR,Odisha,29,rent,Urban,190.63
+PB,Punjab,29,rent,Urban,102.05
+RJ,Rajasthan,29,rent,Urban,179.59
+SK,Sikkim,29,rent,Urban,703.27
+TN,Tamil Nadu,29,rent,Urban,410.91
+OR,Odisha,30,taxes & cesses,Urban,6.34
+PB,Punjab,30,taxes & cesses,Urban,24.71
+RJ,Rajasthan,30,taxes & cesses,Urban,26.13
+SK,Sikkim,30,taxes & cesses,Urban,15.49
+TN,Tamil Nadu,30,taxes & cesses,Urban,21.51
+OR,Odisha,31,durable goods,Urban,176.74
+PB,Punjab,31,durable goods,Urban,314.29
+RJ,Rajasthan,31,durable goods,Urban,196.11
+SK,Sikkim,31,durable goods,Urban,114.59
+TN,Tamil Nadu,31,durable goods,Urban,154.19
+OR,Odisha,32,non-food: total (16-31),Urban,1620.98
+PB,Punjab,32,non-food: total (16-31),Urban,2641.9
+RJ,Rajasthan,32,non-food: total (16-31),Urban,2189.19
+SK,Sikkim,32,non-food: total (16-31),Urban,2803.7
+TN,Tamil Nadu,32,non-food: total (16-31),Urban,2207.03
+OR,Odisha,33,total expenditure (15+32),Urban,2870.9
+PB,Punjab,33,total expenditure (15+32),Urban,4430.37
+RJ,Rajasthan,33,total expenditure (15+32),Urban,3791.37
+SK,Sikkim,33,total expenditure (15+32),Urban,4696.22
+TN,Tamil Nadu,33,total expenditure (15+32),Urban,3941.57
+OR,Odisha,34,cooked meals recd. free in workpl.*,Urban,2.26
+PB,Punjab,34,cooked meals recd. free in workpl.*,Urban,2.61
+RJ,Rajasthan,34,cooked meals recd. free in workpl.*,Urban,5.6
+SK,Sikkim,34,cooked meals recd. free in workpl.*,Urban,64.56
+TN,Tamil Nadu,34,cooked meals recd. free in workpl.*,Urban,48.61
+OR,Odisha,35,cooked meals recd. as assistance *,Urban,19.3
+PB,Punjab,35,cooked meals recd. as assistance *,Urban,6.82
+RJ,Rajasthan,35,cooked meals recd. as assistance *,Urban,7.23
+SK,Sikkim,35,cooked meals recd. as assistance *,Urban,87.98
+TN,Tamil Nadu,35,cooked meals recd. as assistance *,Urban,15.64
+OR,Odisha,36,clothing & footwear (2nd hand) **,Urban,0.04
+PB,Punjab,36,clothing & footwear (2nd hand) **,Urban,0.23
+RJ,Rajasthan,36,clothing & footwear (2nd hand) **,Urban,0.23
+SK,Sikkim,36,clothing & footwear (2nd hand) **,Urban,2.16
+TN,Tamil Nadu,36,clothing & footwear (2nd hand) **,Urban,0.05
+OR,Odisha,37,"@books, journals, etc. (2nd hand)",Urban,0.93
+PB,Punjab,37,"@books, journals, etc. (2nd hand)",Urban,1.3
+RJ,Rajasthan,37,"@books, journals, etc. (2nd hand)",Urban,0.41
+SK,Sikkim,37,"@books, journals, etc. (2nd hand)",Urban,0.69
+TN,Tamil Nadu,37,"@books, journals, etc. (2nd hand)",Urban,0.25
+OR,Odisha,38,"$durables (2ndhand)",Urban,1.58
+PB,Punjab,38,"$durables (2ndhand)",Urban,2.08
+RJ,Rajasthan,38,"$durables (2ndhand)",Urban,1.54
+SK,Sikkim,38,"$durables (2ndhand)",Urban,0
+TN,Tamil Nadu,38,"$durables (2ndhand)",Urban,3.7
+OR,Odisha,39,imputed rent,Urban,423.64
+PB,Punjab,39,imputed rent,Urban,764.06
+RJ,Rajasthan,39,imputed rent,Urban,721.33
+SK,Sikkim,39,imputed rent,Urban,4.68
+TN,Tamil Nadu,39,imputed rent,Urban,578.13
+TG,Telangana,1,cereal,Urban,345.83
+TR,Tripura,1,cereal,Urban,291.41
+UT,Uttarakhand,1,cereal,Urban,258.52
+UP,Uttar Pradesh,1,cereal,Urban,204.55
+WB,West Bengal,1,cereal,Urban,251.97
+TG,Telangana,2,gram,Urban,0.75
+TR,Tripura,2,gram,Urban,0.41
+UT,Uttarakhand,2,gram,Urban,7.52
+UP,Uttar Pradesh,2,gram,Urban,4.22
+WB,West Bengal,2,gram,Urban,1.73
+TG,Telangana,3,cereal substitutes,Urban,0.06
+TR,Tripura,3,cereal substitutes,Urban,0.03
+UT,Uttarakhand,3,cereal substitutes,Urban,0.84
+UP,Uttar Pradesh,3,cereal substitutes,Urban,0.28
+WB,West Bengal,3,cereal substitutes,Urban,0.15
+TG,Telangana,4,pulses and pulse products,Urban,71.75
+TR,Tripura,4,pulses and pulse products,Urban,52.28
+UT,Uttarakhand,4,pulses and pulse products,Urban,68.37
+UP,Uttar Pradesh,4,pulses and pulse products,Urban,61.69
+WB,West Bengal,4,pulses and pulse products,Urban,49.23
+TG,Telangana,5,milk and milk products,Urban,220.46
+TR,Tripura,5,milk and milk products,Urban,124.32
+UT,Uttarakhand,5,milk and milk products,Urban,401.43
+UP,Uttar Pradesh,5,milk and milk products,Urban,312.14
+WB,West Bengal,5,milk and milk products,Urban,122.79
+TG,Telangana,6,sugar,Urban,27.84
+TR,Tripura,6,sugar,Urban,22.19
+UT,Uttarakhand,6,sugar,Urban,35.16
+UP,Uttar Pradesh,6,sugar,Urban,35.76
+WB,West Bengal,6,sugar,Urban,22.46
+TG,Telangana,7,salt,Urban,4.02
+TR,Tripura,7,salt,Urban,6.44
+UT,Uttarakhand,7,salt,Urban,3.88
+UP,Uttar Pradesh,7,salt,Urban,3.2
+WB,West Bengal,7,salt,Urban,4.08
+TG,Telangana,8,edible oil,Urban,86.55
+TR,Tripura,8,edible oil,Urban,95.28
+UT,Uttarakhand,8,edible oil,Urban,69.33
+UP,Uttar Pradesh,8,edible oil,Urban,76.35
+WB,West Bengal,8,edible oil,Urban,97.58
+TG,Telangana,9,"egg, fish & meat",Urban,227.54
+TR,Tripura,9,"egg, fish & meat",Urban,549.99
+UT,Uttarakhand,9,"egg, fish & meat",Urban,100.36
+UP,Uttar Pradesh,9,"egg, fish & meat",Urban,65.61
+WB,West Bengal,9,"egg, fish & meat",Urban,343.71
+TG,Telangana,10,vegetables,Urban,201.95
+TR,Tripura,10,vegetables,Urban,293.07
+UT,Uttarakhand,10,vegetables,Urban,182.27
+UP,Uttar Pradesh,10,vegetables,Urban,154.77
+WB,West Bengal,10,vegetables,Urban,200.19
+TG,Telangana,11,fruits (fresh),Urban,105.13
+TR,Tripura,11,fruits (fresh),Urban,90.06
+UT,Uttarakhand,11,fruits (fresh),Urban,106.65
+UP,Uttar Pradesh,11,fruits (fresh),Urban,72.52
+WB,West Bengal,11,fruits (fresh),Urban,94
+TG,Telangana,12,fruits (dry),Urban,33.79
+TR,Tripura,12,fruits (dry),Urban,7.41
+UT,Uttarakhand,12,fruits (dry),Urban,47.76
+UP,Uttar Pradesh,12,fruits (dry),Urban,35.53
+WB,West Bengal,12,fruits (dry),Urban,17.61
+TG,Telangana,13,spices,Urban,86.87
+TR,Tripura,13,spices,Urban,60.69
+UT,Uttarakhand,13,spices,Urban,65.89
+UP,Uttar Pradesh,13,spices,Urban,69.14
+WB,West Bengal,13,spices,Urban,68.31
+TG,Telangana,14,"beverages, refreshments, etc.",Urban,390.3
+TR,Tripura,14,"beverages, refreshments, etc.",Urban,218.57
+UT,Uttarakhand,14,"beverages, refreshments, etc.",Urban,320.79
+UP,Uttar Pradesh,14,"beverages, refreshments, etc.",Urban,240.71
+WB,West Bengal,14,"beverages, refreshments, etc.",Urban,370.14
+TG,Telangana,15,food: total (1-14),Urban,1802.85
+TR,Tripura,15,food: total (1-14),Urban,1812.13
+UT,Uttarakhand,15,food: total (1-14),Urban,1668.77
+UP,Uttar Pradesh,15,food: total (1-14),Urban,1336.45
+WB,West Bengal,15,food: total (1-14),Urban,1643.95
+TG,Telangana,16,"pan, tobacco & intoxicants",Urban,109.08
+TR,Tripura,16,"pan, tobacco & intoxicants",Urban,150.02
+UT,Uttarakhand,16,"pan, tobacco & intoxicants",Urban,108.1
+UP,Uttar Pradesh,16,"pan, tobacco & intoxicants",Urban,43.66
+WB,West Bengal,16,"pan, tobacco & intoxicants",Urban,64.83
+TG,Telangana,17,fuel and light,Urban,205.55
+TR,Tripura,17,fuel and light,Urban,291.79
+UT,Uttarakhand,17,fuel and light,Urban,247.86
+UP,Uttar Pradesh,17,fuel and light,Urban,267.04
+WB,West Bengal,17,fuel and light,Urban,293.49
+TG,Telangana,18,clothing & bedding,Urban,336.9
+TR,Tripura,18,clothing & bedding,Urban,241.32
+UT,Uttarakhand,18,clothing & bedding,Urban,244.37
+UP,Uttar Pradesh,18,clothing & bedding,Urban,186.48
+WB,West Bengal,18,clothing & bedding,Urban,216.78
+TG,Telangana,19,footwear,Urban,49.66
+TR,Tripura,19,footwear,Urban,31.55
+UT,Uttarakhand,19,footwear,Urban,54.98
+UP,Uttar Pradesh,19,footwear,Urban,35.27
+WB,West Bengal,19,footwear,Urban,30.43
+TG,Telangana,20,education,Urban,338.56
+TR,Tripura,20,education,Urban,334.46
+UT,Uttarakhand,20,education,Urban,285.9
+UP,Uttar Pradesh,20,education,Urban,267.57
+WB,West Bengal,20,education,Urban,244.93
+TG,Telangana,21,medical (institutional),Urban,40.21
+TR,Tripura,21,medical (institutional),Urban,22.83
+UT,Uttarakhand,21,medical (institutional),Urban,10.62
+UP,Uttar Pradesh,21,medical (institutional),Urban,53.37
+WB,West Bengal,21,medical (institutional),Urban,86.55
+TG,Telangana,22,medical (non-institutional),Urban,82.45
+TR,Tripura,22,medical (non-institutional),Urban,159.89
+UT,Uttarakhand,22,medical (non-institutional),Urban,57.19
+UP,Uttar Pradesh,22,medical (non-institutional),Urban,103.62
+WB,West Bengal,22,medical (non-institutional),Urban,203.64
+TG,Telangana,23,entertainment,Urban,109.4
+TR,Tripura,23,entertainment,Urban,59.33
+UT,Uttarakhand,23,entertainment,Urban,82.36
+UP,Uttar Pradesh,23,entertainment,Urban,50.62
+WB,West Bengal,23,entertainment,Urban,72.49
+TG,Telangana,24,minor durable-type goods,Urban,24.07
+TR,Tripura,24,minor durable-type goods,Urban,30.32
+UT,Uttarakhand,24,minor durable-type goods,Urban,16.63
+UP,Uttar Pradesh,24,minor durable-type goods,Urban,9
+WB,West Bengal,24,minor durable-type goods,Urban,11.49
+TG,Telangana,25,toilet articles,Urban,93.13
+TR,Tripura,25,toilet articles,Urban,60.09
+UT,Uttarakhand,25,toilet articles,Urban,63.43
+UP,Uttar Pradesh,25,toilet articles,Urban,54.8
+WB,West Bengal,25,toilet articles,Urban,66.53
+TG,Telangana,26,other household consumables,Urban,81.16
+TR,Tripura,26,other household consumables,Urban,47.7
+UT,Uttarakhand,26,other household consumables,Urban,58.1
+UP,Uttar Pradesh,26,other household consumables,Urban,50.26
+WB,West Bengal,26,other household consumables,Urban,53.18
+TG,Telangana,27,consum. services excl. conveyance,Urban,236.42
+TR,Tripura,27,consum. services excl. conveyance,Urban,191.27
+UT,Uttarakhand,27,consum. services excl. conveyance,Urban,284.2
+UP,Uttar Pradesh,27,consum. services excl. conveyance,Urban,152.87
+WB,West Bengal,27,consum. services excl. conveyance,Urban,189.35
+TG,Telangana,28,conveyance,Urban,336.37
+TR,Tripura,28,conveyance,Urban,244.52
+UT,Uttarakhand,28,conveyance,Urban,309.92
+UP,Uttar Pradesh,28,conveyance,Urban,185.71
+WB,West Bengal,28,conveyance,Urban,182.04
+TG,Telangana,29,rent,Urban,660.75
+TR,Tripura,29,rent,Urban,76.44
+UT,Uttarakhand,29,rent,Urban,124.51
+UP,Uttar Pradesh,29,rent,Urban,115.38
+WB,West Bengal,29,rent,Urban,117.3
+TG,Telangana,30,taxes & cesses,Urban,33.37
+TR,Tripura,30,taxes & cesses,Urban,14.78
+UT,Uttarakhand,30,taxes & cesses,Urban,29.25
+UP,Uttar Pradesh,30,taxes & cesses,Urban,15.79
+WB,West Bengal,30,taxes & cesses,Urban,8.48
+TG,Telangana,31,durable goods,Urban,243.57
+TR,Tripura,31,durable goods,Urban,191.83
+UT,Uttarakhand,31,durable goods,Urban,294.59
+UP,Uttar Pradesh,31,durable goods,Urban,174.84
+WB,West Bengal,31,durable goods,Urban,177.79
+TG,Telangana,32,non-food: total (16-31),Urban,2980.64
+TR,Tripura,32,non-food: total (16-31),Urban,2148.15
+UT,Uttarakhand,32,non-food: total (16-31),Urban,2272.02
+UP,Uttar Pradesh,32,non-food: total (16-31),Urban,1766.28
+WB,West Bengal,32,non-food: total (16-31),Urban,2019.29
+TG,Telangana,33,total expenditure (15+32),Urban,4783.49
+TR,Tripura,33,total expenditure (15+32),Urban,3960.28
+UT,Uttarakhand,33,total expenditure (15+32),Urban,3940.79
+UP,Uttar Pradesh,33,total expenditure (15+32),Urban,3102.73
+WB,West Bengal,33,total expenditure (15+32),Urban,3663.23
+TG,Telangana,34,"cooked meals recd. free inworkpl.*",Urban,2.11
+TR,Tripura,34,"cooked meals recd. free inworkpl.*",Urban,3
+UT,Uttarakhand,34,"cooked meals recd. free inworkpl.*",Urban,0.02
+UP,Uttar Pradesh,34,"cooked meals recd. free inworkpl.*",Urban,1.38
+WB,West Bengal,34,"cooked meals recd. free inworkpl.*",Urban,6.2
+TG,Telangana,35,cooked meals recd. as assistance *,Urban,6.25
+TR,Tripura,35,cooked meals recd. as assistance *,Urban,21.66
+UT,Uttarakhand,35,cooked meals recd. as assistance *,Urban,4.1
+UP,Uttar Pradesh,35,cooked meals recd. as assistance *,Urban,5.83
+WB,West Bengal,35,cooked meals recd. as assistance *,Urban,16.22
+TG,Telangana,36,clothing & footwear (2nd hand) **,Urban,1.54
+TR,Tripura,36,clothing & footwear (2nd hand) **,Urban,0.23
+UT,Uttarakhand,36,clothing & footwear (2nd hand) **,Urban,0.27
+UP,Uttar Pradesh,36,clothing & footwear (2nd hand) **,Urban,0.1
+WB,West Bengal,36,clothing & footwear (2nd hand) **,Urban,0.14
+TG,Telangana,37,"@books, journals, etc. (2nd hand)",Urban,1.44
+TR,Tripura,37,"@books, journals, etc. (2nd hand)",Urban,1.49
+UT,Uttarakhand,37,"@books, journals, etc. (2nd hand)",Urban,1.47
+UP,Uttar Pradesh,37,"@books, journals, etc. (2nd hand)",Urban,0.67
+WB,West Bengal,37,"@books, journals, etc. (2nd hand)",Urban,0.82
+TG,Telangana,38,"$durables (2ndhand)",Urban,3.92
+TR,Tripura,38,"$durables (2ndhand)",Urban,0.18
+UT,Uttarakhand,38,"$durables (2ndhand)",Urban,1.3
+UP,Uttar Pradesh,38,"$durables (2ndhand)",Urban,2.13
+WB,West Bengal,38,"$durables (2ndhand)",Urban,1.09
+TG,Telangana,39,imputed rent,Urban,433.37
+TR,Tripura,39,imputed rent,Urban,644.98
+UT,Uttarakhand,39,imputed rent,Urban,782.39
+UP,Uttar Pradesh,39,imputed rent,Urban,572.65
+WB,West Bengal,39,imputed rent,Urban,684.14
+AN,Andaman & Nicobar Islands,1,cereal,Urban,255.57
+CH,Chandigarh,1,cereal,Urban,307.37
+DN,Dadra & Nagar Haveli,1,cereal,Urban,241.23
+DD,Daman & Diu,1,cereal,Urban,286.63
+LK,Lakshadweep,1,cereal,Urban,151.93
+AN,Andaman & Nicobar Islands,2,gram,Urban,2.07
+CH,Chandigarh,2,gram,Urban,11.19
+DN,Dadra & Nagar Haveli,2,gram,Urban,4.47
+DD,Daman & Diu,2,gram,Urban,2.9
+LK,Lakshadweep,2,gram,Urban,18.15
+AN,Andaman & Nicobar Islands,3,cereal substitutes,Urban,0.21
+CH,Chandigarh,3,cereal substitutes,Urban,0
+DN,Dadra & Nagar Haveli,3,cereal substitutes,Urban,0
+DD,Daman & Diu,3,cereal substitutes,Urban,0
+LK,Lakshadweep,3,cereal substitutes,Urban,4.04
+AN,Andaman & Nicobar Islands,4,pulses and pulse products,Urban,84.3
+CH,Chandigarh,4,pulses and pulse products,Urban,85.18
+DN,Dadra & Nagar Haveli,4,pulses and pulse products,Urban,87.47
+DD,Daman & Diu,4,pulses and pulse products,Urban,68.73
+LK,Lakshadweep,4,pulses and pulse products,Urban,71.04
+AN,Andaman & Nicobar Islands,5,milk and milk products,Urban,191.71
+CH,Chandigarh,5,milk and milk products,Urban,660.66
+DN,Dadra & Nagar Haveli,5,milk and milk products,Urban,232.08
+DD,Daman & Diu,5,milk and milk products,Urban,337.17
+LK,Lakshadweep,5,milk and milk products,Urban,39.26
+AN,Andaman & Nicobar Islands,6,sugar,Urban,34.89
+CH,Chandigarh,6,sugar,Urban,43.14
+DN,Dadra & Nagar Haveli,6,sugar,Urban,28.56
+DD,Daman & Diu,6,sugar,Urban,32.06
+LK,Lakshadweep,6,sugar,Urban,34.63
+AN,Andaman & Nicobar Islands,7,salt,Urban,4.7
+CH,Chandigarh,7,salt,Urban,4.49
+DN,Dadra & Nagar Haveli,7,salt,Urban,3.06
+DD,Daman & Diu,7,salt,Urban,2.83
+LK,Lakshadweep,7,salt,Urban,4.45
+AN,Andaman & Nicobar Islands,8,edible oil,Urban,150.67
+CH,Chandigarh,8,edible oil,Urban,121.7
+DN,Dadra & Nagar Haveli,8,edible oil,Urban,100.19
+DD,Daman & Diu,8,edible oil,Urban,92.03
+LK,Lakshadweep,8,edible oil,Urban,85.57
+AN,Andaman & Nicobar Islands,9,"egg, fish & meat",Urban,319.87
+CH,Chandigarh,9,"egg, fish & meat",Urban,132.49
+DN,Dadra & Nagar Haveli,9,"egg, fish & meat",Urban,29.06
+DD,Daman & Diu,9,"egg, fish & meat",Urban,111.23
+LK,Lakshadweep,9,"egg, fish & meat",Urban,470.79
+AN,Andaman & Nicobar Islands,10,vegetables,Urban,346.87
+CH,Chandigarh,10,vegetables,Urban,262.18
+DN,Dadra & Nagar Haveli,10,vegetables,Urban,177.61
+DD,Daman & Diu,10,vegetables,Urban,176.43
+LK,Lakshadweep,10,vegetables,Urban,147.09
+AN,Andaman & Nicobar Islands,11,fruits (fresh),Urban,204.35
+CH,Chandigarh,11,fruits (fresh),Urban,194.63
+DN,Dadra & Nagar Haveli,11,fruits (fresh),Urban,103.49
+DD,Daman & Diu,11,fruits (fresh),Urban,76.01
+LK,Lakshadweep,11,fruits (fresh),Urban,123.97
+AN,Andaman & Nicobar Islands,12,fruits (dry),Urban,57.56
+CH,Chandigarh,12,fruits (dry),Urban,142.01
+DN,Dadra & Nagar Haveli,12,fruits (dry),Urban,35.73
+DD,Daman & Diu,12,fruits (dry),Urban,36.92
+LK,Lakshadweep,12,fruits (dry),Urban,23.6
+AN,Andaman & Nicobar Islands,13,spices,Urban,142.55
+CH,Chandigarh,13,spices,Urban,104.31
+DN,Dadra & Nagar Haveli,13,spices,Urban,101.3
+DD,Daman & Diu,13,spices,Urban,77.66
+LK,Lakshadweep,13,spices,Urban,99.19
+AN,Andaman & Nicobar Islands,14,"beverages, refreshments, etc.",Urban,488.39
+CH,Chandigarh,14,"beverages, refreshments, etc.",Urban,778.2
+DN,Dadra & Nagar Haveli,14,"beverages, refreshments, etc.",Urban,365.25
+DD,Daman & Diu,14,"beverages, refreshments, etc.",Urban,466.76
+LK,Lakshadweep,14,"beverages, refreshments, etc.",Urban,390.47
+AN,Andaman & Nicobar Islands,15,food: total (1-14),Urban,2283.72
+CH,Chandigarh,15,food: total (1-14),Urban,2847.55
+DN,Dadra & Nagar Haveli,15,food: total (1-14),Urban,1509.49
+DD,Daman & Diu,15,food: total (1-14),Urban,1767.36
+LK,Lakshadweep,15,food: total (1-14),Urban,1664.17
+AN,Andaman & Nicobar Islands,16,"pan, tobacco & intoxicants",Urban,129.56
+CH,Chandigarh,16,"pan, tobacco & intoxicants",Urban,55.64
+DN,Dadra & Nagar Haveli,16,"pan, tobacco & intoxicants",Urban,52.43
+DD,Daman & Diu,16,"pan, tobacco & intoxicants",Urban,81.85
+LK,Lakshadweep,16,"pan, tobacco & intoxicants",Urban,130.17
+AN,Andaman & Nicobar Islands,17,fuel and light,Urban,302.39
+CH,Chandigarh,17,fuel and light,Urban,604.7
+DN,Dadra & Nagar Haveli,17,fuel and light,Urban,189.4
+DD,Daman & Diu,17,fuel and light,Urban,181.72
+LK,Lakshadweep,17,fuel and light,Urban,210.2
+AN,Andaman & Nicobar Islands,18,clothing & bedding,Urban,253.71
+CH,Chandigarh,18,clothing & bedding,Urban,345.38
+DN,Dadra & Nagar Haveli,18,clothing & bedding,Urban,201.19
+DD,Daman & Diu,18,clothing & bedding,Urban,223.93
+LK,Lakshadweep,18,clothing & bedding,Urban,291.75
+AN,Andaman & Nicobar Islands,19,footwear,Urban,49.79
+CH,Chandigarh,19,footwear,Urban,79.44
+DN,Dadra & Nagar Haveli,19,footwear,Urban,57.65
+DD,Daman & Diu,19,footwear,Urban,49.62
+LK,Lakshadweep,19,footwear,Urban,49.42
+AN,Andaman & Nicobar Islands,20,education,Urban,161
+CH,Chandigarh,20,education,Urban,623.01
+DN,Dadra & Nagar Haveli,20,education,Urban,288.48
+DD,Daman & Diu,20,education,Urban,185.75
+LK,Lakshadweep,20,education,Urban,36.17
+AN,Andaman & Nicobar Islands,21,medical (institutional),Urban,37.36
+CH,Chandigarh,21,medical (institutional),Urban,47.12
+DN,Dadra & Nagar Haveli,21,medical (institutional),Urban,49.84
+DD,Daman & Diu,21,medical (institutional),Urban,2.88
+LK,Lakshadweep,21,medical (institutional),Urban,64.92
+AN,Andaman & Nicobar Islands,22,medical (non-institutional),Urban,80.25
+CH,Chandigarh,22,medical (non-institutional),Urban,147.02
+DN,Dadra & Nagar Haveli,22,medical (non-institutional),Urban,46.23
+DD,Daman & Diu,22,medical (non-institutional),Urban,55.4
+LK,Lakshadweep,22,medical (non-institutional),Urban,25.05
+AN,Andaman & Nicobar Islands,23,entertainment,Urban,119.01
+CH,Chandigarh,23,entertainment,Urban,139.16
+DN,Dadra & Nagar Haveli,23,entertainment,Urban,54.5
+DD,Daman & Diu,23,entertainment,Urban,82.49
+LK,Lakshadweep,23,entertainment,Urban,53.5
+AN,Andaman & Nicobar Islands,24,minor durable-type goods,Urban,35.92
+CH,Chandigarh,24,minor durable-type goods,Urban,10.69
+DN,Dadra & Nagar Haveli,24,minor durable-type goods,Urban,13.09
+DD,Daman & Diu,24,minor durable-type goods,Urban,38.04
+LK,Lakshadweep,24,minor durable-type goods,Urban,24.38
+AN,Andaman & Nicobar Islands,25,toilet articles,Urban,143.58
+CH,Chandigarh,25,toilet articles,Urban,139.88
+DN,Dadra & Nagar Haveli,25,toilet articles,Urban,95.27
+DD,Daman & Diu,25,toilet articles,Urban,94.35
+LK,Lakshadweep,25,toilet articles,Urban,63.28
+AN,Andaman & Nicobar Islands,26,other household consumables,Urban,100.17
+CH,Chandigarh,26,other household consumables,Urban,107.97
+DN,Dadra & Nagar Haveli,26,other household consumables,Urban,56.36
+DD,Daman & Diu,26,other household consumables,Urban,56.95
+LK,Lakshadweep,26,other household consumables,Urban,44.48
+AN,Andaman & Nicobar Islands,27,consum. services excl. conveyance,Urban,225.94
+CH,Chandigarh,27,consum. services excl. conveyance,Urban,546.78
+DN,Dadra & Nagar Haveli,27,consum. services excl. conveyance,Urban,140.09
+DD,Daman & Diu,27,consum. services excl. conveyance,Urban,184.97
+LK,Lakshadweep,27,consum. services excl. conveyance,Urban,126.85
+AN,Andaman & Nicobar Islands,28,conveyance,Urban,492.74
+CH,Chandigarh,28,conveyance,Urban,738.81
+DN,Dadra & Nagar Haveli,28,conveyance,Urban,255.69
+DD,Daman & Diu,28,conveyance,Urban,219.86
+LK,Lakshadweep,28,conveyance,Urban,208.81
+AN,Andaman & Nicobar Islands,29,rent,Urban,617.11
+CH,Chandigarh,29,rent,Urban,774.64
+DN,Dadra & Nagar Haveli,29,rent,Urban,325.58
+DD,Daman & Diu,29,rent,Urban,561.98
+LK,Lakshadweep,29,rent,Urban,111.7
+AN,Andaman & Nicobar Islands,30,taxes & cesses,Urban,16.62
+CH,Chandigarh,30,taxes & cesses,Urban,61.65
+DN,Dadra & Nagar Haveli,30,taxes & cesses,Urban,8.28
+DD,Daman & Diu,30,taxes & cesses,Urban,26.98
+LK,Lakshadweep,30,taxes & cesses,Urban,2.82
+AN,Andaman & Nicobar Islands,31,durable goods,Urban,268.67
+CH,Chandigarh,31,durable goods,Urban,228.78
+DN,Dadra & Nagar Haveli,31,durable goods,Urban,158.96
+DD,Daman & Diu,31,durable goods,Urban,217.94
+LK,Lakshadweep,31,durable goods,Urban,153.87
+AN,Andaman & Nicobar Islands,32,non-food: total (16-31),Urban,3033.84
+CH,Chandigarh,32,non-food: total (16-31),Urban,4650.68
+DN,Dadra & Nagar Haveli,32,non-food: total (16-31),Urban,1993.04
+DD,Daman & Diu,32,non-food: total (16-31),Urban,2264.73
+LK,Lakshadweep,32,non-food: total (16-31),Urban,1597.39
+AN,Andaman & Nicobar Islands,33,total expenditure (15+32),Urban,5317.56
+CH,Chandigarh,33,total expenditure (15+32),Urban,7498.23
+DN,Dadra & Nagar Haveli,33,total expenditure (15+32),Urban,3502.54
+DD,Daman & Diu,33,total expenditure (15+32),Urban,4032.09
+LK,Lakshadweep,33,total expenditure (15+32),Urban,3261.56
+AN,Andaman & Nicobar Islands,34,"cooked meals recd. free inworkpl.*",Urban,16.72
+CH,Chandigarh,34,"cooked meals recd. free inworkpl.*",Urban,1.01
+DN,Dadra & Nagar Haveli,34,"cooked meals recd. free inworkpl.*",Urban,7.48
+DD,Daman & Diu,34,"cooked meals recd. free inworkpl.*",Urban,0.79
+LK,Lakshadweep,34,"cooked meals recd. free inworkpl.*",Urban,9.45
+AN,Andaman & Nicobar Islands,35,cooked meals recd. as assistance *,Urban,33.3
+CH,Chandigarh,35,cooked meals recd. as assistance *,Urban,3.3
+DN,Dadra & Nagar Haveli,35,cooked meals recd. as assistance *,Urban,10.56
+DD,Daman & Diu,35,cooked meals recd. as assistance *,Urban,2.84
+LK,Lakshadweep,35,cooked meals recd. as assistance *,Urban,45.18
+AN,Andaman & Nicobar Islands,36,clothing & footwear (2nd hand) **,Urban,0
+CH,Chandigarh,36,clothing & footwear (2nd hand) **,Urban,0.25
+DN,Dadra & Nagar Haveli,36,clothing & footwear (2nd hand) **,Urban,0
+DD,Daman & Diu,36,clothing & footwear (2nd hand) **,Urban,0
+LK,Lakshadweep,36,clothing & footwear (2nd hand) **,Urban,0
+AN,Andaman & Nicobar Islands,37,"@books, journals, etc. (2nd hand)",Urban,0.89
+CH,Chandigarh,37,"@books, journals, etc. (2nd hand)",Urban,0.61
+DN,Dadra & Nagar Haveli,37,"@books, journals, etc. (2nd hand)",Urban,0
+DD,Daman & Diu,37,"@books, journals, etc. (2nd hand)",Urban,0
+LK,Lakshadweep,37,"@books, journals, etc. (2nd hand)",Urban,0
+AN,Andaman & Nicobar Islands,38,"$durables (2ndhand)",Urban,0.03
+CH,Chandigarh,38,"$durables (2ndhand)",Urban,1.38
+DN,Dadra & Nagar Haveli,38,"$durables (2ndhand)",Urban,0
+DD,Daman & Diu,38,"$durables (2ndhand)",Urban,13.29
+LK,Lakshadweep,38,"$durables (2ndhand)",Urban,0.62
+AN,Andaman & Nicobar Islands,39,imputed rent,Urban,498.49
+CH,Chandigarh,39,imputed rent,Urban,1235.04
+DN,Dadra & Nagar Haveli,39,imputed rent,Urban,384.37
+DD,Daman & Diu,39,imputed rent,Urban,437.87
+LK,Lakshadweep,39,imputed rent,Urban,707.2
+PY,Puducherry,1,cereal,Urban,272.68
+IN,India,1,cereal,Urban,230.89
+PY,Puducherry,2,gram,Urban,9.35
+IN,India,2,gram,Urban,4.45
+PY,Puducherry,3,cereal substitutes,Urban,0.43
+IN,India,3,cereal substitutes,Urban,1.37
+PY,Puducherry,4,pulses and pulse products,Urban,91.48
+IN,India,4,pulses and pulse products,Urban,60.9
+PY,Puducherry,5,milk and milk products,Urban,235.4
+IN,India,5,milk and milk products,Urban,284.13
+PY,Puducherry,6,sugar,Urban,34.22
+IN,India,6,sugar,Urban,31.79
+PY,Puducherry,7,salt,Urban,5.45
+IN,India,7,salt,Urban,3.48
+PY,Puducherry,8,edible oil,Urban,125.63
+IN,India,8,edible oil,Urban,83.53
+PY,Puducherry,9,"egg, fish & meat",Urban,249.48
+IN,India,9,"egg, fish & meat",Urban,156.15
+PY,Puducherry,10,vegetables,Urban,195.02
+IN,India,10,vegetables,Urban,178.39
+PY,Puducherry,11,fruits (fresh),Urban,156.44
+IN,India,11,fruits (fresh),Urban,110.79
+PY,Puducherry,12,fruits (dry),Urban,51.65
+IN,India,12,fruits (dry),Urban,41.97
+PY,Puducherry,13,spices,Urban,134.44
+IN,India,13,spices,Urban,80.7
+PY,Puducherry,14,"beverages, refreshments, etc.",Urban,323.8
+IN,India,14,"beverages, refreshments, etc.",Urban,349.18
+PY,Puducherry,15,food: total (1-14),Urban,1885.47
+IN,India,15,food: total (1-14),Urban,1617.7
+PY,Puducherry,16,"pan, tobacco & intoxicants",Urban,52.78
+IN,India,16,"pan, tobacco & intoxicants",Urban,61.94
+PY,Puducherry,17,fuel and light,Urban,260.32
+IN,India,17,fuel and light,Urban,271.75
+PY,Puducherry,18,clothing & bedding,Urban,241.78
+IN,India,18,clothing & bedding,Urban,220.85
+PY,Puducherry,19,footwear,Urban,31.46
+IN,India,19,footwear,Urban,40.5
+PY,Puducherry,20,education,Urban,412.16
+IN,India,20,education,Urban,286.48
+PY,Puducherry,21,medical (institutional),Urban,64.01
+IN,India,21,medical (institutional),Urban,51.33
+PY,Puducherry,22,medical (non-institutional),Urban,108.04
+IN,India,22,medical (non-institutional),Urban,104.75
+PY,Puducherry,23,entertainment,Urban,79.11
+IN,India,23,entertainment,Urban,72.29
+PY,Puducherry,24,minor durable-type goods,Urban,7.42
+IN,India,24,minor durable-type goods,Urban,15.01
+PY,Puducherry,25,toilet articles,Urban,100.55
+IN,India,25,toilet articles,Urban,70.82
+PY,Puducherry,26,other household consumables,Urban,86.22
+IN,India,26,other household consumables,Urban,64.7
+PY,Puducherry,27,consum. services excl. conveyance,Urban,216.95
+IN,India,27,consum. services excl. conveyance,Urban,198.65
+PY,Puducherry,28,conveyance,Urban,428.26
+IN,India,28,conveyance,Urban,269.76
+PY,Puducherry,29,rent,Urban,156.6
+IN,India,29,rent,Urban,275.34
+PY,Puducherry,30,taxes & cesses,Urban,51.5
+IN,India,30,taxes & cesses,Urban,31.96
+PY,Puducherry,31,durable goods,Urban,116.36
+IN,India,31,durable goods,Urban,204.87
+PY,Puducherry,32,non-food: total (16-31),Urban,2413.51
+IN,India,32,non-food: total (16-31),Urban,2240.99
+PY,Puducherry,33,total expenditure (15+32),Urban,4298.98
+IN,India,33,total expenditure (15+32),Urban,3858.7
+PY,Puducherry,34,"cooked meals recd. free inworkpl.*",Urban,4.94
+IN,India,34,"cooked meals recd. free inworkpl.*",Urban,9.56
+PY,Puducherry,35,cooked meals recd. as assistance *,Urban,6.22
+IN,India,35,cooked meals recd. as assistance *,Urban,12.68
+PY,Puducherry,36,clothing & footwear (2nd hand) **,Urban,0.24
+IN,India,36,clothing & footwear (2nd hand) **,Urban,0.43
+PY,Puducherry,37,"@books, journals, etc. (2nd hand)",Urban,0.31
+IN,India,37,"@books, journals, etc. (2nd hand)",Urban,0.8
+PY,Puducherry,38,"$durables (2ndhand)",Urban,2.46
+IN,India,38,"$durables (2ndhand)",Urban,2.42
+PY,Puducherry,39,imputed rent,Urban,807.35
+IN,India,39,imputed rent,Urban,742.05
