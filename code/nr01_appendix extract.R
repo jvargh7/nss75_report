@@ -1,4 +1,3 @@
-
 # Function to parse district factsheets
 require(tidyverse)
 source("code/nr_functions.R")
@@ -7,11 +6,11 @@ nss75_mapping <- readxl::read_excel("code/NSS75 Variable List.xlsx",sheet="nss75
 nss75_variables <- readxl::read_excel("code/NSS75 Variable List.xlsx",sheet="variables")
 
 table1 <- map2_dfr(c(0,1),c("Rural","Urban"),
-                  function(p,t){
-                    nss75_read(p,t)
-                    
-                  }
-                  ) %>% 
+                   function(p,t){
+                     nss75_read(p,t)
+                     
+                   }
+) %>% 
   left_join(nss75_mapping,
             by=c("STATE"="nss75_state")) %>% 
   dplyr::select(-STATE) %>% 
@@ -21,7 +20,7 @@ table1 <- map2_dfr(c(0,1),c("Rural","Urban"),
 table2 <- map2_dfr(c(2,3),c("Rural","Urban"),
                    function(p,t){
                      nss75_read(p,t) %>% 
-                     mutate_at(vars(starts_with("P")),~as.numeric(.))
+                       mutate_at(vars(starts_with("P")),~as.numeric(.))
                      
                    }
 ) %>% 
